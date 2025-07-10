@@ -27,7 +27,8 @@ if not ((X_encoded.values >= 0).all() and (X_encoded.values <= 1).all()):
     X_encoded = pd.DataFrame(scaler.fit_transform(X_encoded), columns=X_encoded.columns)
 
 # (500,28) shape의 tensor로 변환
-X_tensor = torch.tensor(X_encoded.values, dtype=torch.float32)
+X_tensor = torch.tensor(X_encoded.values, dtype=torch.float32) 
+
 
 
 # 2. Autoencoder 정의
