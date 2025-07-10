@@ -67,7 +67,7 @@ model = Autoencoder(input_dim=X_tensor.shape[1], latent_dim=32)
 criterion = nn.BCELoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-n_epochs = 50
+n_epochs = 100
 for epoch in range(n_epochs):
     model.train()
     optimizer.zero_grad()

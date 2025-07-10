@@ -16,10 +16,11 @@ class PerfumeDataset(Dataset):
             id_vars="user_id", value_vars=note_cols,
             var_name="note", value_name="liked"
         )
+      
 
         # 사용자 특성과 향조 병합
         merged = pd.merge(features_df, long_df, on="user_id")
-
+        
         # 입력 X, 타겟 y (liked: 1 or 0) 생성
         self.X_raw = merged[["age_group", "gender", "season", "freq_use", "time", "style", "color", "note"]]
         self.y = merged["liked"].values.astype('float32')
