@@ -139,8 +139,8 @@ class MovieLens:
 
     movieID_to_name = {}
     name_to_movieID = {}
-    ratingsPath = 'C:/Users/ADMIN/Desktop/Data/AI perfume/Model comparison/AE/data/ratings.csv'
-    moviesPath = 'C:/Users/ADMIN/Desktop/Data/AI perfume/Model comparison/AE/data/movies.csv'
+    ratingsPath = 'C:/Users/ADMIN/Desktop/Data/AI perfume/Model comparison/AE/data/movie/ratings.csv'
+    moviesPath = 'C:/Users/ADMIN/Desktop/Data/AI perfume/Model comparison/AE/data/movie/movies.csv'
     def loadMovieLensLatestSmall(self):
 
         # Look for files relative to the directory we are running from
