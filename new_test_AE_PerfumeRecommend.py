@@ -6,10 +6,11 @@ from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # 1. 데이터 로딩
+# features_df: 사용자 특성, notes_df: 사용자 선호 향조 
 features_df = pd.read_csv("C:/Users/ADMIN/Desktop/Data/AI perfume/Model comparison/AE/data/pickply_user_features.csv")
 notes_df = pd.read_csv("C:/Users/ADMIN/Desktop/Data/AI perfume/Model comparison/AE/data/pickply_user_to_notes.csv")
 
-# 2. null 값 방지 및 공백 제거 및 리스트 분리 
+# 2. null 값 방지 및 공백 제거 및 리스트 분리 -> multi-hot encoding
 features_df['style'] = features_df['style'].fillna('').str.replace(" ", "").str.split(",")
 features_df['color'] = features_df['color'].fillna('').str.replace(" ", "").str.split(",")
 
@@ -32,11 +33,12 @@ mlb_note = MultiLabelBinarizer()
 note_encoded = pd.DataFrame(mlb_note.fit_transform(notes_df['notes']), columns=mlb_note.classes_)
 note_encoded["user_id"] = notes_df["user_id"]
 
-# 6. 병합
+# 6. 사용자 정보와 향조 정보 병합
 merged_df = pd.merge(final_features, note_encoded, on="user_id")
 note_cols = mlb_note.classes_.tolist()
 
-# 7. Autoencoder 입력 생성
+# 7. Autoencoder 입력 생성: 향조 정보는 label이므로 drop
+# 입력 텐서 생성 
 X_raw = merged_df.drop(columns=["user_id"] + note_cols)
 X_raw = X_raw.astype(float)
 X_tensor = torch.tensor(X_raw.values, dtype=torch.float32)
@@ -58,7 +60,10 @@ class Autoencoder(nn.Module):
     def encode(self, x):
         return self.encoder(x)
 
-# 9. 학습
+# 9. 학습: 입력 특성의 복원 
+# criterion: BCELoss (Binary Cross Entropy Loss)
+# optimizer: Adam(Momentum과 RMSProp의 결합: 진행하던 속도에 관성 주고, 적응적 학습률을 가짐)
+
 model = Autoencoder(input_dim=X_tensor.shape[1])
 criterion = nn.BCELoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
@@ -73,7 +78,7 @@ for epoch in range(100):
     if (epoch+1) % 10 == 0:
         print(f"Epoch {epoch+1}, Loss: {loss.item():.4f}")
 
-# 10. 향조 프로필 → 평균 latent 생성
+# 10. 향조 프로필 → 사용자들의 평균 latent 벡터를 생성하여 향조의 표현에 사용. 
 model.eval()
 with torch.no_grad():
     user_latents = model.encode(X_tensor)

@@ -1,11 +1,53 @@
-#Virtual Environment
-Auto/
-*.pyd
-*.dll
-*.lib
-*.so
+# ========== Python ==========
+
 *.pyc
 __pycache__/
-"*.dll" 
-"*.lib" 
-"__pycache__/" 
+*.pyo
+*.pyd
+*.so
+*.log
+
+# ========== Jupyter ==========
+.ipynb_checkpoints/
+
+# ========== Virtual Environment (예: Auto/, venv/, .env/) ==========
+Auto/
+venv/
+.env/
+ENV/
+*.env
+
+# ========== VSCode ==========
+.vscode/
+*.code-workspace
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
+
+# ========== Large binaries ==========
+*.dll
+*.lib
+*.pyd
+*.exe
+*.zip
+*.tar.gz
+
+# ========== Model checkpoints ==========
+*.ckpt
+*.pt
+*.pth
+
+# ========== Data / Results ==========
+*.csv
+*.xlsx
+*.h5
+*.npz
+*.npy
+output/
+logs/
+results/
+
+# ========== Git ==========
+*.swp
+*.swo
