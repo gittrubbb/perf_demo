@@ -1,1 +1,11 @@
-Auto/ 
+#Virtual Environment
+Auto/
+*.pyd
+*.dll
+*.lib
+*.so
+*.pyc
+__pycache__/
+"*.dll" 
+"*.lib" 
+"__pycache__/" 
