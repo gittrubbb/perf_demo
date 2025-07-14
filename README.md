@@ -20,19 +20,19 @@ perf_demo/
   
 ├── new_Test_FM/
 
-  ├── new_train.py # FM 학습 및 평가
+    ├── new_train.py # FM 학습 및 평가
   
-  ├── new_train_nfm.py # NFM 학습 및 평가
+    ├── new_train_nfm.py # NFM 학습 및 평가
   
-  ├── models/
+    ├── models/
   
-    ├── new_fm.py # FM 모델 정의
-    └── nfm.py # NFM 모델 정의
+      ├── new_fm.py # FM 모델 정의
+      └── nfm.py # NFM 모델 정의
   
-  ├── data/
-    └── new_perfume_dataset.py # 사용자 + 향조 전처리
+    ├── data/
+      └── new_perfume_dataset.py # 사용자 + 향조 전처리
   
-  └── new_main.py # 실행 스크립트
+    └── new_main.py # 실행 스크립트
   
 ├── data_files/ # 설문 응답 및 매핑된 향조
 
