@@ -27,7 +27,7 @@ perf_demo/
     ├── models/
   
       ├── new_fm.py # FM 모델 정의
-      └── nfm.py # NFM 모델 정의
+      └── new_nfm.py # NFM 모델 정의
   
     ├── data/
       └── new_perfume_dataset.py # 사용자 + 향조 전처리
