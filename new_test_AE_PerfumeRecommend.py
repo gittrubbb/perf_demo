@@ -97,4 +97,4 @@ recommendations = sim_matrix.argsort(axis=1)[:, -top_k:][:, ::-1]
 for i, rec in enumerate(recommendations[:10]):
     top_notes = [note_cols[j] for j in rec]
     print(f"User {i+1} → 추천 향조: {top_notes}")
-    
+    print(f"User {i+1} → user_id: {merged_df.iloc[i]['user_id']}")

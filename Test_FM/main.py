@@ -12,3 +12,8 @@ if __name__ == "__main__":
         epochs=100,
         batch_size=64
     )
+    
+    
+    
+    
+    

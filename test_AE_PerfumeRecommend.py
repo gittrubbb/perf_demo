@@ -125,3 +125,4 @@ recommendations = sim_matrix.argsort(axis=1)[:, -top_k:][:, ::-1]
 for user_idx in range(10):
     rec_notes = [note_cols[i] for i in recommendations[user_idx]]
     print(f"User {user_idx+1} → 추천 향조: {rec_notes}")
+    

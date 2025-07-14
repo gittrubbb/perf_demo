@@ -16,6 +16,8 @@ venv/
 .env/
 ENV/
 *.env
+perfume/
+Auto_backup/
 
 # ========== VSCode ==========
 .vscode/
@@ -39,8 +41,8 @@ Thumbs.db
 *.pth
 
 # ========== Data / Results ==========
-*.csv
-*.xlsx
+#*.csv
+#*.xlsx
 *.h5
 *.npz
 *.npy
