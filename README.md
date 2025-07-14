@@ -15,6 +15,7 @@
 perf_demo/
 
 ├── AE/
+  
   └── AE_PerfumeRecommend.py   # AutoEncoder 구현
   
 ├── new_Test_FM/
