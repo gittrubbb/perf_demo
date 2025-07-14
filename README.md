@@ -13,8 +13,10 @@
 
 ## 📁 프로젝트 구조
 perf_demo/
+
 ├── AE/
   └── AE_PerfumeRecommend.py   # AutoEncoder 구현
+  
 ├── new_Test_FM/
   ├── new_train.py # FM 학습 및 평가
   ├── new_train_nfm.py # NFM 학습 및 평가
@@ -24,7 +26,10 @@ perf_demo/
   ├── data/
   │ └── new_perfume_dataset.py # 사용자 + 향조 전처리
   └── new_main.py # 실행 스크립트
+  
 ├── data_files/ # 설문 응답 및 매핑된 향조
+
 ├── requirements.txt # 패키지 리스트
+
 └── README.md
 
