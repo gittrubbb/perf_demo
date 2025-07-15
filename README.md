@@ -1,7 +1,7 @@
 # 향수 추천 시스템 (Perfume Recommendation System)
 
 🧠 설문 기반 사용자 맞춤 향수 추천 시스템
-📂 사용 모델: AutoEncoder, Factorization Machine, Neural FM
+📂 사용 모델: AutoEncoder, Factorization Machine, Neural FM, DeepFM
 
 ## 🧠 사용한 모델
 
@@ -17,40 +17,41 @@ perf_demo/
 
 ├── AE/
   
-  └── AE_PerfumeRecommend.py   # AutoEncoder 구현
+  └── new_test_AE_PerfumeRecommend.py     # AutoEncoder 구현
   
   ├── new_Test_FM/
 
-      ├── new_train.py # FM 학습 및 평가
+      ├── new_train.py                    # FM 학습 및 평가
   
-      ├── new_train_nfm.py # NFM 학습 및 평가
+      ├── new_train_nfm.py                # NFM 학습 및 평가
   
       ├── models/
   
-        ├── new_fm.py # FM 모델 정의
-        └── new_nfm.py # NFM 모델 정의
+        ├── new_fm.py                     # FM 모델 정의
+        └── new_nfm.py                    # NFM 모델 정의
   
       ├── data/
-        └── new_perfume_dataset.py # 사용자 + 향조 전처리
+        └── new_perfume_dataset.py        # 사용자 + 향조 전처리
   
-      └── new_main.py # 실행 스크립트
+      └── new_main.py                     # 실행 스크립트
+      └── new_main_nfm.py
 
   ├── new_Test_DeepFM/
 
-      ├── train_deepfm.py # DeepFM 학습 및 평가
+      ├── train_deepfm.py                 # DeepFM 학습 및 평가
   
-      ├── main_deepfm.py # 실행 스크립트 
+      ├── main_deepfm.py                  # 실행 스크립트 
   
       ├── models/
   
-        ├── deepfm.py # DeepFM 모델 정의
+        ├── deepfm.py                     # DeepFM 모델 정의
   
       ├── data/
-        └── new_perfume_dataset.py # 사용자 + 향조 전처리
+        └── new_perfume_dataset.py        # 사용자 + 향조 전처리
   
-  ├── data_files/ # 설문 응답 및 매핑된 향조
+  ├── data_files/                         # 설문 응답 및 매핑된 향조
 
-  ├── requirements.txt # 패키지 리스트
+  ├── requirements.txt                    # 패키지 리스트
 
   └── README.md
 
