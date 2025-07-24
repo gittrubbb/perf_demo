@@ -2,28 +2,28 @@ import torch
 import torch.nn as nn
 
 class FactorizationMachine(nn.Module):
-    def __init__(self, input_dim: int, k: int):
+    def __init__(self, field_dims, embedding_dim):
         '''
-        input_dim: 입력 feature의 차원 수
-        k: latent factor의 차원 수 (임베딩 벡터의 크기)
+        field_dims: 각 field가 가질 수 있는 클래스 수의 리스트. 예: [4, 2, 16, 10, 10, 10, ..., 13]
+        embedding_dim: 각 feature field의 embedding 차원 수
         '''
-        super(FactorizationMachine, self).__init__()
-        self.linear = nn.Linear(input_dim, 1) # 선형항 (w0 + w1*x1 + ...)의 구현
-        self.V = nn.Parameter(torch.randn(input_dim, k) * 0.01)
+        super().__init__()
+        self.embedding = nn.ModuleList([
+            nn.Embedding(field_dim, embedding_dim) for field_dim in field_dims
+        ])
+        self.linear = nn.ModuleList([
+            nn.Embedding(field_dim, 1) for field_dim in field_dims
+        ])
+        self.bias = nn.Parameter(torch.zeros(1))
 
     def forward(self, x):
-        # x: 입력 텐서 (batch_size, input_dim)
-        
-        linear_part = self.linear(x)
+        # x: (batch_size, num_fields), 각 원소는 index (int)
+        embed_x = torch.stack([emb(x[:, i]) for i, emb in enumerate(self.embedding)], dim=1)  # (B, F, D)
+        linear_part = self.bias + sum([emb(x[:, i]) for i, emb in enumerate(self.linear)])   # (B, 1)
 
-        # 2차 상호작용 항 계산
-        # 0.5 * [(사용자 입력 * 임베딩벡터)의 각 임베딩차원의 제곱 - 직접 제곱 곱] 
-        interaction_part = 0.5 * torch.sum(
-            torch.pow(torch.matmul(x, self.V), 2) - torch.matmul(x * x, self.V * self.V),
-            dim=1, keepdim=True
-        )
+        sum_square = torch.sum(embed_x, dim=1) ** 2
+        square_sum = torch.sum(embed_x ** 2, dim=1)
+        interaction_part = 0.5 * torch.sum(sum_square - square_sum, dim=1, keepdim=True)
 
-        # 최종 출력 계산 (선형 part + 2차 상호작용 part)
-        # Sigmoid 활성화 함수 적용 (0~1 사이의 확률로 변환)
         output = linear_part + interaction_part
         return torch.sigmoid(output)

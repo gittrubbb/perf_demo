@@ -3,17 +3,17 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 class DeepFM(nn.Module):
-    def __init__(self, field_dims, embed_dim=10, hidden_dims=[128, 64], dropout=0.3):
+    def __init__(self, field_dims, embedding_dim, hidden_dims, dropout):
         super(DeepFM, self).__init__()
 
         self.num_fields = len(field_dims)
-        self.embed_dim = embed_dim
+        self.embed_dim = embedding_dim
 
         # ------------------------------
         # 1. Embedding layers : 각 feqture를 임베딩 벡터로 변환 (후에 FM 과 DNN에서 사용)
         # ------------------------------
         self.embedding = nn.ModuleList([
-            nn.Embedding(field_dim, embed_dim) for field_dim in field_dims
+            nn.Embedding(field_dim, embedding_dim, padding_idx=0) for field_dim in field_dims
         ])
 
         # ------------------------------
@@ -27,7 +27,7 @@ class DeepFM(nn.Module):
         # 3. Deep Neural Network (DNN) : FM에서 만든 각 feature 임베딩을 입력으로 받아서 학습
         #                               : 은닉층은 Relu 사용 
         # ------------------------------
-        mlp_input_dim = self.num_fields * embed_dim
+        mlp_input_dim = self.num_fields * embedding_dim
         mlp_layers = []
         for h_dim in hidden_dims:
             mlp_layers.append(nn.Linear(mlp_input_dim, h_dim))

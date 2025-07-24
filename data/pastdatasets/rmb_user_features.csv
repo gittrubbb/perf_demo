@@ -1,0 +1,1002 @@
+﻿user_id,used_before,age_group,gender,time,freq_use,style,style,style,style,style,style,style,style,style,color,color,color,color,color,color,color,color,color,mbti,purpose,purpose,purpose,purpose,purpose,purpose,purpose, 
+1,Yes,40s,M,morning,rarely,casual,,,,,,,,,,black,,,,,,,,ISTP,good_impression,,,,,,,50k_to_100k
+2,Yes,30s,M,morning,weekly,,,,"classic, suit",,,,,,white,black,,,,,,,,ISFP,good_impression,,self_satisfaction,,formal_occasion,,,above_200k
+3,Yes,30s,F,morning,daily,,,,,,,,,freestyle,,black,,,,,,,,ESFP,,,,,formal_occasion,,,below_50k
+4,Yes,30s,M,anytime,rarely,casual,,,,,,,,,white,black,,,,,,,,ESTP,good_impression,,,,,,,100k_to_200k
+5,Yes,40s,M,evening,rarely,casual,,,,,,,,,white,black,,,,,,,,ISTP,,,,date_or_social,formal_occasion,,,100k_to_200k
+6,Yes,30s,F,morning,weekly,,"minimal, simple",,,,,,,,,black,,,,,,,,ESTP,good_impression,mood_boost,,,,,,50k_to_100k
+7,Yes,50s,M,morning,rarely,casual,,,,,,,,,white,black,,,,,,,,INTP,,,,date_or_social,,,,50k_to_100k
+8,Yes,30s,M,morning,rarely,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISTP,,,,date_or_social,,special_event,,100k_to_200k
+9,Yes,40s,M,afternoon,weekly,,,street,,,,sporty,,,,,,blue,"pink, coral",,,,,ESTP,,,self_satisfaction,,,,,100k_to_200k
+10,Yes,50s,M,morning,rarely,casual,,,,,,,,,,,,blue,,,,,,ESFP,good_impression,,,,,,,below_50k
+11,Yes,40s,M,morning,daily,casual,,,,,,,,,white,black,,,,,,,,ENTP,good_impression,,,,,,,below_50k
+12,Yes,40s,F,morning,daily,,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,ESTP,good_impression,mood_boost,,,,,,50k_to_100k
+13,Yes,40s,M,afternoon,weekly,,,street,,,vintage,,,,,,"beige, brown",blue,,,,,,ISFP,,,self_satisfaction,,,,,50k_to_100k
+14,Yes,20s,M,evening,daily,,,street,,,,,,,white,black,,,,,,,,ISTP,good_impression,,,,,,,above_200k
+15,Yes,40s,M,morning,daily,,"minimal, simple",,"classic, suit",,,,,freestyle,white,black,"beige, brown",,,,,,,ISFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+16,Yes,30s,F,anytime,weekly,casual,,,"classic, suit","romantic, lovely",,,,,,,,,"pink, coral",,,purple,,ESTP,,mood_boost,self_satisfaction,date_or_social,,,,50k_to_100k
+17,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,,"yellow, orange",ISTP,good_impression,,,,formal_occasion,,,50k_to_100k
+18,Yes,30s,F,morning,daily,,"minimal, simple",,,"romantic, lovely",,,,,white,black,,,,,,,,INTP,,mood_boost,,,,,,100k_to_200k
+19,Yes,40s,M,morning,weekly,casual,,,,,,,,,,black,,,,,,,,ISFP,good_impression,,,,,,,50k_to_100k
+20,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ESTP,,,,,,special_event,,50k_to_100k
+21,Yes,30s,M,morning,weekly,casual,,,,,,,,,white,black,,,,,,,,INTP,good_impression,,,,formal_occasion,,,50k_to_100k
+22,Yes,40s,M,morning,daily,casual,,street,,,,,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,,self_satisfaction,,formal_occasion,,,above_200k
+23,Yes,40s,M,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFP,good_impression,mood_boost,,,,,,above_200k
+24,Yes,30s,F,morning,weekly,,"minimal, simple",,,,,,,,white,black,,,,,,,,ENFP,,mood_boost,,,,,,50k_to_100k
+25,Yes,40s,M,anytime,daily,casual,,,,,,sporty,,,,black,,,,,,,,ENTP,good_impression,mood_boost,,,,,,100k_to_200k
+26,Yes,40s,M,morning,daily,casual,,,,,,,,,white,black,,blue,,,,,,ISTP,good_impression,mood_boost,,,formal_occasion,,,above_200k
+27,Yes,20s,F,anytime,daily,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,,,,,,,100k_to_200k
+28,Yes,50s,M,morning,seasonal,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ESFP,,,,,formal_occasion,,,100k_to_200k
+29,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,black,,,,,,,,ISFP,good_impression,,,,,,,100k_to_200k
+30,Yes,30s,M,morning,daily,casual,"minimal, simple",street,"classic, suit","romantic, lovely",vintage,sporty,"modern, chic",,,black,,,,,,,,ISFP,good_impression,,,,,,,above_200k
+31,Yes,40s,M,morning,daily,,,street,"classic, suit",,vintage,sporty,,,,black,,blue,,red,,purple,,ESTP,good_impression,,,,formal_occasion,special_event,,100k_to_200k
+32,Yes,40s,M,morning,daily,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+33,Yes,40s,M,morning,weekly,casual,,,,,,,,,white,,,,"pink, coral",,,,,ENTP,good_impression,,,,,,,50k_to_100k
+34,Yes,40s,M,morning,daily,,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",blue,,,,,,INFP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,50k_to_100k
+35,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,,freestyle,,black,"beige, brown",,,,,,,INTP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+36,Yes,30s,F,morning,daily,,,,"classic, suit",,,,,freestyle,white,,"beige, brown",blue,,,,,,ENFP,,,self_satisfaction,,,,,50k_to_100k
+37,Yes,30s,F,morning,weekly,casual,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,ISFP,,mood_boost,self_satisfaction,,,,,above_200k
+38,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ISTP,good_impression,mood_boost,,,,,,50k_to_100k
+39,Yes,30s,M,morning,weekly,casual,,,,,,,,,,black,"beige, brown",blue,,,,,,ESTP,,mood_boost,,,,,,below_50k
+40,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,,blue,"pink, coral",,,,,ESTP,good_impression,mood_boost,self_satisfaction,,formal_occasion,,unique_style,50k_to_100k
+41,Yes,30s,M,morning,rarely,casual,,,,,,,"modern, chic",,white,black,"beige, brown",,,,,,,ESTP,,mood_boost,,,,special_event,,below_50k
+42,Yes,30s,F,morning,weekly,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ISFP,good_impression,mood_boost,,,,,,below_50k
+43,Yes,30s,M,anytime,weekly,casual,,,,,,,,freestyle,,black,"beige, brown",,,,,,,INFP,good_impression,mood_boost,self_satisfaction,date_or_social,,,unique_style,100k_to_200k
+44,Yes,50s,M,morning,weekly,,,street,,,vintage,,,,,,,blue,,red,"green, mint",,"yellow, orange",ENFP,,mood_boost,self_satisfaction,,,special_event,,50k_to_100k
+45,Yes,30s,F,morning,weekly,,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,red,,,,INFJ,good_impression,,,date_or_social,,special_event,,below_50k
+46,Yes,30s,F,morning,weekly,casual,"minimal, simple",street,,,vintage,sporty,"modern, chic",freestyle,white,,"beige, brown",,,,,,,ISTP,,mood_boost,,,formal_occasion,,,below_50k
+47,Yes,50s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ENFP,good_impression,,,,formal_occasion,,,below_50k
+48,Yes,50s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,,,INTJ,,,self_satisfaction,,,,,50k_to_100k
+49,Yes,30s,M,morning,rarely,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ISTJ,good_impression,,self_satisfaction,,,special_event,,50k_to_100k
+50,Yes,50s,F,morning,weekly,casual,,,,,,,,,,black,,,,,,purple,,INFP,good_impression,mood_boost,,,,,,50k_to_100k
+51,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,,,,,,,,INTJ,good_impression,,,,,,,below_50k
+52,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ENTP,good_impression,mood_boost,,,,,,below_50k
+53,Yes,30s,M,anytime,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+54,Yes,40s,M,morning,rarely,,,,"classic, suit",,,,,,,,"beige, brown",,,,,,,ISFP,good_impression,,,,,,,50k_to_100k
+55,Yes,50s,M,morning,rarely,casual,,,,,,,,,,,,blue,,,,,"yellow, orange",ISTJ,good_impression,,self_satisfaction,,,,,below_50k
+56,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,,,white,,,,,,,,,ESFJ,,mood_boost,,,,,,50k_to_100k
+57,Yes,30s,F,morning,rarely,casual,"minimal, simple",,,,,,,,,,"beige, brown",blue,,,"green, mint",,"yellow, orange",ISFJ,,mood_boost,,,,,,below_50k
+58,Yes,40s,M,morning,weekly,,,,,,,,"modern, chic",,white,,,,"pink, coral",,,,,ESTJ,,,self_satisfaction,,,,,100k_to_200k
+59,Yes,30s,F,morning,daily,casual,,,,,,,,freestyle,white,black,,,"pink, coral",,,,"yellow, orange",ESTJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,100k_to_200k
+60,Yes,30s,M,morning,rarely,,,,"classic, suit",,,,,,white,black,,,,,,,,ENTJ,good_impression,,,date_or_social,,,,100k_to_200k
+61,Yes,50s,M,morning,weekly,,,,,,,,,freestyle,,black,,blue,,,"green, mint",,,ESFP,good_impression,,,,formal_occasion,,,50k_to_100k
+62,Yes,40s,M,morning,weekly,casual,,street,,"romantic, lovely",,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+63,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,,freestyle,,,"beige, brown",,,,,,,ENTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+64,Yes,30s,M,morning,daily,casual,,,,,,sporty,,freestyle,,black,,blue,,,"green, mint",,,ENFJ,good_impression,mood_boost,,,,,,above_200k
+65,Yes,30s,M,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",blue,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+66,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,,,,,,,,ISTJ,,,self_satisfaction,,,,,100k_to_200k
+67,Yes,30s,F,morning,daily,,,,,,,,,freestyle,,,"beige, brown",,"pink, coral",,"green, mint",,,ESFJ,,,self_satisfaction,,formal_occasion,,,below_50k
+68,Yes,40s,M,morning,weekly,casual,,,,,,sporty,,,,black,"beige, brown",,,,,,,ISTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+69,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,,,ESFJ,good_impression,,self_satisfaction,,formal_occasion,special_event,,50k_to_100k
+70,Yes,30s,F,morning,daily,casual,,,,,,,,,white,,"beige, brown",blue,"pink, coral",red,"green, mint",purple,,INTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+71,Yes,40s,F,morning,daily,,,,,,,,"modern, chic",,white,black,,,,,,,,ISFJ,,mood_boost,,,,,,50k_to_100k
+72,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+73,Yes,30s,F,morning,weekly,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,INFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+74,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,,,blue,"pink, coral",,"green, mint",,,INFP,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+75,Yes,40s,M,morning,daily,,"minimal, simple",,,,,,,,,black,,,,,,,,ISTP,,,self_satisfaction,,,,,50k_to_100k
+76,Yes,50s,M,morning,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISTJ,good_impression,,,,,special_event,,100k_to_200k
+77,Yes,30s,M,morning,weekly,,,,"classic, suit",,,,,,,black,,,,,,,,ESFP,,,self_satisfaction,date_or_social,,,,50k_to_100k
+78,Yes,40s,M,anytime,weekly,casual,"minimal, simple",,,,,sporty,,,white,black,,,,,,,,ESTJ,,mood_boost,,date_or_social,formal_occasion,,,50k_to_100k
+79,Yes,20s,F,morning,daily,,"minimal, simple",,,,,,,,white,black,,blue,,,,,,ISFJ,,,self_satisfaction,,,,,50k_to_100k
+80,Yes,30s,M,morning,weekly,,,street,"classic, suit",,,,,,,,"beige, brown",,,,,,,ESFP,,,self_satisfaction,date_or_social,,,,50k_to_100k
+81,Yes,30s,M,anytime,weekly,casual,,,"classic, suit",,,,"modern, chic",,white,black,,blue,,,,purple,,ENFJ,good_impression,,self_satisfaction,date_or_social,formal_occasion,,,100k_to_200k
+82,Yes,30s,M,morning,daily,casual,,,,,,,,,,,,blue,,,,,,ISFJ,good_impression,mood_boost,,,,,,50k_to_100k
+83,Yes,40s,M,morning,weekly,casual,,street,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ISTJ,good_impression,,,,formal_occasion,,,50k_to_100k
+84,Yes,30s,F,afternoon,weekly,casual,,,,,,,,,white,,,,,,,,,ESFP,good_impression,,,,,,,below_50k
+85,Yes,50s,M,morning,seasonal,casual,,,,,,,,,white,,"beige, brown",,,,,,,ESTP,,mood_boost,,,,,,below_50k
+86,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,,,black,"beige, brown",blue,,,,,,ENTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+87,Yes,40s,M,afternoon,rarely,casual,,,,,,,,,white,black,,,,,,,,INTJ,,,,date_or_social,,,,50k_to_100k
+88,Yes,40s,M,morning,daily,,"minimal, simple",,,,,,,,,,"beige, brown",,,,,,,ISTJ,good_impression,,,,,,,above_200k
+89,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,,white,,,,,,,,,ESFJ,,mood_boost,,,,,,50k_to_100k
+90,Yes,40s,M,morning,rarely,casual,,,"classic, suit",,,,,,white,black,,blue,,,,,,ISTP,good_impression,,,,,,,below_50k
+91,Yes,40s,M,morning,daily,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ENTP,,,self_satisfaction,,,,,50k_to_100k
+92,Yes,40s,M,morning,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,INTJ,,,,,,special_event,,50k_to_100k
+93,Yes,40s,M,morning,rarely,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ENFJ,good_impression,,,,,,,100k_to_200k
+94,No,40s,M,,,,,,,,,,,freestyle,white,black,"beige, brown",,"pink, coral",,"green, mint",purple,"yellow, orange",ISTP,,,,date_or_social,,,,below_50k
+95,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,,,,,,,"green, mint",,,ISFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+96,Yes,40s,F,anytime,daily,casual,,,,,,,,,white,,,,,,,,,ESTJ,good_impression,,,,,,,below_50k
+97,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,,blue,,,,,,ENFP,good_impression,mood_boost,self_satisfaction,date_or_social,,special_event,,50k_to_100k
+98,Yes,40s,M,morning,seasonal,,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,INFP,good_impression,,,,,,,50k_to_100k
+99,Yes,50s,M,morning,weekly,casual,,,"classic, suit",,,,,,,,"beige, brown",blue,,,,purple,,ISTJ,good_impression,,,,formal_occasion,,,50k_to_100k
+100,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,purple,,ESFJ,good_impression,,,,,,unique_style,50k_to_100k
+101,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFJ,good_impression,,,,formal_occasion,,,50k_to_100k
+102,Yes,40s,M,morning,rarely,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+103,Yes,40s,M,morning,daily,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ESTJ,,,self_satisfaction,,,,,100k_to_200k
+104,Yes,30s,M,morning,daily,casual,,,,,,,,,,black,,blue,,,,,,INFP,good_impression,,self_satisfaction,,,,,100k_to_200k
+105,Yes,30s,M,morning,rarely,casual,,,,,,,,,white,black,"beige, brown",blue,,,,,,ESTP,,mood_boost,,,,special_event,,50k_to_100k
+106,Yes,30s,F,morning,daily,casual,,,,,,,,,,black,,,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,above_200k
+107,Yes,20s,F,morning,daily,,,,"classic, suit",,,,"modern, chic",,,black,,,,,,,,ISTJ,,mood_boost,,,,,,above_200k
+108,No,30s,M,,,casual,,,,,,,,,white,black,,,,,,,,ISTJ,,,,,,special_event,,below_50k
+109,Yes,40s,M,morning,daily,,,,"classic, suit",,,sporty,"modern, chic",freestyle,,black,,blue,"pink, coral",,"green, mint",,"yellow, orange",ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,100k_to_200k
+110,Yes,40s,F,morning,daily,,"minimal, simple",,,,,,,,white,,,blue,,,"green, mint",,,ISTJ,good_impression,,self_satisfaction,,,,,above_200k
+111,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,"modern, chic",,,,"beige, brown",blue,,,,,,ESFJ,good_impression,,self_satisfaction,,,,,below_50k
+112,Yes,50s,M,morning,rarely,casual,,,,,,,,freestyle,,black,"beige, brown",,,,,,,INFP,,,self_satisfaction,,,,,100k_to_200k
+113,Yes,30s,F,morning,daily,,,,"classic, suit",,,,,,,,,,,,,purple,,ESTJ,,,self_satisfaction,,,,,100k_to_200k
+114,Yes,50s,M,morning,rarely,casual,"minimal, simple",,"classic, suit",,,,,,,black,"beige, brown",blue,,,,,,INTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+115,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,black,,,,,,,,ISTJ,,,self_satisfaction,,formal_occasion,,,above_200k
+116,Yes,30s,M,afternoon,rarely,casual,,,,,,,,freestyle,,black,,,,,,,,INFJ,good_impression,,,date_or_social,,,,below_50k
+117,Yes,40s,M,morning,rarely,casual,,,"classic, suit",,,,,,white,black,,,,,,,,INTJ,good_impression,,,,formal_occasion,,,50k_to_100k
+118,Yes,30s,F,anytime,weekly,casual,,,,"romantic, lovely",vintage,,,,white,black,"beige, brown",blue,,,,,,INFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,special_event,unique_style,50k_to_100k
+119,Yes,20s,M,morning,rarely,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,"green, mint",,,ISFJ,good_impression,,,date_or_social,,special_event,,100k_to_200k
+120,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,,,,,,50k_to_100k
+121,Yes,40s,M,morning,daily,casual,,,,,,sporty,,,white,black,,,,,,,,INTP,good_impression,,,,,,,50k_to_100k
+122,Yes,40s,M,morning,weekly,casual,,,,,,,,,white,,"beige, brown",,,,,,,ISTJ,,,self_satisfaction,,,,,50k_to_100k
+123,Yes,30s,F,morning,daily,casual,,,,"romantic, lovely",,,,,,,,blue,,red,,purple,,ENFP,good_impression,mood_boost,,,,,,100k_to_200k
+124,No,40s,M,,,casual,,,,,,,,,,black,,,,,,,,ISTP,,mood_boost,,,,,,below_50k
+125,Yes,40s,M,evening,rarely,,,,,,,,,freestyle,,black,"beige, brown",,,,,,,ENTJ,good_impression,,,,,,,100k_to_200k
+126,Yes,30s,F,morning,rarely,,,,,,,,,freestyle,white,black,,,,,,,,ISTP,,,,date_or_social,,,,50k_to_100k
+127,Yes,30s,M,morning,daily,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,INTJ,good_impression,,,,,,,100k_to_200k
+128,Yes,30s,M,morning,daily,,"minimal, simple",,,,,,,,white,,"beige, brown",,,,,,,INFJ,,,,,formal_occasion,,,50k_to_100k
+129,Yes,40s,F,afternoon,rarely,casual,,,,,,sporty,,,,black,,,,,,,,ESTJ,,mood_boost,,,,,,below_50k
+130,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,,,,"beige, brown",,,,,,,INTJ,good_impression,,,,,,,50k_to_100k
+131,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESTP,good_impression,,,,,,,50k_to_100k
+132,Yes,30s,M,morning,weekly,,"minimal, simple",,,"romantic, lovely",,,,,,black,,,,,,,,ISTJ,good_impression,,,,,,,above_200k
+133,Yes,30s,M,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,,,,,,,100k_to_200k
+134,Yes,30s,M,afternoon,rarely,casual,,street,,,,sporty,"modern, chic",,,black,"beige, brown",,,,,,,ENTP,good_impression,,self_satisfaction,,formal_occasion,,unique_style,above_200k
+135,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,,freestyle,,black,"beige, brown",,,,,,,ESFP,good_impression,,,date_or_social,,,,50k_to_100k
+136,Yes,30s,M,morning,rarely,casual,,street,,,,,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,,,,,,,50k_to_100k
+137,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,,black,"beige, brown",,"pink, coral",,,,,ISTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+138,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ESFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+139,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,"modern, chic",,,black,"beige, brown",,,,,,,INTP,,,self_satisfaction,,,,unique_style,above_200k
+140,Yes,30s,M,morning,seasonal,casual,,street,,,,sporty,,,white,black,"beige, brown",,,,,,,INTJ,,,,date_or_social,,,,100k_to_200k
+141,Yes,20s,F,afternoon,rarely,casual,,,,,,,,,,,,,,,"green, mint",,,ESTJ,good_impression,,,,,,,50k_to_100k
+142,Yes,40s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,,,"pink, coral",,,,,ISTP,good_impression,,,,,,,50k_to_100k
+143,Yes,40s,M,morning,rarely,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ENFJ,good_impression,,self_satisfaction,,,,,below_50k
+144,Yes,30s,M,morning,weekly,casual,,,,,,,,,white,,,,,,,,,ENTP,,,self_satisfaction,,,,,50k_to_100k
+145,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,,freestyle,,black,"beige, brown",,,red,,,,ENFJ,good_impression,,self_satisfaction,,,,,above_200k
+146,Yes,30s,F,morning,daily,,,,,,,,,freestyle,white,black,,blue,,,,,,ISTJ,good_impression,,self_satisfaction,date_or_social,,,,above_200k
+147,Yes,20s,M,afternoon,rarely,casual,,,,,vintage,,,,,,,blue,,red,"green, mint",,,INTJ,good_impression,mood_boost,,date_or_social,,,,below_50k
+148,Yes,20s,M,morning,seasonal,casual,"minimal, simple",street,"classic, suit",,,,,,white,black,,blue,"pink, coral",,"green, mint",,"yellow, orange",ESTJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+149,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,"pink, coral",,,,,ISTJ,good_impression,,,,,,,50k_to_100k
+150,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESFJ,good_impression,mood_boost,,,,,,100k_to_200k
+151,Yes,30s,M,anytime,daily,casual,,,,,,,,,white,,,,,,,,,ESFJ,good_impression,,,,,,,below_50k
+152,Yes,20s,F,morning,weekly,casual,,,"classic, suit","romantic, lovely",,,,,white,,"beige, brown",,"pink, coral",,,,,ENTP,,mood_boost,,,,,,100k_to_200k
+153,Yes,30s,M,morning,weekly,,"minimal, simple",,,,,,,,,black,,,,,,,,ISTP,,,self_satisfaction,,,,,above_200k
+154,Yes,30s,M,morning,daily,casual,,,"classic, suit",,vintage,,,freestyle,,black,"beige, brown",blue,,,,,,ENTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,50k_to_100k
+155,Yes,30s,M,anytime,weekly,,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,,,ENFP,good_impression,,,,formal_occasion,,,50k_to_100k
+156,Yes,30s,M,anytime,daily,casual,,,,,,,"modern, chic",,white,black,,blue,,,,,,ENTJ,good_impression,,self_satisfaction,,,,,above_200k
+157,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,,,,black,"beige, brown",blue,,,,,,ESTJ,,mood_boost,,,formal_occasion,,,above_200k
+158,Yes,20s,M,morning,weekly,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",,,,,,,INTP,good_impression,,self_satisfaction,,,,,above_200k
+159,Yes,20s,F,morning,daily,casual,"minimal, simple",street,,,,,"modern, chic",,,black,,,,,,purple,,ISTP,good_impression,,self_satisfaction,,formal_occasion,,,above_200k
+160,Yes,20s,M,evening,rarely,casual,,,,,,,,,,black,"beige, brown",blue,,,"green, mint",,,ENFP,good_impression,mood_boost,,date_or_social,,,,above_200k
+161,Yes,30s,M,anytime,rarely,casual,,,"classic, suit",,,,"modern, chic",,white,black,,,,,,,,ESTJ,good_impression,,,,,,,100k_to_200k
+162,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,"green, mint",,,ESFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,above_200k
+163,Yes,40s,M,morning,weekly,casual,,,,,,sporty,"modern, chic",freestyle,,black,,,,,"green, mint",,"yellow, orange",ENTP,,mood_boost,self_satisfaction,,,,,above_200k
+164,Yes,20s,F,morning,daily,,,,,,,,,freestyle,white,,,,,,,,,ISTJ,,,,,,,unique_style,above_200k
+165,Yes,20s,F,afternoon,rarely,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,blue,,,,purple,,ESTJ,good_impression,,,date_or_social,,special_event,,100k_to_200k
+166,Yes,20s,F,anytime,daily,casual,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",,,,,,,ESFJ,good_impression,mood_boost,,date_or_social,,special_event,unique_style,above_200k
+167,Yes,20s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISFJ,good_impression,,self_satisfaction,,formal_occasion,,,below_50k
+168,Yes,30s,M,anytime,weekly,casual,"minimal, simple",,,,,sporty,,,white,black,,,,,,,,ISTJ,good_impression,,,date_or_social,,special_event,,above_200k
+169,Yes,30s,M,morning,daily,,,,"classic, suit","romantic, lovely",,,,,,,,,"pink, coral",red,,,,INFP,good_impression,mood_boost,,,,,,50k_to_100k
+170,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ENTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+171,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,,"beige, brown",,,,,purple,,ENFP,,mood_boost,,date_or_social,,,,50k_to_100k
+172,Yes,30s,M,morning,daily,,,,,,,,,freestyle,white,black,"beige, brown",,,,"green, mint",,,ESTP,,,self_satisfaction,,,,,above_200k
+173,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,sporty,,freestyle,white,black,,blue,,,"green, mint",,,ENTJ,good_impression,,self_satisfaction,,,,,above_200k
+174,Yes,30s,M,morning,rarely,,"minimal, simple",,,,,,,,white,black,,,,,,,,ISFP,,mood_boost,,,,,,50k_to_100k
+175,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,white,,"beige, brown",,"pink, coral",,"green, mint",,,ISTP,good_impression,,self_satisfaction,,,,,above_200k
+176,Yes,20s,F,morning,weekly,casual,"minimal, simple",,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",,"pink, coral",,,,,INFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+177,Yes,40s,M,morning,weekly,casual,,,,,,,,freestyle,,black,"beige, brown",,,,,,,ISFP,good_impression,mood_boost,,,,,,50k_to_100k
+178,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,,,blue,,,"green, mint",,,INFP,good_impression,,,date_or_social,,,,100k_to_200k
+179,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,"pink, coral",,,,,ENFP,,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+180,Yes,30s,F,afternoon,weekly,casual,,street,,,,,"modern, chic",,white,,,,"pink, coral",,,,"yellow, orange",ISTJ,,mood_boost,,date_or_social,,,,100k_to_200k
+181,Yes,30s,M,morning,daily,,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",blue,,,"green, mint",,,ENTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,above_200k
+182,Yes,20s,F,morning,rarely,casual,"minimal, simple",,,,,,,,white,,"beige, brown",,,,,,"yellow, orange",ESFJ,,,self_satisfaction,date_or_social,,,unique_style,below_50k
+183,Yes,40s,M,morning,daily,,,,"classic, suit",,,,"modern, chic",,,black,,,,,,,,ENFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,100k_to_200k
+184,Yes,20s,F,morning,daily,casual,"minimal, simple",,,"romantic, lovely",vintage,,,,white,,,,"pink, coral",,,,,INTJ,,mood_boost,self_satisfaction,,formal_occasion,,,100k_to_200k
+185,Yes,30s,M,morning,daily,casual,,,,,,,,freestyle,white,black,,blue,,red,,,,ISFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+186,Yes,20s,F,morning,weekly,,"minimal, simple",,,,vintage,sporty,,,,black,"beige, brown",,,,,,,ISFP,good_impression,,self_satisfaction,,formal_occasion,,,50k_to_100k
+187,Yes,40s,M,morning,seasonal,casual,,,,,,,,freestyle,white,black,"beige, brown",,,,,,,ESTJ,good_impression,mood_boost,,,,,unique_style,below_50k
+188,Yes,40s,M,morning,daily,casual,,street,,,,sporty,,,white,black,"beige, brown",,,,,,,ISTJ,good_impression,,,,formal_occasion,,,below_50k
+189,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ESTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+190,Yes,20s,M,morning,daily,casual,,,,,,sporty,"modern, chic",,,black,,blue,,,,,,INTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+191,Yes,20s,F,morning,daily,,,,,,,,,freestyle,white,black,,blue,,,"green, mint",,,ISFJ,,mood_boost,self_satisfaction,,,,unique_style,50k_to_100k
+192,Yes,40s,M,morning,daily,,,,"classic, suit",,,,,,,black,,,,,,,,ESTP,,,,,formal_occasion,,,100k_to_200k
+193,Yes,30s,F,morning,weekly,casual,,,,"romantic, lovely",,,,,white,,,,"pink, coral",,,,,ISTJ,,,self_satisfaction,,,,,100k_to_200k
+194,Yes,30s,F,afternoon,rarely,casual,"minimal, simple",,,,vintage,,,freestyle,,black,"beige, brown",,,,"green, mint",,,INTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+195,Yes,30s,M,morning,weekly,casual,"minimal, simple",,,,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+196,Yes,40s,M,morning,daily,,"minimal, simple",,"classic, suit",,,,"modern, chic",,,black,,,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,date_or_social,,,unique_style,100k_to_200k
+197,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,,,,,,,,ESFJ,good_impression,,,,,,,50k_to_100k
+198,Yes,30s,M,anytime,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,"green, mint",,,ISFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+199,Yes,30s,M,morning,daily,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ENFJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+200,Yes,20s,F,morning,weekly,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,,"beige, brown",,,,,,,INTP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+201,Yes,40s,M,morning,weekly,casual,,,,,,sporty,,,white,black,"beige, brown",,,,"green, mint",,,INTJ,good_impression,,,date_or_social,formal_occasion,,,50k_to_100k
+202,Yes,20s,F,morning,daily,casual,,street,"classic, suit",,,,,,white,,"beige, brown",,"pink, coral",,,,,ISTJ,good_impression,,,,,,,100k_to_200k
+203,Yes,20s,F,morning,daily,casual,,,,,,,,freestyle,white,,"beige, brown",,,,,,,ISTJ,,mood_boost,self_satisfaction,,,,unique_style,100k_to_200k
+204,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ISTJ,,,self_satisfaction,,,,,100k_to_200k
+205,Yes,20s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,,blue,,,,,,INTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+206,Yes,30s,M,morning,daily,,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,self_satisfaction,,,,,below_50k
+207,Yes,30s,M,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ENFJ,good_impression,,,,,,,50k_to_100k
+208,Yes,40s,M,morning,rarely,,,,,,,sporty,,,,,,blue,,,,,,INTJ,,,,date_or_social,,,,below_50k
+209,Yes,30s,M,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESFJ,good_impression,,,,,,,100k_to_200k
+210,Yes,20s,M,morning,weekly,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ESFP,good_impression,mood_boost,,date_or_social,,,,50k_to_100k
+211,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,,,,unique_style,above_200k
+212,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,blue,,,,,,ENFJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+213,Yes,40s,F,morning,seasonal,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,ESTP,good_impression,,,date_or_social,formal_occasion,special_event,,100k_to_200k
+214,Yes,20s,M,morning,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,,date_or_social,,special_event,,50k_to_100k
+215,Yes,40s,F,morning,daily,,,,"classic, suit",,,,,freestyle,white,black,,blue,,,,,,ISFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+216,Yes,30s,F,morning,weekly,,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,ESFP,good_impression,mood_boost,,,,,,100k_to_200k
+217,No,30s,F,,,,,street,,,,,,,,,"beige, brown",,,,,,,ISFJ,,mood_boost,,,,,,50k_to_100k
+218,Yes,30s,F,morning,daily,casual,"minimal, simple",street,,,,,"modern, chic",,white,black,,blue,"pink, coral",,"green, mint",,,ENFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,100k_to_200k
+219,Yes,30s,F,morning,weekly,,,,"classic, suit",,,,,,,,"beige, brown",,,,"green, mint",,,INFP,,,self_satisfaction,,,,,50k_to_100k
+220,Yes,30s,F,morning,weekly,casual,,,,,,,,,white,black,,,,,,,,ESTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+221,Yes,30s,F,anytime,weekly,casual,"minimal, simple",,,,,sporty,"modern, chic",freestyle,,black,"beige, brown",,,,,,,ISFJ,,mood_boost,,date_or_social,,,,100k_to_200k
+222,Yes,20s,F,morning,rarely,casual,,,"classic, suit",,,,,freestyle,,,"beige, brown",,,,,purple,,INFJ,good_impression,mood_boost,self_satisfaction,,,,,below_50k
+223,Yes,50s,F,morning,daily,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISTJ,good_impression,mood_boost,,,,,unique_style,50k_to_100k
+224,Yes,30s,M,morning,rarely,casual,,,"classic, suit",,vintage,,,,,black,,,,,"green, mint",,,ENTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+225,Yes,20s,F,morning,weekly,casual,,,,,,,,,white,,,,,,,,,ESTJ,,,self_satisfaction,date_or_social,,,,50k_to_100k
+226,Yes,30s,M,morning,daily,,,,"classic, suit",,vintage,,,,,,"beige, brown",,,,,,,ISTJ,good_impression,,self_satisfaction,,formal_occasion,,,50k_to_100k
+227,Yes,20s,F,morning,daily,,,,,"romantic, lovely",vintage,,,,white,,,,"pink, coral",,,,,INFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+228,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,INTJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,100k_to_200k
+229,Yes,30s,M,afternoon,weekly,casual,"minimal, simple",,,,,,,,white,,,,,,,,,ISTJ,good_impression,,,date_or_social,,special_event,unique_style,50k_to_100k
+230,Yes,20s,M,anytime,weekly,casual,,,,"romantic, lovely",,,"modern, chic",,white,black,"beige, brown",,,,"green, mint",,,ISFP,good_impression,,self_satisfaction,date_or_social,,,,above_200k
+231,Yes,20s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,"green, mint",,,ISFJ,good_impression,mood_boost,self_satisfaction,,,,,below_50k
+232,Yes,20s,F,morning,weekly,casual,,,,,,,,,white,black,,,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+233,Yes,40s,F,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",,,,"green, mint",,,ENFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,50k_to_100k
+234,Yes,30s,F,morning,daily,,,,,,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,INFJ,good_impression,,self_satisfaction,,,,,above_200k
+235,Yes,30s,M,morning,weekly,,"minimal, simple",,,,,,"modern, chic",,,black,"beige, brown",,,,,,,ENFP,good_impression,,,,formal_occasion,,unique_style,100k_to_200k
+236,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,INFJ,,,self_satisfaction,,,,unique_style,above_200k
+237,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,red,,,,INTJ,,mood_boost,self_satisfaction,,formal_occasion,,,above_200k
+238,Yes,40s,M,morning,weekly,casual,,,,,,,,,,,,blue,,,,,,ESTJ,good_impression,,,,formal_occasion,,,below_50k
+239,Yes,20s,F,morning,weekly,casual,,,,,,,,,white,,,,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+240,Yes,40s,M,anytime,weekly,,,,,,,,,freestyle,,,,blue,,,,,,ENFJ,,,,,formal_occasion,,,50k_to_100k
+241,Yes,40s,M,morning,rarely,,,street,"classic, suit","romantic, lovely",,sporty,,,,,"beige, brown",,"pink, coral",,,purple,,ENFJ,,mood_boost,self_satisfaction,date_or_social,formal_occasion,,,100k_to_200k
+242,Yes,40s,M,morning,rarely,casual,"minimal, simple",,,,,,,,,black,,blue,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,,,,,below_50k
+243,Yes,30s,F,morning,daily,,,,,,,,,freestyle,white,black,"beige, brown",,"pink, coral",,,,,ESFP,,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,above_200k
+244,Yes,40s,F,morning,daily,,,,,,,,,freestyle,,black,,,,,,,,ISFJ,,,,,formal_occasion,,,50k_to_100k
+245,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,,,,,,,"yellow, orange",ENFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,50k_to_100k
+246,Yes,30s,M,morning,rarely,casual,,,"classic, suit",,vintage,,,,white,,,,,,,,"yellow, orange",INFJ,good_impression,mood_boost,,,,,,100k_to_200k
+247,Yes,20s,M,morning,rarely,casual,"minimal, simple",,,,,,,,white,black,,blue,,,,,,ISTJ,good_impression,,,,formal_occasion,,,50k_to_100k
+248,Yes,40s,F,morning,weekly,casual,"minimal, simple",street,,,,,,,white,black,"beige, brown",,,,,,,ENFP,good_impression,mood_boost,,,,,,100k_to_200k
+249,Yes,40s,M,morning,rarely,,,,"classic, suit",,,,,,,black,"beige, brown",blue,,,,,,ENTP,good_impression,mood_boost,,,,,,50k_to_100k
+250,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ENFP,,mood_boost,,,,,,below_50k
+251,Yes,50s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,,blue,,,,,,INTP,good_impression,,self_satisfaction,date_or_social,,,,100k_to_200k
+252,Yes,30s,F,morning,rarely,,,,"classic, suit","romantic, lovely",,,,,white,,"beige, brown",,,,,,,ENTP,good_impression,,,,,,,50k_to_100k
+253,Yes,40s,M,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFP,good_impression,,,,,,,100k_to_200k
+254,Yes,30s,M,morning,daily,,,street,,,,,,,white,black,,,,,,,,ESFP,,,self_satisfaction,,,,,100k_to_200k
+255,Yes,30s,M,morning,daily,,,,"classic, suit","romantic, lovely",vintage,,,,,black,"beige, brown",blue,,,,,,ESFJ,,mood_boost,,,,,,above_200k
+256,Yes,40s,F,morning,daily,,,,,"romantic, lovely",,,,,white,black,,,"pink, coral",,"green, mint",purple,,ENFJ,,,,,,,unique_style,100k_to_200k
+257,Yes,50s,M,morning,daily,casual,,,,,,,,,,,"beige, brown",,,,,,,ESTP,good_impression,,,,,,,100k_to_200k
+258,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,black,,blue,,,,,,ISTJ,good_impression,,,,,,,50k_to_100k
+259,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",,,,,,,ESTJ,good_impression,mood_boost,,,,,,100k_to_200k
+260,Yes,20s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,,,"yellow, orange",INTJ,,,self_satisfaction,,,,unique_style,above_200k
+261,Yes,30s,M,afternoon,rarely,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,blue,,,,,,ISFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,unique_style,100k_to_200k
+262,Yes,30s,M,morning,rarely,casual,,,,,,,,,white,black,,,,,,,,ISFP,good_impression,,,date_or_social,,,,50k_to_100k
+263,Yes,40s,F,morning,daily,,"minimal, simple",,"classic, suit","romantic, lovely",,,,,white,black,,,,,"green, mint",,,ESFJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+264,Yes,30s,M,morning,weekly,,,,"classic, suit",,,,,,,black,,blue,,,,,,ISTP,good_impression,,,,,,,100k_to_200k
+265,Yes,30s,M,morning,rarely,casual,,street,"classic, suit",,,sporty,,,white,black,"beige, brown",blue,,,,,,ESFJ,good_impression,,,date_or_social,,special_event,,50k_to_100k
+266,Yes,30s,F,anytime,daily,casual,"minimal, simple",street,,,,,,,,black,,,,,,,,INFP,good_impression,mood_boost,self_satisfaction,,,,,below_50k
+267,Yes,50s,M,anytime,rarely,,,,"classic, suit",,,,,,,,,blue,,,,,,ESTJ,good_impression,,,date_or_social,,,,below_50k
+268,Yes,30s,M,morning,rarely,casual,,,,,,,,,,black,,,,,,,,INFP,good_impression,,,,,,,below_50k
+269,Yes,30s,F,morning,rarely,,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,,,blue,"pink, coral",,"green, mint",,"yellow, orange",ESTJ,good_impression,mood_boost,,date_or_social,,special_event,unique_style,50k_to_100k
+270,Yes,30s,F,morning,weekly,casual,,,,"romantic, lovely",,,,,white,black,"beige, brown",,"pink, coral",,,,,ESFJ,,mood_boost,self_satisfaction,,,,,below_50k
+271,Yes,30s,F,morning,daily,casual,,,,,,,,,white,,,,"pink, coral",,,,,ENFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+272,Yes,40s,F,morning,rarely,casual,,,,,,,,,,black,"beige, brown",,,,,,,INTP,,mood_boost,self_satisfaction,,,,,below_50k
+273,Yes,40s,M,morning,rarely,,,,"classic, suit",,,,,,,black,,,,,,,,INTJ,good_impression,,,,,,,50k_to_100k
+274,Yes,30s,M,morning,daily,casual,,,,,,,,,,,"beige, brown",blue,,,,,,ENFJ,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+275,Yes,20s,F,morning,daily,casual,,,,,,,,,white,,,,,,,,,ESTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+276,Yes,30s,F,morning,daily,casual,"minimal, simple",street,,,,,,,white,black,"beige, brown",,,,,,,ISTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+277,Yes,20s,F,morning,rarely,,,street,,,,sporty,"modern, chic",,white,black,,,,,,,,ISFP,good_impression,,self_satisfaction,,,special_event,,50k_to_100k
+278,Yes,40s,F,morning,daily,casual,,,,,,sporty,,freestyle,white,black,,blue,,,,,,INFP,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+279,Yes,30s,F,morning,daily,casual,,,,,,,"modern, chic",,white,black,,,"pink, coral",,,,,INFJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+280,Yes,30s,F,morning,daily,,"minimal, simple",street,,"romantic, lovely",,,,,,black,"beige, brown",,"pink, coral",red,"green, mint",,,INFP,good_impression,mood_boost,,,formal_occasion,,,100k_to_200k
+281,Yes,30s,M,morning,weekly,casual,"minimal, simple",street,,,,,,,white,black,,,,,,,,INTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+282,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,sporty,,,white,black,,,,,,,,ENFJ,,,self_satisfaction,,,,,above_200k
+283,Yes,20s,M,morning,daily,casual,"minimal, simple",street,,,,,,,white,black,,,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,,100k_to_200k
+284,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,,,,,"green, mint",purple,,ISFP,,,self_satisfaction,,,,,100k_to_200k
+285,Yes,50s,M,morning,daily,casual,"minimal, simple",,,,,sporty,"modern, chic",,,black,,blue,,,,,"yellow, orange",ESTP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+286,Yes,40s,M,morning,rarely,casual,"minimal, simple",,"classic, suit",,,,,,white,black,,,,,"green, mint",,,ISFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+287,Yes,20s,M,morning,daily,,,,,,,,,freestyle,white,black,"beige, brown",blue,,,,,,ESTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+288,Yes,30s,F,morning,weekly,,,,,"romantic, lovely",,,,,white,,,,"pink, coral",,,,,ENFP,,,self_satisfaction,date_or_social,,,,above_200k
+289,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,,,"yellow, orange",ISFJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+290,Yes,40s,F,morning,daily,,,,"classic, suit",,,,,,white,black,,,,,,,,ENFJ,good_impression,,,,,,,50k_to_100k
+291,Yes,30s,F,morning,daily,casual,,,,,,,,,white,black,,blue,,,,,,ISTJ,,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+292,Yes,40s,M,morning,daily,casual,,,,,,,"modern, chic",,white,,,blue,,,,,,INTJ,good_impression,,self_satisfaction,,,,,below_50k
+293,Yes,40s,M,morning,weekly,,,street,,,,,"modern, chic",,,black,,,,,,,,INFJ,,,,,formal_occasion,,,50k_to_100k
+294,Yes,30s,M,morning,daily,casual,,,,,,,"modern, chic",,,black,"beige, brown",,,,,purple,,ENFP,,mood_boost,self_satisfaction,,,,unique_style,above_200k
+295,Yes,40s,M,morning,weekly,casual,,street,,,vintage,,,freestyle,white,,,,,,"green, mint",,,ENTP,good_impression,,,,,,,50k_to_100k
+296,Yes,30s,F,anytime,daily,casual,"minimal, simple",,,"romantic, lovely",,sporty,"modern, chic",freestyle,white,black,,blue,"pink, coral",red,,,"yellow, orange",ENFP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,above_200k
+297,Yes,20s,F,morning,weekly,,,,,,,,,freestyle,,black,"beige, brown",,"pink, coral",,,,,ESFJ,,mood_boost,self_satisfaction,date_or_social,,,,below_50k
+298,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,INFJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+299,Yes,30s,F,morning,daily,,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,ENTP,,,self_satisfaction,,,,unique_style,100k_to_200k
+300,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",blue,,,,,,ISFJ,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+301,Yes,20s,M,morning,rarely,,"minimal, simple",,,,,,,,,black,,,,,,,,INTJ,good_impression,,,,,,,50k_to_100k
+302,Yes,30s,M,morning,rarely,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,,,date_or_social,,,unique_style,above_200k
+303,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,,,"beige, brown",,"pink, coral",,,purple,,ENFJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+304,Yes,30s,F,morning,daily,,,,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",,,,,,,ESFJ,good_impression,,self_satisfaction,,,,,above_200k
+305,Yes,30s,F,morning,daily,,,,,,,,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,ESTP,good_impression,,self_satisfaction,,,,,50k_to_100k
+306,Yes,20s,F,morning,weekly,casual,,,"classic, suit",,,,,,,,,,"pink, coral",,,,"yellow, orange",ISTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+307,Yes,40s,M,morning,daily,casual,,,,,,,,,,,,blue,,,,,,INFJ,good_impression,,,,,,,below_50k
+308,Yes,30s,M,afternoon,rarely,casual,,,,,,,,,,,"beige, brown",,,,,,,ESTJ,,,self_satisfaction,,,,,100k_to_200k
+309,Yes,30s,M,morning,seasonal,,,street,,,,,,freestyle,white,black,"beige, brown",,,,,,,ENTJ,good_impression,,self_satisfaction,,,special_event,,above_200k
+310,Yes,30s,M,morning,daily,,,,,,vintage,,,,white,black,,,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+311,Yes,20s,F,morning,seasonal,casual,,,,,vintage,,,,white,,"beige, brown",,,red,,,,ENFJ,,mood_boost,self_satisfaction,date_or_social,,special_event,,50k_to_100k
+312,Yes,20s,F,morning,daily,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ISTJ,good_impression,,self_satisfaction,,,,,above_200k
+313,Yes,30s,F,afternoon,seasonal,casual,,,,,,,"modern, chic",,,black,"beige, brown",blue,,,,purple,,ESFP,good_impression,mood_boost,,,,,unique_style,50k_to_100k
+314,Yes,30s,F,anytime,daily,casual,,,,,,,,,white,,"beige, brown",,"pink, coral",,,purple,,ISTP,,mood_boost,self_satisfaction,,,,unique_style,50k_to_100k
+315,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,sporty,,,white,,"beige, brown",,"pink, coral",,"green, mint",,,ISFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,,50k_to_100k
+316,Yes,30s,M,morning,daily,casual,,,,,,,,,white,black,,,,,,,,ESFP,good_impression,,,,,,,100k_to_200k
+317,Yes,20s,F,morning,weekly,,,,,"romantic, lovely",,,,,white,black,,blue,,,,,,ENTP,good_impression,,self_satisfaction,date_or_social,,,,100k_to_200k
+318,Yes,30s,F,morning,weekly,,"minimal, simple",,,"romantic, lovely",,,"modern, chic",,white,black,"beige, brown",blue,"pink, coral",,"green, mint",,,ISFJ,good_impression,mood_boost,,date_or_social,formal_occasion,,,100k_to_200k
+319,Yes,40s,F,anytime,daily,,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",blue,"pink, coral",,"green, mint",,,ENTJ,good_impression,,self_satisfaction,,,,unique_style,above_200k
+320,Yes,30s,M,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,,,,,"green, mint",,,ISFP,good_impression,mood_boost,,date_or_social,,special_event,,above_200k
+321,Yes,30s,M,morning,daily,,"minimal, simple",,,,,,"modern, chic",freestyle,,black,,blue,,,,,,INTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+322,Yes,40s,M,evening,rarely,,,,"classic, suit",,,,,,white,black,,,,,,,,ESFJ,good_impression,,,,,,,below_50k
+323,Yes,30s,M,morning,daily,casual,,,,,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,ENTP,good_impression,,,,,,,above_200k
+324,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,sporty,,freestyle,white,black,,blue,,,,,,ISTJ,good_impression,mood_boost,,,formal_occasion,,unique_style,above_200k
+325,Yes,20s,F,morning,daily,,"minimal, simple",,,,,,,,white,,,blue,"pink, coral",,"green, mint",,,INFJ,,,self_satisfaction,,,,,100k_to_200k
+326,Yes,40s,F,morning,seasonal,,,,"classic, suit",,,,,,,,"beige, brown",blue,,,,,,INTP,good_impression,,self_satisfaction,,,,,50k_to_100k
+327,Yes,40s,M,morning,daily,,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,,,ISTJ,good_impression,,,,,,,above_200k
+328,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,,,white,black,,,,,,,,ISFP,good_impression,,,,,,,100k_to_200k
+329,Yes,30s,M,evening,rarely,casual,,street,,,,,"modern, chic",,,black,,blue,,,,,,ENFP,,mood_boost,self_satisfaction,date_or_social,,,,50k_to_100k
+330,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,black,"beige, brown",,,,,,,ISFP,good_impression,,self_satisfaction,,,,,100k_to_200k
+331,Yes,40s,M,morning,weekly,casual,,,,,,,,,white,,,,,,,,,ISTP,good_impression,,,,,,,50k_to_100k
+332,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,,,,,,,,ESTJ,good_impression,,self_satisfaction,,,,unique_style,above_200k
+333,Yes,20s,F,morning,daily,casual,,,,,,,,,white,,,,"pink, coral",,,,,ENTJ,,,self_satisfaction,,,,,100k_to_200k
+334,Yes,40s,F,morning,weekly,casual,,,"classic, suit",,,,,,white,black,,,,,,,,INFJ,good_impression,,,,,,,100k_to_200k
+335,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,,blue,,,,,,INFP,,mood_boost,,date_or_social,,,,below_50k
+336,Yes,30s,M,morning,daily,,,,"classic, suit",,,,,,,,"beige, brown",,"pink, coral",,"green, mint",,,ISTJ,,,self_satisfaction,,,,,100k_to_200k
+337,Yes,20s,F,afternoon,weekly,,,street,,,,,,,,,"beige, brown",,,,,,,INTP,,,self_satisfaction,,,,,50k_to_100k
+338,Yes,20s,M,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,INTP,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,100k_to_200k
+339,Yes,40s,F,anytime,weekly,,,,"classic, suit",,,,,,,,"beige, brown",,,,,,,ISTJ,,mood_boost,,,,,,100k_to_200k
+340,Yes,20s,M,anytime,daily,casual,,street,"classic, suit",,,,,,white,black,"beige, brown",,,,"green, mint",,,ISTJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+341,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,black,"beige, brown",,,,,,,INTP,,mood_boost,self_satisfaction,,,,,50k_to_100k
+342,Yes,50s,M,morning,daily,casual,,,,,,,,,white,black,"beige, brown",blue,,,"green, mint",,,ESFJ,,mood_boost,,,,,,50k_to_100k
+343,Yes,30s,F,morning,weekly,,,,"classic, suit",,,,"modern, chic",,,,,,,red,,purple,,ISTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+344,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,vintage,,"modern, chic",,white,black,,blue,,,,,,INTP,,,self_satisfaction,,,,,100k_to_200k
+345,Yes,30s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",blue,,,,,,INTP,good_impression,,,,,,,50k_to_100k
+346,Yes,30s,M,afternoon,weekly,,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,ISTJ,good_impression,,self_satisfaction,date_or_social,,,unique_style,above_200k
+347,Yes,40s,M,morning,daily,,,,"classic, suit",,,,,,white,black,,,,,,,,ISFJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+348,Yes,30s,F,morning,daily,casual,,,,,,,,freestyle,white,,,blue,,,"green, mint",,,ESFJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+349,Yes,40s,M,morning,daily,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ENFP,,,,,formal_occasion,,,50k_to_100k
+350,Yes,30s,M,morning,rarely,casual,"minimal, simple",,,,,sporty,,freestyle,white,black,"beige, brown",,,,"green, mint",,,ISTJ,good_impression,,,date_or_social,,,unique_style,100k_to_200k
+351,Yes,30s,F,morning,daily,casual,,,,"romantic, lovely",,,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,ISTP,,mood_boost,self_satisfaction,date_or_social,,,unique_style,100k_to_200k
+352,Yes,30s,M,morning,daily,,,street,"classic, suit",,,sporty,,,white,black,,blue,,,,,,ENTP,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+353,Yes,40s,F,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,freestyle,white,black,,,,,,purple,,ENTJ,,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,above_200k
+354,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISTJ,,,,,formal_occasion,,,100k_to_200k
+355,Yes,20s,F,morning,daily,,,,,,,,,freestyle,white,black,,blue,,,,,,ISFJ,,,self_satisfaction,,,,,100k_to_200k
+356,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,,,,,,,,ISFP,good_impression,,,,,,,below_50k
+357,Yes,30s,M,anytime,daily,,"minimal, simple",,"classic, suit",,,,"modern, chic",,,black,"beige, brown",blue,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+358,Yes,20s,F,morning,daily,,"minimal, simple",,,"romantic, lovely",,,,,,,,,"pink, coral",,,,,ENFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+359,Yes,30s,M,morning,daily,casual,,,,,,,,freestyle,,black,,blue,,,,,,ESTP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+360,Yes,20s,M,morning,weekly,casual,,street,,,,,,,,,"beige, brown",,,,"green, mint",,,ENTP,good_impression,,self_satisfaction,date_or_social,,,,100k_to_200k
+361,Yes,30s,F,anytime,daily,casual,"minimal, simple",,,"romantic, lovely",,,,,white,black,"beige, brown",blue,"pink, coral",red,"green, mint",purple,"yellow, orange",ENFJ,,,self_satisfaction,,,,,above_200k
+362,Yes,20s,M,morning,seasonal,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFJ,good_impression,,,,,,,below_50k
+363,Yes,20s,M,morning,rarely,,"minimal, simple",,,,,,,,white,black,,blue,,,,,,ESTJ,good_impression,,self_satisfaction,date_or_social,formal_occasion,special_event,,100k_to_200k
+364,Yes,20s,F,morning,daily,casual,"minimal, simple",,,"romantic, lovely",,,"modern, chic",freestyle,white,black,"beige, brown",,,,"green, mint",,,ISTP,good_impression,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+365,Yes,30s,F,anytime,weekly,casual,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,,100k_to_200k
+366,Yes,30s,M,morning,daily,casual,,,,,,sporty,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,date_or_social,,,unique_style,100k_to_200k
+367,Yes,20s,F,morning,daily,casual,,,"classic, suit","romantic, lovely",,,,freestyle,white,black,"beige, brown",,,,,,"yellow, orange",INFP,good_impression,mood_boost,,,,special_event,,below_50k
+368,Yes,30s,M,morning,daily,casual,,,,,,,,,,black,,,,,,,,INTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+369,Yes,40s,F,morning,daily,casual,,,,,,,,,,black,,,,,,,,INTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+370,Yes,30s,F,evening,rarely,,,,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",,,,,,,ENTP,good_impression,,,date_or_social,,,,50k_to_100k
+371,Yes,40s,F,morning,weekly,,,,"classic, suit",,,,,,,,,,,,,purple,,ENFJ,,mood_boost,,,,special_event,,100k_to_200k
+372,Yes,20s,F,anytime,daily,,"minimal, simple",,,,,,"modern, chic",,white,black,,,,red,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+373,Yes,30s,M,morning,rarely,casual,,,,,,sporty,"modern, chic",,white,,,blue,,red,,,"yellow, orange",ESFJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+374,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,freestyle,white,black,"beige, brown",blue,,,,,,ESFP,,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+375,Yes,30s,F,anytime,daily,casual,,,"classic, suit","romantic, lovely",,,,,white,,"beige, brown",blue,"pink, coral",red,,,,INFJ,good_impression,mood_boost,,,,,unique_style,100k_to_200k
+376,Yes,40s,M,morning,daily,casual,,street,,,,sporty,,,,,"beige, brown",,,,,,,ENTP,,,self_satisfaction,date_or_social,formal_occasion,,,50k_to_100k
+377,Yes,30s,M,morning,daily,casual,,,"classic, suit","romantic, lovely",vintage,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+378,Yes,30s,F,afternoon,rarely,casual,,,,,,,"modern, chic",,,black,,blue,,,"green, mint",purple,,ENTJ,good_impression,mood_boost,self_satisfaction,date_or_social,,special_event,unique_style,100k_to_200k
+379,Yes,30s,F,morning,daily,casual,"minimal, simple",street,,,vintage,sporty,"modern, chic",freestyle,white,black,"beige, brown",,,red,"green, mint",,,ENFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,100k_to_200k
+380,Yes,40s,F,anytime,daily,casual,"minimal, simple",,,,,,,freestyle,,black,"beige, brown",blue,,,"green, mint",,,INFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,50k_to_100k
+381,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ISTJ,good_impression,,,,formal_occasion,,,50k_to_100k
+382,Yes,40s,F,morning,weekly,casual,,,"classic, suit",,,,,,white,black,,,"pink, coral",,,,,ENFJ,good_impression,,,,formal_occasion,,,100k_to_200k
+383,Yes,40s,F,morning,daily,,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ENFP,,,,,,,unique_style,above_200k
+384,Yes,30s,M,morning,daily,,,,"classic, suit",,,,,,white,,,,,,,,,ENTP,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+385,No,30s,M,,,casual,"minimal, simple",,,,,,,freestyle,,black,"beige, brown",blue,,,,,,ISTP,,mood_boost,self_satisfaction,,,,,50k_to_100k
+386,Yes,40s,M,morning,daily,casual,,,,,,,,,,,"beige, brown",,,,,,,INFP,good_impression,,,,,,,50k_to_100k
+387,Yes,30s,M,morning,daily,casual,,street,,,,,,,white,black,"beige, brown",,,,,,,ISTJ,,,self_satisfaction,,,,,50k_to_100k
+388,Yes,40s,F,morning,daily,casual,"minimal, simple",,,"romantic, lovely",,sporty,"modern, chic",,white,black,"beige, brown",blue,"pink, coral",,"green, mint",,,ESFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,100k_to_200k
+389,Yes,30s,F,morning,daily,casual,,,,,,,,,white,,"beige, brown",,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+390,No,40s,M,,,,"minimal, simple",,,,,,,,,black,,,,,,,,ISFP,good_impression,,,,formal_occasion,,,100k_to_200k
+391,Yes,30s,F,morning,daily,casual,,,,"romantic, lovely",,sporty,"modern, chic",,white,black,,,"pink, coral",,,,,INFP,good_impression,mood_boost,self_satisfaction,date_or_social,,,,50k_to_100k
+392,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,INFJ,good_impression,,,,,,,50k_to_100k
+393,Yes,30s,F,morning,weekly,casual,,,,"romantic, lovely",,,"modern, chic",,,black,,blue,"pink, coral",,,,,ISTJ,good_impression,mood_boost,,,,,,100k_to_200k
+394,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,INFJ,good_impression,,,,formal_occasion,,,below_50k
+395,Yes,30s,F,morning,rarely,casual,"minimal, simple",,,,,,"modern, chic",,white,black,"beige, brown",,,,,,,ISFJ,,,,date_or_social,formal_occasion,,,50k_to_100k
+396,Yes,30s,F,morning,weekly,,"minimal, simple",,,"romantic, lovely",,,,freestyle,white,black,"beige, brown",,,red,,,,ISFJ,,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+397,Yes,30s,M,morning,rarely,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ENFP,,,self_satisfaction,date_or_social,,,,100k_to_200k
+398,Yes,20s,M,afternoon,weekly,,"minimal, simple",,,,,,,,,black,,,,,,,,ESFJ,good_impression,mood_boost,,,,,,100k_to_200k
+399,Yes,30s,F,morning,rarely,casual,,,,,,,,,white,black,,,,,,,,ISTJ,,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+400,Yes,30s,M,morning,daily,,,,,,,sporty,,,,black,,,,,,,,ESTP,good_impression,,,,,,,above_200k
+401,Yes,40s,M,morning,weekly,casual,,street,,,,sporty,,freestyle,,black,,,,,,,,INFJ,,,,,formal_occasion,,,50k_to_100k
+402,Yes,30s,F,anytime,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,,,,,,,,ISFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,100k_to_200k
+403,Yes,20s,F,morning,daily,casual,,,,,,,,freestyle,white,,,,,,,,,ENFP,good_impression,,self_satisfaction,,,,,above_200k
+404,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,ENFJ,good_impression,,,,formal_occasion,,,100k_to_200k
+405,Yes,20s,M,afternoon,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,,,,,,50k_to_100k
+406,Yes,20s,F,anytime,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,"pink, coral",,,,"yellow, orange",ISFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+407,Yes,30s,M,morning,weekly,casual,,,,,,,,,white,,"beige, brown",,,,,,,ESTJ,good_impression,mood_boost,,,formal_occasion,,,below_50k
+408,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,,,ENFJ,,mood_boost,self_satisfaction,,,,,above_200k
+409,Yes,40s,F,anytime,weekly,casual,"minimal, simple",street,,,,sporty,,,white,black,"beige, brown",blue,"pink, coral",,,,,ISFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+410,Yes,40s,M,morning,seasonal,,,,"classic, suit",,,,,,,black,"beige, brown",blue,,,,,,ENFJ,good_impression,,,,,,,below_50k
+411,Yes,20s,M,morning,daily,casual,,,,,,,,,white,black,,,,,,,,ISFP,,,,,formal_occasion,,,50k_to_100k
+412,Yes,40s,M,anytime,daily,casual,,,,,,,,freestyle,,,,,,,,,,ISFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,50k_to_100k
+413,Yes,50s,F,morning,rarely,casual,,,,,,,,,,black,,blue,,,,,,ENFP,good_impression,,,,,,,50k_to_100k
+414,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,,black,,blue,,,,,,INFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+415,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,black,"beige, brown",,,,,,,INTP,good_impression,,,,,,,100k_to_200k
+416,Yes,30s,F,morning,daily,,,,"classic, suit","romantic, lovely",,,,,,black,,,"pink, coral",,,,,ESFJ,good_impression,,self_satisfaction,,,,unique_style,above_200k
+417,Yes,30s,F,anytime,daily,casual,"minimal, simple",street,,"romantic, lovely",,sporty,,freestyle,white,,"beige, brown",blue,"pink, coral",,"green, mint",,,ESFP,,mood_boost,self_satisfaction,,,,unique_style,above_200k
+418,Yes,50s,F,evening,rarely,casual,,,,,,,,,white,,,blue,,,,,,ENFP,,,,date_or_social,,,,50k_to_100k
+419,Yes,20s,F,afternoon,rarely,casual,,,,"romantic, lovely",,,,freestyle,white,,,blue,"pink, coral",,,,,ESFP,good_impression,,self_satisfaction,,,,,100k_to_200k
+420,Yes,40s,F,morning,weekly,,,,,,,,,freestyle,white,black,"beige, brown",,,,,,,ENTP,good_impression,mood_boost,,,,,,above_200k
+421,Yes,20s,F,morning,weekly,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ISFJ,,,,,formal_occasion,,,50k_to_100k
+422,Yes,40s,M,morning,weekly,casual,,,,,,sporty,,freestyle,,black,"beige, brown",,,red,,,,ENTP,good_impression,,self_satisfaction,,,,unique_style,below_50k
+423,Yes,30s,F,anytime,rarely,,,,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",,,,,,,ENTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+424,Yes,20s,F,morning,weekly,,"minimal, simple",,,,vintage,,,freestyle,white,black,,,,,,,,ESFP,,,self_satisfaction,,,,unique_style,50k_to_100k
+425,Yes,40s,M,morning,daily,casual,,,,,vintage,sporty,,,white,black,"beige, brown",,,,,,,ENFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+426,Yes,40s,F,morning,daily,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",,,,"green, mint",,,ISFJ,,,self_satisfaction,,formal_occasion,,,above_200k
+427,Yes,30s,F,morning,daily,,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,ISTJ,,,,,formal_occasion,,,100k_to_200k
+428,Yes,40s,M,morning,rarely,,,,,"romantic, lovely",,,,,,,,,,red,"green, mint",,,ENFP,,,self_satisfaction,,formal_occasion,,,50k_to_100k
+429,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,"modern, chic",,white,black,"beige, brown",,,,,,,INTJ,,mood_boost,self_satisfaction,,,,,above_200k
+430,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,freestyle,,black,"beige, brown",,,,"green, mint",,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,below_50k
+431,Yes,30s,F,morning,weekly,casual,,,,,,,,,white,black,"beige, brown",,,,,,,INFJ,,,self_satisfaction,,,,,100k_to_200k
+432,Yes,40s,M,morning,weekly,casual,,,,,,,,,white,black,,,,,,,,INFP,good_impression,,,,,,,50k_to_100k
+433,Yes,40s,M,morning,rarely,casual,,,,,,,,,,black,"beige, brown",,,,,,,INTJ,,,,,,,unique_style,50k_to_100k
+434,Yes,20s,F,anytime,rarely,casual,"minimal, simple",,,,,,,,white,black,,,"pink, coral",,,,,ISTJ,good_impression,,,,,,unique_style,50k_to_100k
+435,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,"modern, chic",,white,black,,,,red,"green, mint",,,ESFP,good_impression,,self_satisfaction,,,,,100k_to_200k
+436,Yes,30s,M,morning,rarely,casual,,,,,,,,,,black,,,,,,,,ISTJ,good_impression,,,,,,,below_50k
+437,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit","romantic, lovely",,,,,white,black,,blue,,,,,,INFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+438,Yes,20s,M,anytime,daily,casual,"minimal, simple",,,,,,"modern, chic",freestyle,,black,"beige, brown",blue,"pink, coral",,"green, mint",,,ENTP,good_impression,mood_boost,self_satisfaction,date_or_social,,,unique_style,100k_to_200k
+439,Yes,30s,F,morning,daily,casual,,,,,,sporty,,freestyle,white,black,"beige, brown",,"pink, coral",,"green, mint",purple,"yellow, orange",ENFP,,,,,formal_occasion,,,below_50k
+440,Yes,30s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",,,,,,,ESTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+441,Yes,40s,F,morning,daily,,,,"classic, suit",,,,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,INTP,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+442,Yes,40s,M,morning,daily,casual,,,,,,,,freestyle,white,black,"beige, brown",,,,,,,ENFJ,good_impression,,self_satisfaction,,,,unique_style,50k_to_100k
+443,Yes,30s,M,anytime,daily,casual,"minimal, simple",,,,,,,,white,,"beige, brown",,,,"green, mint",,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+444,Yes,30s,M,morning,weekly,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",blue,,,,,,ENFJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+445,Yes,20s,M,anytime,daily,casual,"minimal, simple",,,,vintage,,,,,black,"beige, brown",,,,,,"yellow, orange",ENFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,unique_style,above_200k
+446,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFJ,good_impression,,self_satisfaction,date_or_social,formal_occasion,,,100k_to_200k
+447,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,freestyle,white,black,"beige, brown",blue,,,,,"yellow, orange",ISFP,good_impression,,self_satisfaction,,,,,100k_to_200k
+448,Yes,30s,F,morning,rarely,casual,,,,"romantic, lovely",,,,,,black,,blue,,,,purple,,ENTP,,mood_boost,self_satisfaction,,,,,50k_to_100k
+449,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+450,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,,,blue,,,,,,ISFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+451,Yes,50s,M,morning,daily,,,,"classic, suit",,,,,,,black,,,,,,,,ESFP,good_impression,,,,,,,50k_to_100k
+452,No,20s,M,,,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,INTP,good_impression,,,,,,,below_50k
+453,Yes,40s,M,morning,seasonal,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ISTJ,good_impression,mood_boost,,date_or_social,,,,100k_to_200k
+454,Yes,30s,F,anytime,daily,casual,,,,,,,"modern, chic",,white,black,,,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,above_200k
+455,Yes,40s,M,morning,daily,,,,,,,,"modern, chic",,,,,,,,"green, mint",,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+456,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,,black,,blue,,,,,,ESTP,good_impression,,self_satisfaction,,formal_occasion,,unique_style,50k_to_100k
+457,Yes,30s,F,morning,rarely,casual,,street,,"romantic, lovely",,,,,white,black,"beige, brown",,,,,,,ISFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+458,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,,purple,,ISFP,good_impression,,self_satisfaction,,,,,above_200k
+459,Yes,40s,F,morning,rarely,casual,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,,,ISFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+460,Yes,30s,M,morning,weekly,casual,,,,,,,,,white,,,,,,,,"yellow, orange",ISTP,good_impression,,,,,,,50k_to_100k
+461,Yes,30s,F,anytime,rarely,casual,"minimal, simple",,,,,,,freestyle,,black,"beige, brown",,,,,,,ISTP,,,self_satisfaction,,,,,100k_to_200k
+462,Yes,30s,M,anytime,rarely,casual,,,,,,,,,,black,,,,,,,,ENTP,good_impression,,,,,,,below_50k
+463,Yes,40s,F,anytime,seasonal,,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,,"beige, brown",blue,"pink, coral",red,"green, mint",purple,"yellow, orange",ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,,50k_to_100k
+464,Yes,20s,F,anytime,daily,casual,"minimal, simple",,,"romantic, lovely",,,,,white,black,,,,,,,,ENFP,good_impression,mood_boost,,date_or_social,formal_occasion,,,50k_to_100k
+465,Yes,30s,F,morning,daily,casual,,,,,,sporty,,freestyle,white,black,"beige, brown",,,,,,,ISFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+466,Yes,30s,M,morning,daily,casual,,,,,,,,,white,black,,,"pink, coral",,,,,ISTJ,,,self_satisfaction,,,,,below_50k
+467,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,white,,"beige, brown",,,,,purple,,ENTP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,,50k_to_100k
+468,Yes,30s,F,morning,daily,,,,"classic, suit","romantic, lovely",,,,,white,black,,,,,"green, mint",,,INFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+469,Yes,30s,M,morning,daily,,,,,,,sporty,,,white,black,"beige, brown",,,,,,,INFJ,good_impression,,self_satisfaction,,,,unique_style,above_200k
+470,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",blue,,,,,,ESTJ,good_impression,,,,,,,50k_to_100k
+471,Yes,30s,M,morning,daily,casual,,,,,,,,freestyle,,,"beige, brown",,,,,,,ENTP,good_impression,,self_satisfaction,,,,,above_200k
+472,Yes,30s,F,morning,daily,,,,,"romantic, lovely",,,,,white,black,"beige, brown",,"pink, coral",,,,,ENFJ,good_impression,mood_boost,,,,,,50k_to_100k
+473,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,ESFP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,50k_to_100k
+474,Yes,30s,F,morning,weekly,casual,,,,,,sporty,,,white,black,,,,,,purple,,ISFJ,good_impression,,,,,,unique_style,above_200k
+475,Yes,20s,M,anytime,weekly,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFJ,good_impression,,,,,,,100k_to_200k
+476,Yes,30s,M,anytime,daily,casual,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,ENFJ,good_impression,,self_satisfaction,,,,unique_style,50k_to_100k
+477,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,,black,"beige, brown",,,,,,,ENTJ,,,self_satisfaction,,,,,100k_to_200k
+478,Yes,30s,F,anytime,daily,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",,,black,,,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,100k_to_200k
+479,Yes,30s,M,morning,daily,,,street,"classic, suit",,vintage,,,,white,black,,blue,,red,,,,ISFP,good_impression,mood_boost,,,formal_occasion,,,below_50k
+480,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",,,,,,,INFJ,good_impression,,,date_or_social,formal_occasion,,unique_style,below_50k
+481,Yes,30s,M,morning,seasonal,casual,,,,,,,"modern, chic",,,,,blue,,,"green, mint",,"yellow, orange",ENTP,,,self_satisfaction,,,,,100k_to_200k
+482,Yes,30s,M,morning,rarely,,"minimal, simple",,"classic, suit",,,sporty,,freestyle,white,black,,blue,,,,,,ISTP,good_impression,,self_satisfaction,,,,unique_style,above_200k
+483,Yes,30s,M,morning,weekly,,,street,,,,,"modern, chic",,white,black,,,,,,,,ENFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+484,Yes,20s,F,morning,seasonal,,,,,,,,,freestyle,,,"beige, brown",,"pink, coral",,,purple,,INFJ,,mood_boost,self_satisfaction,date_or_social,,,unique_style,100k_to_200k
+485,Yes,20s,M,morning,daily,,"minimal, simple",,,,,,,,,black,,,,,,,,ESFJ,good_impression,mood_boost,,,,,,100k_to_200k
+486,Yes,30s,M,morning,daily,,,,,,,,,freestyle,white,black,,,,red,,,,INFJ,good_impression,,self_satisfaction,,,,unique_style,50k_to_100k
+487,Yes,30s,F,morning,daily,casual,,,,,,,,,,black,"beige, brown",,"pink, coral",,,,,ISFJ,good_impression,,self_satisfaction,,,,,above_200k
+488,Yes,20s,F,morning,rarely,,"minimal, simple",,,,,,"modern, chic",freestyle,,,,,,,"green, mint",purple,"yellow, orange",INFJ,good_impression,,self_satisfaction,date_or_social,,special_event,,50k_to_100k
+489,Yes,30s,F,morning,weekly,,"minimal, simple",,,"romantic, lovely",,,,,white,,"beige, brown",blue,,,,,,INTJ,good_impression,mood_boost,,,,,,50k_to_100k
+490,Yes,30s,M,morning,weekly,,,street,,,,,"modern, chic",,,,"beige, brown",,,,,,,ESFP,,,,date_or_social,,,,100k_to_200k
+491,Yes,20s,M,anytime,weekly,casual,,,"classic, suit",,,,,,white,black,"beige, brown",blue,,,,,,ESFJ,good_impression,,,,formal_occasion,,,100k_to_200k
+492,Yes,30s,F,morning,daily,casual,,street,,"romantic, lovely",,sporty,,freestyle,white,black,,blue,"pink, coral",,"green, mint",,,ESFP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,above_200k
+493,Yes,20s,M,morning,weekly,,"minimal, simple",,,,,,,,,black,,,,,,,,INTJ,good_impression,,,date_or_social,formal_occasion,,,100k_to_200k
+494,Yes,30s,M,morning,weekly,casual,,,,,,,,,,black,,,,,,,,ISTJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+495,Yes,30s,F,morning,rarely,casual,,,,,,,,,white,,,,"pink, coral",,,,,INFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+496,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,,"beige, brown",,,,,,,INTP,good_impression,,,,,,unique_style,100k_to_200k
+497,Yes,30s,F,morning,weekly,,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,black,,blue,"pink, coral",,,,,ESTJ,good_impression,mood_boost,,date_or_social,,,,above_200k
+498,Yes,40s,M,morning,weekly,casual,,,,,,sporty,,,,black,,,,,,,,ISTP,good_impression,,,,,,,below_50k
+499,Yes,30s,M,afternoon,rarely,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,blue,,,,,,ISTP,good_impression,,,date_or_social,,,,below_50k
+500,Yes,20s,M,anytime,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ESFJ,good_impression,mood_boost,,date_or_social,formal_occasion,,,above_200k
+501,Yes,40s,M,morning,daily,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,,"beige, brown",blue,,,"green, mint",,,ENFJ,good_impression,mood_boost,,date_or_social,formal_occasion,special_event,unique_style,above_200k
+502,Yes,20s,F,morning,daily,,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,ISFJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+503,Yes,20s,M,morning,daily,,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,ENFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,50k_to_100k
+504,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,,,INTP,,mood_boost,,,,,unique_style,50k_to_100k
+505,Yes,20s,F,morning,daily,casual,"minimal, simple",,"classic, suit",,vintage,,,,,black,,blue,,,,,,ENFP,good_impression,,self_satisfaction,date_or_social,formal_occasion,,,above_200k
+506,Yes,30s,F,anytime,daily,,"minimal, simple",,,,,,,freestyle,,black,"beige, brown",,,,,,,INFJ,,mood_boost,self_satisfaction,date_or_social,,,unique_style,above_200k
+507,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,,,,"pink, coral",,,,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+508,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,INFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+509,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,blue,,,,,,INTJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,above_200k
+510,Yes,20s,F,morning,daily,casual,"minimal, simple",street,,,,,,,,,,blue,"pink, coral",,,,,ISFP,,mood_boost,self_satisfaction,,,,,above_200k
+511,Yes,30s,M,evening,seasonal,casual,"minimal, simple",,"classic, suit",,,,,,,,"beige, brown",,,red,,,,ESFJ,good_impression,,,date_or_social,formal_occasion,,,100k_to_200k
+512,Yes,30s,M,evening,rarely,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ESTJ,,,,date_or_social,,,,50k_to_100k
+513,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,blue,,,,,,INFJ,,,self_satisfaction,,,,,100k_to_200k
+514,Yes,30s,M,anytime,daily,casual,"minimal, simple",,"classic, suit","romantic, lovely",,sporty,,freestyle,white,black,"beige, brown",blue,"pink, coral",red,"green, mint",,,ESFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+515,Yes,30s,M,morning,rarely,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISTJ,,,,date_or_social,,,,100k_to_200k
+516,Yes,30s,M,morning,weekly,,,street,"classic, suit",,,sporty,,,,black,,,"pink, coral",,"green, mint",,,ENFJ,good_impression,,self_satisfaction,date_or_social,formal_occasion,,,50k_to_100k
+517,Yes,30s,M,morning,daily,casual,"minimal, simple",street,,,,,,freestyle,,black,"beige, brown",,,red,,,,ENFP,good_impression,mood_boost,,,,,,100k_to_200k
+518,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ISFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+519,Yes,40s,M,morning,rarely,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,INTJ,good_impression,,,,,,,50k_to_100k
+520,Yes,30s,M,morning,weekly,casual,"minimal, simple",,,,,,,freestyle,,black,,,,,,,,INTP,,mood_boost,self_satisfaction,,,,,50k_to_100k
+521,Yes,40s,M,morning,weekly,,"minimal, simple",,"classic, suit","romantic, lovely",,,,,,black,,blue,,,"green, mint",,,ENTP,good_impression,mood_boost,,,,,,50k_to_100k
+522,Yes,30s,F,anytime,daily,,,,"classic, suit",,,,,,,black,,blue,,,,,,INTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+523,Yes,40s,M,morning,daily,,,,,,vintage,sporty,,freestyle,white,black,,,,,,,,ESFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+524,Yes,30s,M,morning,weekly,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ISFJ,,,,,formal_occasion,,,50k_to_100k
+525,Yes,20s,M,morning,weekly,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,INFP,good_impression,,,,,,,50k_to_100k
+526,Yes,40s,M,morning,rarely,casual,,,,,,,,,,black,,,,,,,,ENTP,good_impression,mood_boost,,,,,,50k_to_100k
+527,Yes,20s,F,morning,weekly,,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,ENTJ,,,self_satisfaction,,,,,above_200k
+528,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,vintage,,,freestyle,,black,"beige, brown",blue,,,,,,ISFJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+529,Yes,40s,M,morning,daily,,,street,,"romantic, lovely",,sporty,,,,,"beige, brown",,"pink, coral",,"green, mint",,,INFJ,good_impression,mood_boost,,,,,,50k_to_100k
+530,Yes,20s,M,anytime,rarely,casual,"minimal, simple",,,,,,,,,black,,blue,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,50k_to_100k
+531,Yes,30s,M,morning,daily,casual,"minimal, simple",street,,"romantic, lovely",,,,,,,,,,,,,,ENTP,good_impression,,self_satisfaction,date_or_social,formal_occasion,,,above_200k
+532,Yes,40s,F,morning,weekly,casual,,,"classic, suit",,,sporty,"modern, chic",,white,,,,,,"green, mint",purple,,ISFP,,,,,formal_occasion,,,100k_to_200k
+533,Yes,40s,M,anytime,daily,casual,,,"classic, suit",,,,,,white,,"beige, brown",blue,,,,,,ENFP,good_impression,,,date_or_social,formal_occasion,,,above_200k
+534,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,,"beige, brown",,,,,,"yellow, orange",ISFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+535,Yes,30s,F,morning,weekly,casual,,,,"romantic, lovely",,,,,white,,,,"pink, coral",,,,"yellow, orange",ENFP,good_impression,mood_boost,,date_or_social,formal_occasion,,,100k_to_200k
+536,Yes,20s,M,morning,seasonal,,,,"classic, suit",,,,,,,,,blue,,,,,,ENFJ,good_impression,,,,,,,above_200k
+537,Yes,40s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,black,,blue,,red,,,,ENFP,good_impression,,,,formal_occasion,,unique_style,100k_to_200k
+538,Yes,30s,M,morning,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,,,,,,,below_50k
+539,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,,,,black,,,"pink, coral",red,,purple,,ESFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+540,Yes,30s,F,morning,daily,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,,"beige, brown",,,,,,,ENFP,good_impression,mood_boost,,,,,,50k_to_100k
+541,Yes,20s,M,morning,weekly,casual,"minimal, simple",street,,,vintage,,,freestyle,white,black,,,,,,,,ESTP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,100k_to_200k
+542,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,,,white,,,blue,,,,,,INFJ,,,self_satisfaction,,,,,50k_to_100k
+543,Yes,40s,F,morning,daily,casual,,,,"romantic, lovely",,,"modern, chic",freestyle,white,black,,,,,"green, mint",,,ISTP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+544,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,,,blue,,,,,,ENTP,good_impression,mood_boost,,,,,,50k_to_100k
+545,Yes,30s,F,morning,daily,casual,,,"classic, suit","romantic, lovely",,,,,white,,"beige, brown",,"pink, coral",,"green, mint",,,ESFJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+546,Yes,30s,F,morning,weekly,casual,"minimal, simple",street,,,,,,,white,black,"beige, brown",,,,,,,ISTP,,,self_satisfaction,,,,,100k_to_200k
+547,Yes,30s,M,morning,daily,casual,,,,,,,,,white,black,,,,,,,,ESTP,good_impression,mood_boost,,,,,,100k_to_200k
+548,Yes,30s,F,morning,rarely,casual,,,,"romantic, lovely",,,,,,black,,,"pink, coral",,,,,ISTJ,good_impression,,,,,,,50k_to_100k
+549,Yes,30s,F,anytime,weekly,casual,"minimal, simple",street,,,,,"modern, chic",,white,black,"beige, brown",,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+550,Yes,20s,F,morning,daily,,"minimal, simple",,,"romantic, lovely",,,,,white,black,,blue,"pink, coral",,,purple,,ENTP,,,self_satisfaction,,,,,above_200k
+551,Yes,30s,F,morning,daily,casual,"minimal, simple",,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",blue,,,,,,ESFJ,,mood_boost,,,,,,100k_to_200k
+552,Yes,20s,M,morning,daily,,"minimal, simple",,"classic, suit",,,,,,,black,,,,,,,,ENTP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,above_200k
+553,Yes,30s,M,morning,rarely,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISTJ,,mood_boost,self_satisfaction,date_or_social,,,,below_50k
+554,Yes,30s,M,morning,daily,casual,,,,,vintage,,,,,,,,,,"green, mint",,,ESFJ,good_impression,,,,,,unique_style,above_200k
+555,Yes,20s,M,morning,daily,,"minimal, simple",,"classic, suit",,vintage,,,,white,black,"beige, brown",blue,,,,,,ENTP,good_impression,mood_boost,self_satisfaction,,,,unique_style,above_200k
+556,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,"modern, chic",,white,,"beige, brown",,"pink, coral",,"green, mint",,,INFJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,above_200k
+557,Yes,40s,F,morning,daily,casual,,,"classic, suit",,,,,,,black,,,,,,,,INTJ,,,self_satisfaction,,,,,50k_to_100k
+558,Yes,40s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,"pink, coral",,"green, mint",,,ESFP,good_impression,,self_satisfaction,,,,unique_style,above_200k
+559,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISTP,,,self_satisfaction,,,,,50k_to_100k
+560,Yes,30s,M,morning,daily,casual,,,,,,,,,white,,,,,,,,,ESTJ,good_impression,,,,,,,50k_to_100k
+561,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,,black,,,,,"green, mint",,,ISTP,good_impression,,self_satisfaction,date_or_social,,,,50k_to_100k
+562,Yes,40s,M,morning,rarely,casual,,,,,,,,,,,"beige, brown",,,,,,,ISTJ,,,self_satisfaction,,,,,100k_to_200k
+563,Yes,30s,M,morning,rarely,casual,,,"classic, suit",,,,,freestyle,white,black,"beige, brown",,,,,,,ENFJ,good_impression,,self_satisfaction,,formal_occasion,,,50k_to_100k
+564,Yes,30s,M,morning,weekly,casual,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,"beige, brown",,,,"green, mint",,,ISTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+565,Yes,30s,M,anytime,daily,,,street,,,vintage,,,,,,"beige, brown",,,red,,,"yellow, orange",ENTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+566,Yes,40s,M,morning,rarely,,,,"classic, suit",,,,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+567,Yes,20s,F,anytime,rarely,casual,"minimal, simple",,,"romantic, lovely",,,"modern, chic",,white,black,,blue,,,,,,ISTP,good_impression,mood_boost,,date_or_social,,,,above_200k
+568,Yes,40s,M,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,INTP,good_impression,mood_boost,,,,,,below_50k
+569,Yes,20s,F,morning,daily,casual,,,,"romantic, lovely",,,,,white,,,,"pink, coral",,,,"yellow, orange",ISFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,100k_to_200k
+570,Yes,40s,M,evening,rarely,casual,,,,,,,,freestyle,white,black,,blue,,,"green, mint",,,ISTJ,good_impression,,,date_or_social,,,,50k_to_100k
+571,Yes,20s,F,morning,weekly,casual,,,,,,sporty,,,white,black,"beige, brown",,,,,,,ENFP,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+572,Yes,30s,F,anytime,daily,casual,"minimal, simple",,,,,sporty,,,white,,"beige, brown",blue,,,"green, mint",,,ENTP,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+573,Yes,20s,F,anytime,daily,,,,"classic, suit",,,,,,white,black,"beige, brown",,"pink, coral",,,,,INFJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+574,Yes,30s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",,,,,,,ISFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,100k_to_200k
+575,Yes,40s,F,anytime,weekly,casual,"minimal, simple",,,,,,,,white,,"beige, brown",,,,,,,ESFP,good_impression,mood_boost,,,,,,50k_to_100k
+576,Yes,40s,M,anytime,rarely,casual,,,,,,,,,white,,,,"pink, coral",red,,,,ENFP,good_impression,mood_boost,self_satisfaction,,,,unique_style,50k_to_100k
+577,Yes,30s,M,morning,daily,casual,,,,,,,,,,,,,,red,,,,INTJ,good_impression,,,,,,,100k_to_200k
+578,Yes,40s,F,morning,weekly,,,,"classic, suit","romantic, lovely",,,"modern, chic",,,black,,blue,,,,,,ENTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+579,Yes,30s,F,morning,weekly,casual,,,,"romantic, lovely",,,,,white,,,,"pink, coral",,,purple,,ESFJ,good_impression,mood_boost,,,,,unique_style,50k_to_100k
+580,Yes,40s,M,morning,daily,,,street,"classic, suit",,,,,,,black,,,,,,,,INFP,,mood_boost,,,,,,above_200k
+581,Yes,40s,F,morning,daily,,,,"classic, suit",,,,"modern, chic",,,black,"beige, brown",,"pink, coral",,,,,ESTP,,,self_satisfaction,,formal_occasion,,,above_200k
+582,Yes,40s,F,morning,daily,,,,"classic, suit",,,,,,,black,,,,,,,,INFP,,mood_boost,,,,,,above_200k
+583,Yes,30s,F,morning,daily,,,,"classic, suit","romantic, lovely",,,,,,,,blue,,,"green, mint",purple,"yellow, orange",ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,unique_style,above_200k
+584,Yes,30s,M,afternoon,rarely,casual,,,,,,,,,white,black,,blue,"pink, coral",,"green, mint",,,ENFP,good_impression,mood_boost,,,,,,above_200k
+585,Yes,30s,M,morning,weekly,casual,,street,,,vintage,,,,white,black,,,,,,,,ENTP,good_impression,mood_boost,,date_or_social,,,,50k_to_100k
+586,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,,,,"pink, coral",,,,,ESTP,,,self_satisfaction,,,,,100k_to_200k
+587,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,freestyle,,black,,,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,above_200k
+588,Yes,40s,M,evening,rarely,casual,"minimal, simple",,,,,,,,white,,,blue,,,,,,ISTJ,good_impression,,,date_or_social,,,,50k_to_100k
+589,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,,,INFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+590,Yes,20s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ESTJ,good_impression,,,,formal_occasion,,,100k_to_200k
+591,Yes,30s,F,morning,daily,,,,,,,,,freestyle,white,black,"beige, brown",,,red,,,,ISTJ,,,self_satisfaction,,,,,50k_to_100k
+592,Yes,40s,M,morning,daily,casual,,,,,,,,,,,"beige, brown",,,,,,,ENTJ,,,self_satisfaction,,,,,100k_to_200k
+593,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,freestyle,white,black,"beige, brown",,,,,,,ISFP,good_impression,,self_satisfaction,date_or_social,,special_event,,50k_to_100k
+594,Yes,40s,F,morning,weekly,,"minimal, simple",,,"romantic, lovely",,,,,,,"beige, brown",,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+595,Yes,30s,M,morning,daily,casual,,,,,,,,freestyle,,black,,,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,above_200k
+596,Yes,30s,M,morning,daily,casual,,,,,,,,,white,,,,,,,,,ISTJ,good_impression,,,,,,,below_50k
+597,Yes,40s,F,morning,daily,,,,"classic, suit","romantic, lovely",,,,,white,,"beige, brown",,,,"green, mint",,,ESFJ,,,self_satisfaction,,formal_occasion,,,50k_to_100k
+598,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,freestyle,,black,"beige, brown",,,red,"green, mint",,,INFJ,good_impression,mood_boost,self_satisfaction,,,,,below_50k
+599,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",,,,,,,INFJ,good_impression,,,,,,,below_50k
+600,Yes,30s,F,morning,weekly,,"minimal, simple",,"classic, suit",,,,,,,,"beige, brown",,"pink, coral",,,,,INFP,,mood_boost,,,,,,below_50k
+601,Yes,30s,F,morning,daily,,,,,,,,,freestyle,,black,,blue,,,"green, mint",,"yellow, orange",ENFP,,mood_boost,self_satisfaction,date_or_social,,,unique_style,above_200k
+602,Yes,30s,M,morning,daily,casual,"minimal, simple",street,,,vintage,,,freestyle,,black,"beige, brown",,,,,purple,,ISTP,good_impression,,self_satisfaction,date_or_social,,,unique_style,above_200k
+603,Yes,30s,F,morning,rarely,casual,,,,"romantic, lovely",,,,freestyle,white,,"beige, brown",,"pink, coral",,"green, mint",,"yellow, orange",ISTP,good_impression,mood_boost,self_satisfaction,date_or_social,,special_event,,above_200k
+604,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,"romantic, lovely",,,,,white,black,,,,,,,"yellow, orange",ISFJ,,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+605,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,"green, mint",,,INFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+606,Yes,30s,F,anytime,daily,casual,"minimal, simple",,,,,,"modern, chic",freestyle,white,,,,,,"green, mint",,,ESTP,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+607,Yes,30s,F,morning,daily,casual,,street,,,,sporty,,,white,,"beige, brown",,,,,purple,,INFP,,mood_boost,self_satisfaction,,,,,above_200k
+608,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,"modern, chic",freestyle,white,black,,blue,,,,purple,,ESTJ,,,self_satisfaction,,formal_occasion,,,below_50k
+609,Yes,30s,M,anytime,weekly,casual,,,,"romantic, lovely",,,"modern, chic",freestyle,white,black,,blue,,,,purple,,ISTJ,good_impression,mood_boost,,date_or_social,,,,100k_to_200k
+610,Yes,20s,F,morning,weekly,,,,,"romantic, lovely",,,,,white,,,,"pink, coral",,,,,ESTP,,mood_boost,,,,,,100k_to_200k
+611,Yes,30s,F,morning,daily,,,,"classic, suit","romantic, lovely",,,,,white,black,,,"pink, coral",,,purple,,ESFJ,good_impression,,self_satisfaction,date_or_social,,,,100k_to_200k
+612,Yes,40s,M,anytime,weekly,casual,,,,,,,,freestyle,,black,,,,red,,,,ESTP,,,self_satisfaction,,,,,50k_to_100k
+613,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,,,,"pink, coral",,,,"yellow, orange",ESTP,good_impression,mood_boost,,,,,,above_200k
+614,Yes,30s,F,morning,weekly,casual,"minimal, simple",street,,,,,,,white,,,,"pink, coral",,"green, mint",,,INFP,good_impression,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+615,Yes,40s,M,morning,rarely,casual,,,"classic, suit",,,,,,,black,,blue,,,,,,ESTJ,good_impression,,,,,,unique_style,50k_to_100k
+616,Yes,30s,M,morning,seasonal,casual,"minimal, simple",,,,,,,freestyle,white,black,,,,,,,,ESTP,good_impression,mood_boost,,date_or_social,,,,100k_to_200k
+617,Yes,40s,M,morning,weekly,,,,,,,,,freestyle,,black,,blue,,,,,,ENFP,,,self_satisfaction,,,,,above_200k
+618,Yes,40s,M,morning,weekly,casual,,,,,,,,,,,"beige, brown",,,,"green, mint",,,INTJ,,mood_boost,,date_or_social,,,,50k_to_100k
+619,Yes,30s,M,morning,rarely,casual,,,,,vintage,,"modern, chic",,white,black,"beige, brown",,,,,,,INFP,good_impression,mood_boost,,,,,,below_50k
+620,Yes,30s,F,morning,rarely,casual,"minimal, simple",,,,,,,,,black,,blue,"pink, coral",,,,,ISTJ,good_impression,mood_boost,,date_or_social,formal_occasion,,,50k_to_100k
+621,Yes,30s,M,morning,rarely,casual,,,,,,,,,white,,"beige, brown",blue,"pink, coral",,,,,INTJ,,,self_satisfaction,,,,,50k_to_100k
+622,Yes,30s,F,anytime,daily,,,,"classic, suit","romantic, lovely",,,,,,black,,,"pink, coral",,,,,ISFP,,mood_boost,self_satisfaction,,,,,above_200k
+623,Yes,40s,F,morning,weekly,,,,"classic, suit","romantic, lovely",,,,,white,,,blue,"pink, coral",,,,,ENFP,good_impression,,,,,,,50k_to_100k
+624,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,sporty,,,white,black,,,,,,,,ESTJ,,mood_boost,,date_or_social,,,,50k_to_100k
+625,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,,"beige, brown",,,,,purple,,ESTP,good_impression,,,,formal_occasion,,unique_style,50k_to_100k
+626,Yes,40s,F,anytime,weekly,casual,,,"classic, suit",,,,,freestyle,white,black,"beige, brown",,,,"green, mint",,,ESFJ,good_impression,,self_satisfaction,date_or_social,,,,100k_to_200k
+627,Yes,30s,F,morning,daily,,"minimal, simple",,,"romantic, lovely",,,,,white,black,,,"pink, coral",,,,,ISFJ,good_impression,,self_satisfaction,,formal_occasion,,unique_style,below_50k
+628,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,,blue,,,,,,ENFP,good_impression,,,,,,,50k_to_100k
+629,Yes,40s,M,anytime,daily,,,,"classic, suit",,,,"modern, chic",,,black,,,,,,,,INFJ,good_impression,,self_satisfaction,,,,,below_50k
+630,Yes,20s,F,morning,daily,casual,,,,,,,,,white,,"beige, brown",,"pink, coral",,,,,ISTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+631,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,INFJ,,mood_boost,,,,,,above_200k
+632,Yes,30s,M,morning,daily,casual,,,"classic, suit",,vintage,,,,,black,,,,,,,,ENTJ,good_impression,,,,,,,above_200k
+633,Yes,30s,F,morning,seasonal,,"minimal, simple",,,,,,,,white,,"beige, brown",,,,,,"yellow, orange",ESFJ,,mood_boost,self_satisfaction,,,,,above_200k
+634,Yes,40s,M,morning,weekly,casual,,,,,,sporty,,,,black,,,,,"green, mint",,,INTJ,,,self_satisfaction,,,,,100k_to_200k
+635,Yes,30s,M,morning,rarely,casual,,,,,vintage,,,,white,black,,,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,100k_to_200k
+636,Yes,30s,M,morning,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,INFJ,good_impression,mood_boost,,,,,,below_50k
+637,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit","romantic, lovely",,,"modern, chic",,white,,"beige, brown",,,,,,,ENTJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,above_200k
+638,Yes,40s,M,evening,seasonal,casual,,street,,,vintage,,,,,black,"beige, brown",,,,,,,ISTP,,mood_boost,,,,,,below_50k
+639,Yes,30s,M,morning,rarely,casual,,,,,,,"modern, chic",,white,black,"beige, brown",blue,,,"green, mint",,,INTJ,good_impression,,,date_or_social,,,unique_style,100k_to_200k
+640,Yes,20s,M,morning,weekly,casual,"minimal, simple",street,,,vintage,,,,white,black,,,,,"green, mint",,,INFP,good_impression,,self_satisfaction,,formal_occasion,,,50k_to_100k
+641,Yes,40s,M,morning,daily,casual,,,,,,,,,white,,,,,,,,,ESFP,good_impression,,,,,,,below_50k
+642,Yes,20s,F,morning,weekly,,,,,"romantic, lovely",,,,freestyle,white,black,,,,,,,,ESFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+643,Yes,30s,F,morning,weekly,casual,,street,,"romantic, lovely",vintage,,,freestyle,white,black,"beige, brown",,"pink, coral",,,,,ESTJ,,mood_boost,,,formal_occasion,special_event,unique_style,100k_to_200k
+644,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,,,,,,,,ISFJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+645,Yes,30s,M,morning,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,INFP,good_impression,mood_boost,self_satisfaction,date_or_social,,,,50k_to_100k
+646,Yes,40s,M,evening,rarely,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ISTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+647,Yes,30s,F,anytime,rarely,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFP,good_impression,,,date_or_social,formal_occasion,,,below_50k
+648,Yes,40s,F,morning,weekly,,"minimal, simple",,,,,,,,,,,,,red,,,,ISTJ,,,,,formal_occasion,,,100k_to_200k
+649,Yes,40s,M,morning,daily,,,,"classic, suit",,,,,,white,,,,,,,,,ESFP,good_impression,mood_boost,,,,,,below_50k
+650,Yes,40s,F,morning,daily,casual,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,purple,,ESTJ,,mood_boost,self_satisfaction,,,,,above_200k
+651,Yes,20s,F,anytime,daily,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,black,,,,red,,,,ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,above_200k
+652,Yes,40s,F,morning,daily,casual,,,"classic, suit",,,,,freestyle,white,black,,blue,,,,,,INFJ,,,self_satisfaction,,,,,100k_to_200k
+653,Yes,30s,M,anytime,rarely,,"minimal, simple",,,,,,,,,black,,blue,,,,,,ISTJ,good_impression,,,,,,,above_200k
+654,Yes,30s,F,morning,rarely,,,,,,,,"modern, chic",freestyle,,black,,,,,"green, mint",,,ISFP,good_impression,mood_boost,,date_or_social,,,,100k_to_200k
+655,Yes,40s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,,,blue,"pink, coral",,"green, mint",,,INFJ,,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+656,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ENTJ,,,self_satisfaction,,formal_occasion,,,100k_to_200k
+657,Yes,20s,M,morning,weekly,casual,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",,,,,,,ESTP,good_impression,,,date_or_social,formal_occasion,,,50k_to_100k
+658,Yes,40s,F,morning,daily,,,,,,,,,freestyle,,black,,,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+659,Yes,30s,M,morning,rarely,casual,"minimal, simple",,,,,sporty,,,white,,,,,,,,,ISTJ,good_impression,mood_boost,,,,,,100k_to_200k
+660,Yes,50s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,,blue,,,,,,ENTP,good_impression,,self_satisfaction,,,,,below_50k
+661,Yes,20s,F,morning,weekly,casual,"minimal, simple",street,,,,,,freestyle,white,black,"beige, brown",,,,,,,INFP,good_impression,mood_boost,self_satisfaction,,,,unique_style,50k_to_100k
+662,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,black,,blue,,,,,,ENTJ,good_impression,,,,,,,50k_to_100k
+663,Yes,30s,F,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,INTJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,above_200k
+664,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,freestyle,,black,"beige, brown",,,,,,,ESTP,good_impression,,self_satisfaction,date_or_social,formal_occasion,,,100k_to_200k
+665,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,self_satisfaction,,,,,above_200k
+666,Yes,40s,F,anytime,daily,,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,,,,,,,,ISFJ,good_impression,mood_boost,,date_or_social,,,,above_200k
+667,Yes,40s,M,afternoon,weekly,,,,"classic, suit",,,,,,,black,,,,,,,,INFJ,good_impression,,,,,,,below_50k
+668,Yes,30s,M,anytime,rarely,casual,,,,,,,,,,black,"beige, brown",,,,,purple,,INFP,good_impression,,,,,,,below_50k
+669,Yes,40s,M,morning,daily,casual,,,,,,,,,white,,,,,,,,,ISTJ,,,self_satisfaction,,,,,above_200k
+670,Yes,50s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,,,,"beige, brown",blue,,,,,,ESTJ,good_impression,,,,formal_occasion,,,above_200k
+671,Yes,40s,M,morning,daily,,,,"classic, suit",,,,,,,,,blue,,,,,,INTJ,good_impression,,,,,,,50k_to_100k
+672,Yes,30s,F,anytime,rarely,casual,"minimal, simple",street,,,,sporty,,,white,black,,,"pink, coral",,,purple,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+673,Yes,30s,M,morning,daily,,,,,,,,"modern, chic",,,black,,,,,,,,ESTJ,,,self_satisfaction,,,,,50k_to_100k
+674,Yes,40s,M,morning,daily,casual,,street,,,,,,,white,black,"beige, brown",,,,"green, mint",,,ENTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+675,Yes,40s,M,morning,daily,,,,,,,,,freestyle,,black,,,,,,,,INFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,50k_to_100k
+676,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,,,,"beige, brown",blue,,,,,,ESTJ,,,self_satisfaction,,,,,100k_to_200k
+677,Yes,30s,M,morning,daily,casual,"minimal, simple",street,,,,,"modern, chic",freestyle,white,black,"beige, brown",blue,,,,,,ENTP,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,50k_to_100k
+678,Yes,40s,F,morning,weekly,,,,,,,,,freestyle,white,black,,blue,,,,,,ESFJ,good_impression,mood_boost,,,,,,100k_to_200k
+679,Yes,30s,M,morning,daily,,,,,,,,,freestyle,,,"beige, brown",,,,,,,ENFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,above_200k
+680,Yes,30s,M,morning,daily,casual,,,,,,,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,ENFP,good_impression,mood_boost,,,,,unique_style,below_50k
+681,Yes,50s,M,morning,weekly,,"minimal, simple",,,,,,,,white,black,,blue,,,,,,INTJ,good_impression,,,,,,,below_50k
+682,Yes,40s,M,morning,rarely,casual,,,,,,,,,,,"beige, brown",,,,"green, mint",,,ESFJ,,mood_boost,self_satisfaction,,formal_occasion,,,50k_to_100k
+683,Yes,20s,M,morning,weekly,casual,,,,,,,,,white,black,"beige, brown",blue,,,,,,ISFJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+684,Yes,30s,M,morning,weekly,casual,,,,,,,,,,black,"beige, brown",,,,,,,ENTJ,good_impression,mood_boost,,,,,,50k_to_100k
+685,Yes,20s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ESFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+686,Yes,30s,F,anytime,daily,,,,,,,,,freestyle,white,black,"beige, brown",blue,,,,,,ESFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+687,Yes,30s,M,morning,weekly,,"minimal, simple",,,"romantic, lovely",,,,,,,,blue,,,"green, mint",,,ESTJ,good_impression,,,date_or_social,,,,50k_to_100k
+688,Yes,20s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,"beige, brown",blue,,,,,,ESTP,good_impression,,self_satisfaction,,formal_occasion,,,50k_to_100k
+689,Yes,30s,F,afternoon,rarely,casual,,,,"romantic, lovely",,,"modern, chic",,,,"beige, brown",,"pink, coral",,"green, mint",,"yellow, orange",ISFP,,,self_satisfaction,,,,,100k_to_200k
+690,Yes,20s,F,morning,daily,,,street,,,,,"modern, chic",freestyle,white,,,,"pink, coral",,,purple,,ISFJ,,mood_boost,self_satisfaction,,formal_occasion,,,100k_to_200k
+691,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",blue,,,,,,ENTJ,good_impression,mood_boost,,,formal_occasion,special_event,unique_style,100k_to_200k
+692,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ENTJ,good_impression,,,date_or_social,formal_occasion,,,above_200k
+693,Yes,30s,F,morning,daily,casual,,,,,,,"modern, chic",,white,black,"beige, brown",,,,,,,ENFJ,,,self_satisfaction,,,,,100k_to_200k
+694,Yes,40s,M,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,,,,,,,,INFP,,,,,formal_occasion,,,below_50k
+695,Yes,30s,F,anytime,daily,casual,"minimal, simple",,,,,,,,,,,blue,"pink, coral",,,purple,,INFJ,good_impression,mood_boost,,,,,,50k_to_100k
+696,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+697,Yes,50s,M,morning,rarely,,,,"classic, suit",,,,,,,,,blue,,,,,,INFJ,,,self_satisfaction,,,,,50k_to_100k
+698,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",,,,,,,ESFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,above_200k
+699,Yes,30s,F,morning,weekly,casual,,,"classic, suit","romantic, lovely",,,"modern, chic",,white,,"beige, brown",,,,"green, mint",,"yellow, orange",INFP,good_impression,mood_boost,,date_or_social,,special_event,unique_style,50k_to_100k
+700,Yes,20s,F,morning,rarely,casual,,,,,,,,,white,,"beige, brown",,,,"green, mint",,"yellow, orange",ISFJ,good_impression,mood_boost,,date_or_social,,,,50k_to_100k
+701,Yes,20s,F,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,,black,,blue,,,"green, mint",,,ESTP,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,100k_to_200k
+702,Yes,40s,F,morning,daily,,,,"classic, suit","romantic, lovely",,,,,white,black,,,,,,,,INFP,,mood_boost,,,,,,100k_to_200k
+703,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,white,,,blue,,red,,,,ISTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+704,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,sporty,,freestyle,,black,,,,red,"green, mint",purple,,INFP,,mood_boost,self_satisfaction,,,,,50k_to_100k
+705,Yes,40s,F,morning,daily,,"minimal, simple",,,,,,,,,black,,,,,,,,ESFJ,good_impression,mood_boost,,,,,,50k_to_100k
+706,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,,,,black,,,,,,,,ENTP,good_impression,,self_satisfaction,,,,,below_50k
+707,Yes,40s,M,evening,rarely,casual,,,,,,,,,white,,,,,,"green, mint",,,INTJ,good_impression,,,date_or_social,,special_event,,below_50k
+708,Yes,30s,F,morning,daily,casual,,,,,,,,,white,black,,blue,,,"green, mint",purple,,ENFP,good_impression,,self_satisfaction,,,,,above_200k
+709,Yes,40s,M,morning,seasonal,,,,,,,,"modern, chic",,,black,"beige, brown",blue,,,,,,ISTP,good_impression,mood_boost,,,,,,50k_to_100k
+710,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+711,Yes,20s,M,morning,daily,casual,,,,,,,,,,black,,,,,,,,ISTJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+712,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,,,,,,blue,,,,,,ENTP,good_impression,,,,,,,50k_to_100k
+713,Yes,20s,M,morning,weekly,casual,,street,,,vintage,,,freestyle,white,black,"beige, brown",,,red,"green, mint",,,ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+714,Yes,30s,M,morning,daily,,"minimal, simple",,"classic, suit",,,,,,white,black,,,,,,,,ESTP,,mood_boost,self_satisfaction,,,,,above_200k
+715,Yes,20s,M,morning,daily,casual,,,,,vintage,,,,,,"beige, brown",,"pink, coral",,,,,ESTJ,good_impression,mood_boost,,,,,,50k_to_100k
+716,Yes,30s,M,anytime,rarely,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",,,,,,,INTP,good_impression,,,date_or_social,,special_event,,50k_to_100k
+717,Yes,40s,M,morning,daily,,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,INTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+718,Yes,40s,M,morning,weekly,casual,,,,,,,,,white,black,,,,,,purple,,INTP,good_impression,,self_satisfaction,,formal_occasion,,,50k_to_100k
+719,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,,blue,,red,,,,ESTP,,,,,formal_occasion,,,below_50k
+720,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,,,,,,,blue,,,,,,INFJ,,mood_boost,self_satisfaction,,,,unique_style,100k_to_200k
+721,Yes,30s,M,morning,rarely,casual,"minimal, simple",,,,,,"modern, chic",,white,,"beige, brown",blue,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,special_event,,100k_to_200k
+722,Yes,40s,M,afternoon,weekly,casual,,,"classic, suit","romantic, lovely",,,,,,black,,blue,,,,,,ESFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,,50k_to_100k
+723,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,ISFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+724,Yes,30s,M,morning,daily,casual,,,,,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,INFJ,good_impression,,self_satisfaction,,,,,above_200k
+725,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,,,,,,"beige, brown",,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+726,Yes,40s,M,evening,rarely,casual,,,"classic, suit",,,,,freestyle,,black,,,,red,,,,ESFJ,good_impression,,,date_or_social,,,,below_50k
+727,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,sporty,,,white,black,"beige, brown",blue,,,,,,ENFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+728,Yes,40s,M,morning,rarely,casual,,street,,,,,,,white,black,,blue,,,,,,ENFP,good_impression,,,,,,,100k_to_200k
+729,Yes,40s,M,morning,daily,casual,,,,,,,,,white,black,"beige, brown",blue,,,,,,ENFP,good_impression,,self_satisfaction,,formal_occasion,,,above_200k
+730,Yes,40s,M,morning,daily,,,,,,,,,freestyle,white,black,"beige, brown",,,,,,"yellow, orange",INTP,good_impression,,,,,,,50k_to_100k
+731,Yes,30s,M,morning,weekly,,"minimal, simple",,,,,,,,,black,,,,,,,,ISFP,,mood_boost,,,,,,50k_to_100k
+732,Yes,30s,F,morning,daily,casual,,,,"romantic, lovely",,sporty,,,white,black,"beige, brown",,,,,,,ISFJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+733,Yes,40s,M,morning,seasonal,casual,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,ENFJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,unique_style,100k_to_200k
+734,Yes,40s,M,morning,rarely,,,,,,,,,freestyle,white,black,"beige, brown",,,,,,,ESFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,,50k_to_100k
+735,Yes,20s,M,morning,daily,casual,,,,,,,,,white,,,blue,,,,,,ENTJ,,,self_satisfaction,,,,,50k_to_100k
+736,Yes,40s,F,morning,daily,,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",,,,,,,ESFJ,good_impression,,,,,,,50k_to_100k
+737,Yes,30s,F,morning,daily,,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,ESTP,good_impression,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+738,Yes,30s,M,anytime,rarely,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,"green, mint",,"yellow, orange",ESFJ,good_impression,,,date_or_social,,special_event,,below_50k
+739,Yes,20s,F,morning,daily,casual,,,"classic, suit","romantic, lovely",,,,,white,,,,"pink, coral",,,,"yellow, orange",ESFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,,100k_to_200k
+740,Yes,30s,F,morning,weekly,,,,,,,,"modern, chic",,,,,blue,,,"green, mint",,,INFP,good_impression,mood_boost,,,,,,50k_to_100k
+741,Yes,50s,M,morning,rarely,casual,,,,,,,,,,black,,,,,,,,ENFP,good_impression,,,,,,,50k_to_100k
+742,Yes,20s,F,anytime,weekly,,,,,"romantic, lovely",,,,,,,"beige, brown",blue,,,,purple,,ESFJ,,mood_boost,,date_or_social,formal_occasion,,,50k_to_100k
+743,Yes,40s,M,morning,daily,,,street,,,,sporty,,,,,,blue,,,"green, mint",,,ENTP,,,self_satisfaction,,formal_occasion,,,50k_to_100k
+744,Yes,30s,M,morning,seasonal,casual,,,,,,,"modern, chic",,,,"beige, brown",blue,,,"green, mint",,,ISFJ,,,,date_or_social,formal_occasion,,,50k_to_100k
+745,Yes,40s,M,morning,weekly,casual,,,,,,,,,white,black,,blue,,,,,,ISFP,good_impression,,,,,,,below_50k
+746,Yes,40s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ESTJ,,mood_boost,,,,special_event,,100k_to_200k
+747,Yes,20s,M,morning,daily,casual,,,,,,,,,,black,,blue,,,,,,ISTJ,,,self_satisfaction,,,,,100k_to_200k
+748,Yes,30s,F,anytime,daily,,"minimal, simple",,,"romantic, lovely",,,,,white,,"beige, brown",,,,,,,ISFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+749,Yes,30s,F,morning,daily,casual,"minimal, simple",,,"romantic, lovely",,,,,white,black,"beige, brown",,,,,,,ISFJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+750,Yes,40s,M,morning,rarely,,,,"classic, suit",,,,,,,black,,blue,,,,,,ENTP,,mood_boost,self_satisfaction,,,,,50k_to_100k
+751,Yes,40s,F,morning,daily,,"minimal, simple",,,,,,"modern, chic",,,black,"beige, brown",,,,,,,INFP,,,self_satisfaction,,formal_occasion,,unique_style,100k_to_200k
+752,Yes,30s,F,morning,daily,casual,,,,,,,,,,,"beige, brown",,,,"green, mint",,,ESFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,100k_to_200k
+753,Yes,30s,M,morning,daily,casual,,street,,,,,,,white,black,,blue,,,"green, mint",,,ESTP,good_impression,mood_boost,,,,,,100k_to_200k
+754,Yes,20s,M,anytime,rarely,,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,self_satisfaction,date_or_social,,,,100k_to_200k
+755,Yes,20s,M,morning,rarely,casual,,,,,,,,freestyle,,black,,,,,,,,ESTJ,good_impression,,,date_or_social,formal_occasion,,,below_50k
+756,Yes,20s,M,anytime,daily,casual,,,"classic, suit",,vintage,,,,,black,,,,,,,,ENTP,good_impression,mood_boost,,,,,,50k_to_100k
+757,Yes,30s,M,morning,rarely,,,,,"romantic, lovely",,,,,white,black,,,,,"green, mint",,,INFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+758,Yes,30s,F,morning,daily,,,,"classic, suit",,,,,,white,,,blue,"pink, coral",,,,"yellow, orange",ISFP,good_impression,,self_satisfaction,,formal_occasion,,,100k_to_200k
+759,Yes,30s,M,morning,daily,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ENFJ,good_impression,,,,,,,50k_to_100k
+760,Yes,30s,M,afternoon,weekly,,"minimal, simple",,,,,,,,,black,,,,,,,,ISTJ,,,,date_or_social,,,,50k_to_100k
+761,Yes,20s,M,morning,daily,casual,,,,,,,,,white,black,"beige, brown",blue,,,,,,ESTP,good_impression,,,,,,,50k_to_100k
+762,Yes,40s,F,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,"beige, brown",blue,"pink, coral",,,,,ESTJ,good_impression,,,,formal_occasion,special_event,,100k_to_200k
+763,Yes,20s,F,anytime,rarely,casual,"minimal, simple",,,,,,,,white,black,,blue,,,,,,ESFJ,,,self_satisfaction,date_or_social,,special_event,,above_200k
+764,Yes,20s,M,morning,daily,,"minimal, simple",,,,,,,freestyle,white,black,,blue,,,,,,INTP,good_impression,,,,,,unique_style,below_50k
+765,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,,,,,,,,INFP,,,self_satisfaction,,,,,50k_to_100k
+766,Yes,20s,F,morning,daily,,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,,,"pink, coral",,"green, mint",,,ESTP,,,self_satisfaction,,,,,below_50k
+767,Yes,20s,F,morning,weekly,casual,,,,"romantic, lovely",vintage,,"modern, chic",,,,,blue,"pink, coral",,,purple,,ISTJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+768,Yes,30s,M,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,,blue,,,,,,ENFP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,above_200k
+769,Yes,30s,M,anytime,rarely,casual,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,"beige, brown",blue,,,,,,INTP,good_impression,mood_boost,self_satisfaction,date_or_social,,,,below_50k
+770,Yes,30s,M,morning,daily,,,,"classic, suit",,,,,,white,black,,blue,,,"green, mint",,,ISTJ,good_impression,mood_boost,,date_or_social,,,,above_200k
+771,Yes,30s,M,morning,daily,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,INTP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,50k_to_100k
+772,No,40s,M,,,casual,,,,,,,,freestyle,,black,,,,,,,,ISFJ,good_impression,mood_boost,,,,special_event,,50k_to_100k
+773,Yes,30s,M,morning,daily,casual,,street,,,,sporty,,freestyle,white,black,"beige, brown",,,,,,,ENFP,good_impression,mood_boost,self_satisfaction,,,,unique_style,50k_to_100k
+774,Yes,20s,M,morning,weekly,casual,,,,,,,,,,black,,,,,,,,ISFJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+775,Yes,20s,F,afternoon,daily,,,,"classic, suit","romantic, lovely",,,,,white,,"beige, brown",,"pink, coral",,,,,ISFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,,above_200k
+776,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",blue,,,,,,ENFJ,good_impression,,,date_or_social,formal_occasion,,unique_style,50k_to_100k
+777,Yes,30s,M,morning,daily,casual,,street,,,,sporty,,,,black,,,,,,,,ISFJ,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+778,Yes,30s,F,anytime,weekly,casual,"minimal, simple",,"classic, suit","romantic, lovely",,,,,white,black,,blue,,red,"green, mint",,,INTP,,mood_boost,,,,,,above_200k
+779,Yes,40s,M,morning,weekly,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ESFJ,,mood_boost,,date_or_social,,,,100k_to_200k
+780,Yes,30s,M,morning,weekly,,"minimal, simple",,,,,,"modern, chic",freestyle,,black,"beige, brown",,,,,,,ISTJ,good_impression,,,,formal_occasion,,unique_style,100k_to_200k
+781,Yes,40s,M,anytime,daily,,,,"classic, suit",,,,,,white,black,,,,,,,,ENTJ,,,self_satisfaction,,,,,50k_to_100k
+782,Yes,30s,M,morning,daily,,,,"classic, suit",,,,,,white,black,,,,,"green, mint",,"yellow, orange",ESTJ,good_impression,,,,,,,100k_to_200k
+783,Yes,30s,M,morning,rarely,,,,,,vintage,,,freestyle,,black,"beige, brown",,,,,,,ISFP,good_impression,mood_boost,,date_or_social,,,,100k_to_200k
+784,Yes,30s,M,afternoon,rarely,casual,,,,,,sporty,"modern, chic",,white,black,,,,,,,,ISFJ,good_impression,,,date_or_social,,,,100k_to_200k
+785,Yes,30s,M,morning,weekly,,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,,blue,,,"green, mint",,,INFP,good_impression,mood_boost,self_satisfaction,,formal_occasion,,unique_style,100k_to_200k
+786,Yes,30s,F,morning,daily,casual,,,,,,,,,white,,"beige, brown",,,,,,,ESTP,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+787,Yes,30s,M,morning,weekly,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISTP,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+788,Yes,40s,F,morning,rarely,casual,,,,,vintage,,"modern, chic",freestyle,white,,"beige, brown",blue,,,"green, mint",,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+789,Yes,30s,M,afternoon,rarely,casual,,,,,,,,,,black,"beige, brown",,,,,,,ESTJ,good_impression,,,date_or_social,,,,50k_to_100k
+790,Yes,30s,F,anytime,daily,,"minimal, simple",,,,,,,freestyle,white,black,,,"pink, coral",,,,,ISFP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,above_200k
+791,Yes,30s,F,anytime,daily,,,,,,,,"modern, chic",freestyle,white,black,,,"pink, coral",,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+792,Yes,40s,M,morning,weekly,casual,,street,,,,sporty,"modern, chic",freestyle,white,black,"beige, brown",,,,"green, mint",,,INFP,good_impression,mood_boost,self_satisfaction,date_or_social,,,unique_style,50k_to_100k
+793,Yes,20s,F,morning,weekly,,,,,"romantic, lovely",,,,,white,black,"beige, brown",,"pink, coral",,"green, mint",,,ISFJ,good_impression,,,,,,,100k_to_200k
+794,Yes,20s,F,morning,weekly,,"minimal, simple",,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",,"pink, coral",,,,,ENFJ,good_impression,,,date_or_social,,,,50k_to_100k
+795,Yes,20s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",,,,,,,INFJ,,,,,formal_occasion,,,50k_to_100k
+796,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,,,black,,blue,,,,purple,,ENTJ,,,self_satisfaction,,formal_occasion,,,50k_to_100k
+797,Yes,30s,M,afternoon,rarely,casual,,,,,,,,,white,black,"beige, brown",blue,,red,,,,ISTP,good_impression,,,,,special_event,,100k_to_200k
+798,Yes,20s,F,morning,rarely,casual,,,,"romantic, lovely",,,,freestyle,white,black,,,,,,,"yellow, orange",ESTP,,,self_satisfaction,date_or_social,,,unique_style,above_200k
+799,Yes,40s,M,morning,daily,casual,,,,,,,,,white,black,,,,,,,,ISFJ,good_impression,,,,,,,50k_to_100k
+800,Yes,40s,M,anytime,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISTJ,good_impression,,self_satisfaction,,,,unique_style,above_200k
+801,Yes,20s,F,anytime,weekly,casual,"minimal, simple",,,,,,,freestyle,white,,"beige, brown",,,,,,,ESTJ,,mood_boost,self_satisfaction,date_or_social,,special_event,,above_200k
+802,Yes,20s,M,morning,daily,casual,"minimal, simple",street,,,,,,,,black,,,,,,,,ENFP,,mood_boost,self_satisfaction,,,,,50k_to_100k
+803,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,sporty,,,white,black,"beige, brown",,,,,,,ISTJ,good_impression,mood_boost,,,formal_occasion,,,50k_to_100k
+804,Yes,40s,F,morning,weekly,,,,,,,,,freestyle,,,"beige, brown",blue,"pink, coral",,"green, mint",,,ISFP,,mood_boost,,,,,,100k_to_200k
+805,Yes,20s,F,morning,daily,,,street,,,,,,freestyle,,black,"beige, brown",,,,"green, mint",,,INTP,good_impression,,self_satisfaction,,,,unique_style,above_200k
+806,Yes,20s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,,"beige, brown",,,,,,,ESTJ,good_impression,,,,,,,50k_to_100k
+807,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",,,,,,,ISTJ,good_impression,,self_satisfaction,,,,,below_50k
+808,Yes,30s,M,morning,rarely,casual,,,,,,,,,,black,"beige, brown",,,,,,,INTP,,,self_satisfaction,,,,,50k_to_100k
+809,Yes,40s,M,anytime,daily,casual,,street,"classic, suit",,,sporty,"modern, chic",freestyle,white,black,,,,red,,purple,,ENTJ,,mood_boost,self_satisfaction,,formal_occasion,,,above_200k
+810,Yes,30s,M,morning,rarely,casual,,,,,,,,,white,black,,,,,,,,ENTJ,good_impression,mood_boost,,,,,,50k_to_100k
+811,Yes,30s,M,anytime,rarely,casual,,,,,,,,,white,black,"beige, brown",,,,,,,INTP,good_impression,mood_boost,,date_or_social,,,,50k_to_100k
+812,Yes,20s,F,morning,daily,,,,,,vintage,,,freestyle,,,"beige, brown",blue,,,,,"yellow, orange",INFJ,good_impression,,,,,,,100k_to_200k
+813,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,,,,"pink, coral",red,,,,ESTJ,,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+814,Yes,20s,F,anytime,daily,casual,"minimal, simple",,,"romantic, lovely",vintage,,,,white,black,,blue,"pink, coral",,,,,ESTP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,above_200k
+815,Yes,20s,M,morning,daily,casual,,,,,,,"modern, chic",freestyle,white,,"beige, brown",blue,,,,purple,,ISTP,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+816,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,"modern, chic",freestyle,white,black,,,,,"green, mint",,,ESTJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,unique_style,above_200k
+817,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,"green, mint",,,INTJ,good_impression,,,date_or_social,,,,above_200k
+818,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,freestyle,white,black,,blue,,red,,,,ESFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+819,Yes,40s,M,morning,daily,,,,"classic, suit",,,sporty,"modern, chic",,white,black,,,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+820,Yes,30s,F,anytime,weekly,casual,,,,"romantic, lovely",,,,,,,"beige, brown",blue,"pink, coral",,"green, mint",purple,"yellow, orange",ENFJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+821,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,vintage,sporty,"modern, chic",freestyle,white,black,"beige, brown",,,,,,,ISFP,,mood_boost,self_satisfaction,,formal_occasion,,,50k_to_100k
+822,Yes,40s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,,blue,,,"green, mint",,,ISTP,good_impression,,,,,,,50k_to_100k
+823,Yes,20s,M,morning,rarely,,,,,,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,INTP,good_impression,,,,formal_occasion,,,50k_to_100k
+824,Yes,30s,M,morning,daily,casual,,,,,,,,,white,black,"beige, brown",blue,,,"green, mint",,,ENFJ,good_impression,mood_boost,self_satisfaction,,,,,below_50k
+825,Yes,20s,F,morning,weekly,casual,,,,"romantic, lovely",,,,,white,black,,,,,,,,ESTJ,,mood_boost,,date_or_social,,,,100k_to_200k
+826,Yes,40s,M,morning,rarely,casual,"minimal, simple",street,,,,,"modern, chic",,,black,"beige, brown",,,,,,,ESTP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+827,Yes,30s,M,morning,daily,casual,,street,,,,sporty,,,white,black,,blue,,red,,,,ISFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+828,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,black,,blue,,,,purple,,ENTJ,good_impression,,,,,,,100k_to_200k
+829,Yes,30s,F,afternoon,weekly,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ESFJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+830,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,sporty,,,,black,,,"pink, coral",,"green, mint",,,INFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+831,Yes,40s,F,morning,weekly,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ESFP,good_impression,,,,,,,100k_to_200k
+832,Yes,30s,F,morning,daily,,"minimal, simple",street,,,,sporty,"modern, chic",,,black,,,,,,,"yellow, orange",ENTP,good_impression,,self_satisfaction,,formal_occasion,,,above_200k
+833,Yes,20s,M,morning,seasonal,,"minimal, simple",,"classic, suit",,,,,,,black,,,,,,,,ISFJ,,,self_satisfaction,,,,,above_200k
+834,Yes,30s,F,morning,rarely,casual,,,,,,,,,,,"beige, brown",,"pink, coral",,,,,ESFJ,,mood_boost,self_satisfaction,,,,,above_200k
+835,Yes,30s,M,morning,daily,casual,,street,,,,,,,white,black,"beige, brown",blue,,,"green, mint",purple,,INFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+836,Yes,40s,M,morning,daily,casual,,street,,,,,,,white,black,,blue,"pink, coral",,"green, mint",,,INFP,good_impression,mood_boost,self_satisfaction,,formal_occasion,,unique_style,above_200k
+837,Yes,30s,M,anytime,weekly,casual,"minimal, simple",,,,,,,freestyle,white,black,,blue,,,,,,INFP,good_impression,,,date_or_social,,special_event,,50k_to_100k
+838,Yes,30s,F,afternoon,rarely,casual,,,,"romantic, lovely",,,,,white,,,blue,,,"green, mint",,,ISTP,good_impression,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+839,Yes,20s,F,anytime,daily,casual,,,,,,,,,white,,"beige, brown",blue,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,above_200k
+840,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,sporty,"modern, chic",,,black,,blue,,,"green, mint",,,ESFJ,,mood_boost,self_satisfaction,date_or_social,,special_event,unique_style,100k_to_200k
+841,Yes,30s,M,morning,rarely,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",,,,,,,ISFJ,,mood_boost,,date_or_social,,,,below_50k
+842,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,,blue,,,,,,ISFJ,good_impression,mood_boost,,,,,,100k_to_200k
+843,Yes,30s,F,morning,rarely,casual,,street,,,,,,,white,black,,,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,above_200k
+844,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,sporty,,freestyle,white,black,,,,,,,,INTJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,100k_to_200k
+845,Yes,20s,F,morning,daily,casual,,street,,,,sporty,,,white,black,,blue,,,,,,ESFP,good_impression,,self_satisfaction,,,,,100k_to_200k
+846,Yes,20s,F,anytime,daily,,"minimal, simple",,"classic, suit",,,,"modern, chic",freestyle,white,black,,blue,,red,,purple,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+847,Yes,20s,F,anytime,daily,,,,,,,,,freestyle,,black,"beige, brown",,,,,,,ISFP,good_impression,mood_boost,self_satisfaction,,,,unique_style,above_200k
+848,Yes,30s,F,morning,daily,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ESFP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,unique_style,above_200k
+849,Yes,30s,M,morning,weekly,casual,,street,,,,,,,white,black,,,,,,,,ISTJ,good_impression,mood_boost,,,,,,50k_to_100k
+850,Yes,20s,M,morning,rarely,casual,,street,,,,,,,white,black,"beige, brown",blue,,,"green, mint",,,ENTJ,good_impression,,,date_or_social,formal_occasion,special_event,,100k_to_200k
+851,Yes,40s,F,morning,daily,casual,"minimal, simple",,,,,,,,,black,,blue,,,"green, mint",,,ENFP,good_impression,,,,formal_occasion,,,50k_to_100k
+852,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",,,,,,,ISFP,good_impression,,,,,special_event,,100k_to_200k
+853,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,,black,,,,,"green, mint",purple,,ESTJ,good_impression,,,,,,,50k_to_100k
+854,Yes,20s,F,morning,weekly,casual,,,,,,,,,white,,"beige, brown",,,,,,,ISTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+855,Yes,20s,M,morning,weekly,,,,,,,,,freestyle,,black,,,,red,,,,INTJ,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+856,Yes,30s,M,morning,daily,,,,"classic, suit",,,,,,white,,"beige, brown",blue,,,,,,ISTP,,mood_boost,self_satisfaction,,,,,above_200k
+857,Yes,20s,F,morning,daily,casual,,,,,,,,freestyle,white,black,"beige, brown",,,,,,,ISTJ,,,self_satisfaction,,,,,above_200k
+858,Yes,40s,F,anytime,daily,casual,,,,,vintage,,,freestyle,,,,,,red,"green, mint",,"yellow, orange",ISFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+859,Yes,20s,F,morning,daily,,,,,,,,,freestyle,white,,,,,,,,,INTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+860,Yes,20s,F,morning,weekly,casual,,,,,,,,,white,black,,blue,,,"green, mint",purple,,ISFP,,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+861,Yes,30s,F,morning,daily,,"minimal, simple",,,"romantic, lovely",,,"modern, chic",,white,black,"beige, brown",,,,,,,INFJ,,,self_satisfaction,,,,,above_200k
+862,Yes,30s,M,morning,daily,casual,,,,,,,,,white,,,,,,,,,ESFJ,good_impression,,,,,,,100k_to_200k
+863,Yes,30s,M,morning,rarely,casual,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ISTJ,,,,date_or_social,,,,50k_to_100k
+864,Yes,30s,M,morning,daily,casual,,,,,,,,,white,black,,,,,,,,ESFJ,,mood_boost,self_satisfaction,,,,,above_200k
+865,Yes,30s,F,morning,rarely,,,,,,,,,freestyle,white,,"beige, brown",blue,"pink, coral",,,,,ISTJ,,mood_boost,,,formal_occasion,,,50k_to_100k
+866,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ISFP,good_impression,,,date_or_social,,,,100k_to_200k
+867,Yes,30s,M,afternoon,rarely,,"minimal, simple",,,,,,,,,black,"beige, brown",,,,,,,ESFJ,good_impression,,self_satisfaction,,,,,100k_to_200k
+868,Yes,30s,F,morning,weekly,,,,,,,,,freestyle,,,"beige, brown",,"pink, coral",red,"green, mint",purple,"yellow, orange",INFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,,100k_to_200k
+869,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit","romantic, lovely",,,"modern, chic",,white,black,"beige, brown",,,,,,,INFP,good_impression,mood_boost,self_satisfaction,,formal_occasion,,unique_style,above_200k
+870,Yes,20s,M,morning,daily,casual,,,,,,,,,,,,,,,"green, mint",,,ESFJ,good_impression,,,,,,,below_50k
+871,Yes,30s,F,morning,daily,casual,"minimal, simple",street,,,,,,,white,,,,"pink, coral",,"green, mint",purple,,INFP,good_impression,mood_boost,,,,,,50k_to_100k
+872,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,sporty,,,white,black,,,,,,,,INFP,good_impression,,,,,,,50k_to_100k
+873,Yes,40s,F,morning,daily,,,,"classic, suit",,,,"modern, chic",freestyle,,black,"beige, brown",blue,,,,,,ENFP,good_impression,mood_boost,self_satisfaction,,,,unique_style,above_200k
+874,Yes,40s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,,white,,"beige, brown",,"pink, coral",,,,,ESTJ,,,,date_or_social,formal_occasion,special_event,,50k_to_100k
+875,Yes,30s,F,morning,daily,casual,,,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",,,,,,,ISFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+876,Yes,30s,M,afternoon,rarely,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ESFJ,good_impression,,,date_or_social,,,,50k_to_100k
+877,Yes,40s,M,morning,seasonal,,"minimal, simple",,"classic, suit",,,,,,white,black,,,,,,,,INTJ,good_impression,mood_boost,,,,,,50k_to_100k
+878,Yes,40s,F,morning,rarely,,"minimal, simple",,,,,,,,white,black,,,,,,,,INTJ,good_impression,,,,,,,100k_to_200k
+879,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,INTJ,good_impression,,self_satisfaction,date_or_social,,,,above_200k
+880,Yes,30s,F,morning,weekly,,"minimal, simple",,,"romantic, lovely",,,"modern, chic",,,,"beige, brown",,,,,,"yellow, orange",ISFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+881,Yes,30s,M,morning,daily,,"minimal, simple",,"classic, suit",,,,,,,,,,,,"green, mint",,,INTP,,,,,formal_occasion,,,100k_to_200k
+882,Yes,40s,F,morning,rarely,,,,"classic, suit",,,,"modern, chic",,,,"beige, brown",blue,,,"green, mint",,,ESTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+883,Yes,40s,M,morning,daily,casual,"minimal, simple",street,"classic, suit",,,sporty,,,white,,"beige, brown",blue,,,,,,ENFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+884,Yes,30s,M,morning,weekly,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,INTP,good_impression,,,,,,,above_200k
+885,Yes,20s,F,morning,weekly,casual,,street,,,,,,,,black,"beige, brown",blue,,,,,,ISTP,good_impression,mood_boost,self_satisfaction,date_or_social,,,,100k_to_200k
+886,Yes,30s,M,morning,weekly,casual,"minimal, simple",,,,,,,,,black,,,,,,,,ENFP,good_impression,,self_satisfaction,date_or_social,,,,100k_to_200k
+887,Yes,30s,M,morning,rarely,casual,,,,,,,,,,black,,blue,,,,,,ESTP,,mood_boost,self_satisfaction,,,,unique_style,above_200k
+888,Yes,20s,F,morning,daily,casual,,,,,,,,freestyle,white,,,blue,,,,,,ENTP,,mood_boost,,,formal_occasion,,unique_style,50k_to_100k
+889,Yes,30s,F,anytime,weekly,casual,,,,,,,"modern, chic",,,black,"beige, brown",blue,,,"green, mint",purple,"yellow, orange",ESFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+890,Yes,20s,F,anytime,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,,,,,"green, mint",,,ESTJ,good_impression,,,,formal_occasion,,,50k_to_100k
+891,Yes,20s,F,morning,daily,casual,,,,"romantic, lovely",,,,,,black,,blue,"pink, coral",,,,,ESFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+892,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,"beige, brown",blue,"pink, coral",,,purple,,ISTJ,,,self_satisfaction,,,,,50k_to_100k
+893,Yes,30s,F,anytime,daily,casual,,,,,vintage,sporty,"modern, chic",,white,black,,blue,,,,purple,,ISTP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+894,Yes,20s,F,morning,weekly,casual,,,"classic, suit",,,,,freestyle,white,black,"beige, brown",blue,,,,,,ISFJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+895,Yes,30s,M,morning,rarely,,"minimal, simple",street,,,,,,,white,black,,blue,,,,,,ISTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+896,Yes,30s,F,morning,daily,casual,,,"classic, suit","romantic, lovely",,,"modern, chic",,white,,"beige, brown",,,,"green, mint",purple,"yellow, orange",ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,special_event,,100k_to_200k
+897,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,black,,,,,,,,ISFP,good_impression,,,,,,,below_50k
+898,Yes,40s,M,morning,rarely,casual,,,,,,sporty,,,white,black,"beige, brown",,,,,,,ENFJ,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+899,Yes,30s,M,morning,daily,casual,,street,"classic, suit",,,,,,white,black,,,,,,,"yellow, orange",ESTP,,,self_satisfaction,,,,,50k_to_100k
+900,Yes,30s,M,morning,seasonal,casual,,,,,,,,,white,,"beige, brown",blue,,,,,,ENTJ,,,self_satisfaction,,,,,50k_to_100k
+901,Yes,20s,F,morning,rarely,casual,,street,,,,,,,,black,,,,,,,,ISTP,,mood_boost,,date_or_social,,,,below_50k
+902,Yes,30s,M,morning,daily,casual,"minimal, simple",street,,,,sporty,,freestyle,white,black,,,,red,,,,INTJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,above_200k
+903,Yes,30s,M,morning,weekly,,,,,,,,,freestyle,,black,,blue,,,,,"yellow, orange",ENTJ,good_impression,,,,,,,100k_to_200k
+904,Yes,30s,F,morning,daily,,,,,"romantic, lovely",,,"modern, chic",,white,,,,"pink, coral",,,,,INFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+905,Yes,30s,M,morning,rarely,casual,,,,,,,,,white,black,,blue,,red,,,,ISTJ,good_impression,,,,,,,50k_to_100k
+906,Yes,30s,M,morning,rarely,casual,,,,,,sporty,,,,black,"beige, brown",blue,,,,,,INFP,,,,date_or_social,formal_occasion,special_event,,100k_to_200k
+907,Yes,20s,F,morning,rarely,casual,,,,,,,,,white,,"beige, brown",blue,"pink, coral",,,,,ISTJ,,,self_satisfaction,,,,,above_200k
+908,Yes,30s,M,morning,daily,casual,,,,,,,,,,black,,,,,,,,ESTP,,mood_boost,,,,,,above_200k
+909,Yes,20s,F,morning,daily,casual,"minimal, simple",,,"romantic, lovely",,,,,white,black,,blue,"pink, coral",,,,,ISTJ,good_impression,,self_satisfaction,date_or_social,formal_occasion,,unique_style,100k_to_200k
+910,Yes,20s,M,morning,weekly,casual,,,,,,,,,white,,,,,,,,,INFJ,,mood_boost,,,,,,below_50k
+911,Yes,30s,M,morning,weekly,casual,,,,,,,,,white,black,,,,,"green, mint",,,ESTP,good_impression,,,,,,,100k_to_200k
+912,Yes,30s,M,evening,rarely,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESFJ,good_impression,mood_boost,self_satisfaction,date_or_social,,special_event,,50k_to_100k
+913,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,white,,"beige, brown",blue,,,,,,ISTJ,good_impression,,,,,,,50k_to_100k
+914,Yes,30s,M,morning,weekly,casual,,,"classic, suit",,,,,,white,black,,blue,,,"green, mint",,,ESFJ,good_impression,,self_satisfaction,,formal_occasion,,,50k_to_100k
+915,Yes,20s,F,anytime,daily,casual,,,,"romantic, lovely",,,"modern, chic",,,black,,,"pink, coral",,,,,ENTJ,good_impression,mood_boost,self_satisfaction,date_or_social,,,,50k_to_100k
+916,Yes,40s,F,anytime,daily,,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+917,Yes,40s,M,morning,rarely,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ESFJ,good_impression,,,date_or_social,,,,below_50k
+918,Yes,40s,M,morning,weekly,casual,,,,,,,,,white,,"beige, brown",,,,"green, mint",,,INTP,,,self_satisfaction,,,,,below_50k
+919,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESFJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+920,Yes,30s,F,evening,rarely,,"minimal, simple",,,,,,"modern, chic",,,,,,"pink, coral",,"green, mint",,,ESTJ,,mood_boost,self_satisfaction,,,,,above_200k
+921,Yes,40s,F,anytime,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,ISTJ,good_impression,mood_boost,,,formal_occasion,,,100k_to_200k
+922,Yes,30s,F,morning,daily,,"minimal, simple",,,"romantic, lovely",,,,,white,,"beige, brown",,,,,,,ISFP,good_impression,,self_satisfaction,,,,unique_style,above_200k
+923,Yes,30s,F,morning,daily,casual,,,,,,,,freestyle,white,black,"beige, brown",,,,"green, mint",,,ESTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+924,No,30s,M,,,casual,,,"classic, suit",,,,,,white,,"beige, brown",,,,,,,INTJ,good_impression,,,,,,unique_style,50k_to_100k
+925,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,blue,,,,,,ISTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+926,Yes,40s,M,morning,rarely,casual,,street,"classic, suit",,,,,,,,"beige, brown",,,,"green, mint",,,ISTJ,good_impression,,,date_or_social,formal_occasion,,,50k_to_100k
+927,Yes,20s,F,morning,daily,casual,,,,"romantic, lovely",,,,,white,black,"beige, brown",,,,,,,ESFJ,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+928,Yes,20s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ESTJ,good_impression,,self_satisfaction,,,,,50k_to_100k
+929,Yes,30s,M,morning,daily,casual,,,,,,,"modern, chic",,,black,"beige, brown",blue,,,"green, mint",,,ESFJ,good_impression,,self_satisfaction,,,,,above_200k
+930,Yes,20s,M,morning,weekly,casual,,street,"classic, suit",,,sporty,,freestyle,,black,,,,,,,,INFP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+931,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,freestyle,,black,"beige, brown",,,,"green, mint",,,ISFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+932,Yes,30s,F,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,"beige, brown",,"pink, coral",,,,"yellow, orange",INFJ,good_impression,,self_satisfaction,date_or_social,,,,above_200k
+933,Yes,30s,M,anytime,rarely,casual,,,"classic, suit",,,,"modern, chic",freestyle,,black,"beige, brown",blue,,,,,,ENFP,good_impression,,self_satisfaction,,,,,50k_to_100k
+934,Yes,40s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ESTJ,good_impression,,,,formal_occasion,,,100k_to_200k
+935,Yes,20s,M,morning,weekly,,"minimal, simple",,"classic, suit",,,,"modern, chic",freestyle,,black,,blue,,,,,,ISTP,,,self_satisfaction,date_or_social,formal_occasion,,,50k_to_100k
+936,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,vintage,,,,white,black,"beige, brown",,,,,,,INFJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,above_200k
+937,Yes,30s,M,morning,rarely,casual,,,,,,,,,,,"beige, brown",,,,,,,ISFP,,mood_boost,,,,special_event,,50k_to_100k
+938,Yes,30s,F,evening,weekly,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,"pink, coral",red,"green, mint",purple,"yellow, orange",INTJ,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+939,Yes,20s,M,morning,daily,,,,"classic, suit",,,,"modern, chic",,,black,,,,,,,,ESTJ,good_impression,,self_satisfaction,,,,,below_50k
+940,Yes,30s,F,morning,rarely,casual,,,,,,,,freestyle,white,black,,blue,,,"green, mint",,,ISTJ,,,self_satisfaction,,,,,50k_to_100k
+941,Yes,20s,M,morning,daily,casual,"minimal, simple",street,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",blue,,red,,,,ENTJ,good_impression,mood_boost,,date_or_social,formal_occasion,,,above_200k
+942,Yes,30s,M,morning,rarely,,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,ESTP,good_impression,,self_satisfaction,date_or_social,,,,above_200k
+943,Yes,30s,F,anytime,daily,casual,"minimal, simple",,,,,,"modern, chic",freestyle,white,,,blue,"pink, coral",,,,,ESFP,,mood_boost,self_satisfaction,,formal_occasion,,,100k_to_200k
+944,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",freestyle,white,,"beige, brown",,,,"green, mint",,"yellow, orange",ENFP,good_impression,,,date_or_social,formal_occasion,,unique_style,above_200k
+945,Yes,30s,M,morning,daily,,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,"green, mint",,,ESFJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+946,Yes,40s,M,anytime,daily,,,,,,vintage,sporty,,,white,black,,,,,,,,ESTJ,,,self_satisfaction,,,,,50k_to_100k
+947,Yes,40s,M,morning,rarely,casual,,,,,,,,,white,,,blue,,,,,,,good_impression,mood_boost,,date_or_social,formal_occasion,,,100k_to_200k
+948,Yes,40s,M,morning,daily,casual,,,,,,,,freestyle,white,black,,,"pink, coral",,,,,ISTP,good_impression,,self_satisfaction,,,,,50k_to_100k
+949,Yes,30s,F,morning,daily,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,INFP,good_impression,,self_satisfaction,date_or_social,,,,above_200k
+950,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,,,,,"pink, coral",,,,,ISFJ,,,self_satisfaction,,,,,above_200k
+951,Yes,30s,M,morning,rarely,casual,,,,,,,,,white,black,,,,,,,,ENTP,good_impression,,self_satisfaction,,,,,100k_to_200k
+952,Yes,40s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",,,red,,,,ISFJ,,,self_satisfaction,,formal_occasion,,,50k_to_100k
+953,Yes,30s,F,morning,rarely,casual,"minimal, simple",,"classic, suit",,,,,,,black,"beige, brown",blue,,,"green, mint",,,ISTJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,,100k_to_200k
+954,Yes,30s,M,evening,rarely,,,,,"romantic, lovely",,,,,,,,,"pink, coral",,,,,ISTJ,,,self_satisfaction,,,,,100k_to_200k
+955,Yes,30s,F,morning,daily,,"minimal, simple",,"classic, suit","romantic, lovely",,,"modern, chic",,white,,,blue,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+956,Yes,20s,F,morning,weekly,casual,,,,,,,,,white,,,,"pink, coral",,,,,ISTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+957,Yes,30s,F,morning,daily,,,,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",,,,,purple,,INTJ,good_impression,mood_boost,self_satisfaction,,formal_occasion,,unique_style,above_200k
+958,Yes,30s,F,morning,daily,,,,,,,,,freestyle,white,black,"beige, brown",blue,,,,,,ENFP,,,self_satisfaction,date_or_social,formal_occasion,,,100k_to_200k
+959,Yes,30s,F,morning,daily,casual,,,,,,,,,white,black,,,"pink, coral",,,,,ENTJ,,mood_boost,self_satisfaction,,,,,above_200k
+960,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,INFP,good_impression,,self_satisfaction,,,,,above_200k
+961,Yes,30s,M,morning,daily,casual,,,"classic, suit",,,,,,,,"beige, brown",,,,,,,ISTJ,,mood_boost,self_satisfaction,,,,,100k_to_200k
+962,Yes,20s,M,morning,daily,casual,,,,,,,,,,black,"beige, brown",blue,,,,,,ESTJ,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,50k_to_100k
+963,Yes,30s,F,anytime,daily,casual,,,,"romantic, lovely",,,,,white,black,"beige, brown",,"pink, coral",,,,,ISTJ,,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+964,Yes,20s,F,morning,daily,casual,,street,,,vintage,,,,white,black,,,,,,,,ENFP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+965,Yes,30s,M,morning,weekly,,,street,,,,,,freestyle,,black,,,,,,,,INFP,,,self_satisfaction,,,,,50k_to_100k
+966,Yes,30s,F,morning,daily,casual,,,"classic, suit",,,,,,white,black,"beige, brown",,,,,,,ISFP,good_impression,,self_satisfaction,,,,unique_style,above_200k
+967,Yes,30s,F,morning,weekly,casual,,,,,,,"modern, chic",,,black,,blue,,,,,,ENFJ,good_impression,,,,formal_occasion,,,below_50k
+968,Yes,20s,F,morning,weekly,casual,,,,"romantic, lovely",vintage,,"modern, chic",,white,,,blue,"pink, coral",,,,,ENTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+970,Yes,20s,F,morning,daily,,"minimal, simple",,"classic, suit",,,,,,,black,,,,,,,,ENTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+971,Yes,30s,M,evening,rarely,casual,,,,,,,,,,black,,blue,,,,,,ESFJ,,,,date_or_social,,,,below_50k
+972,Yes,30s,M,morning,daily,casual,,,,,vintage,,,freestyle,white,black,,blue,,,,,,ESTP,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+973,Yes,20s,F,morning,weekly,casual,"minimal, simple",,"classic, suit","romantic, lovely",,,,,white,black,"beige, brown",blue,,red,"green, mint",,"yellow, orange",ENTP,good_impression,mood_boost,self_satisfaction,date_or_social,,special_event,,50k_to_100k
+974,Yes,30s,F,morning,daily,casual,,,,"romantic, lovely",,,,,white,black,,blue,,,,,,ESTJ,good_impression,,self_satisfaction,,,,unique_style,100k_to_200k
+975,Yes,30s,F,morning,rarely,,,,,,,,,freestyle,,,"beige, brown",,,,"green, mint",,,ENTP,,mood_boost,self_satisfaction,date_or_social,,,,above_200k
+976,Yes,30s,F,anytime,weekly,casual,"minimal, simple",,,,,,"modern, chic",freestyle,white,black,"beige, brown",,"pink, coral",,,,"yellow, orange",ISTJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,below_50k
+977,Yes,30s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,"pink, coral",,,,,ISFJ,,,self_satisfaction,,,,,100k_to_200k
+978,Yes,20s,F,morning,rarely,casual,"minimal, simple",,,,,,,,,,,,"pink, coral",,,,,ISFP,,mood_boost,,,,,,50k_to_100k
+979,Yes,30s,M,morning,rarely,,,,"classic, suit",,,,,,,black,,,,,,,,ENTP,good_impression,,,,,,,100k_to_200k
+980,Yes,30s,F,morning,weekly,casual,,,,,,,,,white,black,,,,,"green, mint",,,ENFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+981,Yes,30s,M,morning,daily,casual,,,,,,,,,,black,,,,,,,,INTP,,,self_satisfaction,,,,,100k_to_200k
+982,Yes,20s,F,anytime,daily,casual,"minimal, simple",street,,,,,,freestyle,white,,"beige, brown",blue,,,,,,INFJ,good_impression,mood_boost,self_satisfaction,,,,unique_style,above_200k
+983,Yes,30s,M,morning,daily,casual,"minimal, simple",,"classic, suit",,,,,,white,black,,,,,,,,INTJ,good_impression,mood_boost,self_satisfaction,,,,,above_200k
+984,Yes,20s,M,morning,rarely,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",,white,black,"beige, brown",blue,,,,,,ISFP,good_impression,mood_boost,self_satisfaction,date_or_social,,special_event,,100k_to_200k
+985,Yes,30s,M,morning,weekly,,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,,,,ESFJ,,,,,formal_occasion,,,below_50k
+986,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,,,,white,black,,,,,"green, mint",,,ISTJ,,mood_boost,,date_or_social,formal_occasion,,,50k_to_100k
+987,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,"modern, chic",,white,black,,,,,,,,ENFP,good_impression,,,date_or_social,formal_occasion,,,100k_to_200k
+988,Yes,30s,F,morning,daily,casual,,,,,,,,,white,black,"beige, brown",,,,,,,ISFJ,,,self_satisfaction,,,,,50k_to_100k
+989,Yes,20s,M,morning,rarely,,,,"classic, suit",,,,,,,black,,blue,,,,,,ENFP,,mood_boost,,,,,,100k_to_200k
+990,Yes,20s,M,morning,weekly,,,,"classic, suit",,,,,,,black,,,"pink, coral",,,purple,,INFJ,good_impression,mood_boost,,,,,,50k_to_100k
+991,Yes,20s,F,morning,weekly,casual,"minimal, simple",,,,,,,,,,,blue,,,"green, mint",,,ISTP,,mood_boost,self_satisfaction,,,,,100k_to_200k
+992,Yes,30s,M,morning,rarely,,,,"classic, suit",,,,,,,black,"beige, brown",,,,,,,ISTP,good_impression,,,,formal_occasion,,,100k_to_200k
+993,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,,,,black,,blue,,,"green, mint",,,ENTP,good_impression,,self_satisfaction,,,,,50k_to_100k
+994,Yes,30s,F,morning,weekly,casual,"minimal, simple",,,,,,"modern, chic",,white,black,"beige, brown",,,,,,"yellow, orange",ENTJ,,mood_boost,,date_or_social,formal_occasion,,,100k_to_200k
+995,Yes,30s,F,morning,rarely,casual,,,"classic, suit",,,,,,white,black,,,,,,,,ISFP,good_impression,,,date_or_social,,,,100k_to_200k
+996,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,,,,black,,blue,,,,,,ESTJ,,mood_boost,self_satisfaction,,,,,above_200k
+997,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,,freestyle,white,black,,,,,,,,ISFJ,good_impression,mood_boost,self_satisfaction,,,,,100k_to_200k
+998,Yes,30s,F,anytime,daily,casual,"minimal, simple",,"classic, suit",,,,"modern, chic",freestyle,white,black,,blue,,red,"green, mint",,,INTP,good_impression,mood_boost,self_satisfaction,date_or_social,formal_occasion,,unique_style,above_200k
+999,Yes,30s,M,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",,,,"green, mint",,,INTJ,good_impression,,self_satisfaction,,formal_occasion,,,50k_to_100k
+1000,Yes,20s,F,morning,daily,casual,"minimal, simple",,,,,,,,white,black,"beige, brown",blue,,,,,,ENFP,good_impression,mood_boost,self_satisfaction,,,,,50k_to_100k
+1001,Yes,30s,F,morning,rarely,casual,"minimal, simple",,,,,,,,white,,"beige, brown",blue,,,,,,ISTJ,,mood_boost,self_satisfaction,,,,,50k_to_100k
+1002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,501 +1,2002 @@
-user_id,citrus,floral,woody,musk,spicy,green,sweet
-1,0,0,0,1,0,0,0
-2,0,0,0,1,1,0,0
-3,0,1,1,0,0,1,1
-4,1,0,1,1,1,1,1
-5,1,1,0,0,1,1,1
-6,0,1,0,1,1,1,1
-7,1,1,1,1,1,0,1
-8,0,0,0,1,1,1,1
-9,1,1,1,1,1,1,0
-10,1,1,0,0,0,0,0
-11,1,1,0,0,0,1,0
-12,1,1,1,1,1,1,0
-13,0,0,1,0,0,1,0
-14,0,1,0,0,0,0,1
-15,1,1,0,1,1,0,1
-16,0,0,1,0,1,0,1
-17,1,0,0,0,0,0,0
-18,0,0,1,0,1,1,1
-19,0,0,1,1,0,0,0
-20,1,0,0,1,1,0,0
-21,1,1,0,0,0,1,0
-22,0,1,0,1,1,1,1
-23,0,1,1,1,1,0,1
-24,1,1,0,0,0,0,0
-25,0,1,0,1,0,0,1
-26,0,0,1,1,1,1,1
-27,0,1,1,1,0,1,1
-28,0,1,0,0,1,1,1
-29,1,1,1,1,0,0,0
-30,1,0,1,0,0,1,0
-31,1,0,0,0,0,1,1
-32,0,0,0,1,1,0,1
-33,0,0,0,0,0,0,1
-34,0,1,1,1,1,1,0
-35,0,0,1,1,1,1,1
-36,1,1,0,0,0,1,1
-37,0,1,1,0,0,1,1
-38,1,1,1,1,1,1,1
-39,0,1,1,0,0,1,0
-40,1,1,1,0,0,1,1
-41,1,0,0,0,1,1,1
-42,0,1,0,0,0,1,1
-43,0,0,1,1,0,1,1
-44,1,0,0,1,1,1,0
-45,1,0,0,0,0,1,0
-46,1,1,1,0,1,0,0
-47,0,1,0,1,0,1,0
-48,1,0,1,1,0,0,0
-49,1,1,0,1,1,1,0
-50,0,1,1,1,1,0,1
-51,0,1,1,0,0,1,0
-52,1,0,0,0,1,1,1
-53,1,1,1,1,0,1,1
-54,0,0,0,0,0,1,0
-55,0,1,1,0,0,1,1
-56,1,0,1,0,0,1,0
-57,0,1,0,1,1,1,0
-58,0,1,1,0,0,0,0
-59,0,0,1,0,0,1,1
-60,1,0,1,1,0,0,1
-61,1,1,1,0,0,0,1
-62,1,1,0,0,1,1,0
-63,0,0,1,1,0,0,0
-64,0,1,1,1,1,0,1
-65,0,0,1,0,0,0,0
-66,1,1,0,1,1,1,1
-67,0,0,0,0,0,1,1
-68,0,0,0,0,0,0,0
-69,0,0,0,0,1,0,0
-70,0,1,0,1,0,1,1
-71,0,1,1,1,1,0,1
-72,1,1,1,1,0,0,1
-73,1,0,0,1,1,1,1
-74,0,0,1,0,0,0,0
-75,0,1,0,1,1,1,0
-76,0,0,1,1,0,1,0
-77,0,0,1,0,1,0,1
-78,0,1,1,0,0,1,0
-79,1,1,0,1,1,0,1
-80,1,1,0,1,1,1,1
-81,0,0,0,0,1,1,0
-82,0,0,0,1,0,0,0
-83,1,0,0,0,1,0,0
-84,0,0,1,0,1,1,0
-85,0,1,1,1,0,1,1
-86,0,1,1,1,1,1,0
-87,1,0,0,0,0,0,0
-88,0,1,0,1,0,1,0
-89,1,1,0,1,0,0,1
-90,0,1,0,1,0,0,0
-91,0,0,1,0,0,1,1
-92,1,1,0,0,1,0,0
-93,0,1,0,1,0,1,0
-94,0,1,1,1,0,1,1
-95,1,1,1,1,0,1,0
-96,0,0,0,0,1,1,1
-97,1,1,0,1,0,0,0
-98,0,1,1,0,0,1,1
-99,0,0,0,0,1,0,0
-100,1,1,0,1,0,0,0
-101,0,1,0,0,1,0,1
-102,0,1,0,1,0,1,0
-103,0,1,1,0,0,1,1
-104,1,0,0,0,1,1,1
-105,0,1,0,0,1,1,0
-106,0,0,0,1,1,0,0
-107,1,1,0,1,0,0,0
-108,0,0,1,1,0,1,1
-109,0,0,0,1,1,0,1
-110,1,0,0,0,0,0,1
-111,1,1,1,1,0,1,1
-112,1,0,0,0,0,0,0
-113,1,1,0,1,0,1,0
-114,1,0,0,0,0,1,0
-115,1,0,0,1,1,0,1
-116,0,1,1,0,1,1,0
-117,1,1,0,1,0,1,1
-118,0,1,0,0,1,1,0
-119,1,0,0,0,0,0,1
-120,0,0,0,0,1,1,0
-121,0,1,0,0,0,0,1
-122,0,1,0,1,1,1,0
-123,0,1,0,0,0,0,0
-124,1,1,0,0,0,1,1
-125,1,1,1,0,1,0,0
-126,1,0,0,1,0,0,0
-127,0,0,1,1,0,1,0
-128,0,1,1,1,0,0,1
-129,0,0,1,0,1,0,0
-130,0,0,0,1,1,1,0
-131,1,1,0,0,0,1,0
-132,1,1,0,0,0,0,1
-133,0,1,1,0,0,1,1
-134,1,1,1,0,1,0,0
-135,1,0,1,1,0,0,1
-136,0,0,1,1,1,0,0
-137,1,0,0,1,1,0,1
-138,0,1,0,0,1,1,1
-139,0,0,0,1,1,1,1
-140,1,0,0,1,1,1,1
-141,1,1,1,1,1,1,0
-142,0,0,1,0,1,1,1
-143,1,0,1,1,1,0,1
-144,0,1,0,0,1,0,1
-145,0,0,1,1,1,0,1
-146,0,0,0,0,1,1,0
-147,1,0,0,0,1,1,0
-148,0,0,1,0,0,0,1
-149,1,0,1,0,0,1,1
-150,0,1,0,1,0,1,0
-151,0,1,1,0,1,1,1
-152,1,0,0,0,1,1,0
-153,0,0,0,1,0,0,0
-154,1,1,0,1,0,0,1
-155,1,0,1,1,0,1,1
-156,0,1,1,0,0,0,1
-157,1,0,1,0,0,1,1
-158,1,0,0,0,0,1,1
-159,1,1,0,1,1,1,1
-160,1,0,0,1,0,0,1
-161,1,0,1,0,0,1,1
-162,0,0,0,0,1,0,0
-163,0,0,1,0,1,1,0
-164,0,0,1,0,0,1,1
-165,0,0,1,0,0,1,0
-166,0,0,1,0,0,1,0
-167,0,1,1,0,0,1,1
-168,0,0,1,1,1,0,0
-169,1,0,1,1,1,1,0
-170,1,1,1,1,0,0,1
-171,1,1,0,0,1,0,1
-172,0,1,1,1,1,1,1
-173,1,1,0,0,0,1,1
-174,1,1,0,0,1,1,1
-175,1,0,1,0,0,0,1
-176,0,0,0,0,0,1,1
-177,0,0,0,1,0,0,1
-178,0,0,0,1,1,0,0
-179,0,0,0,1,1,1,0
-180,1,1,1,1,1,1,0
-181,0,0,0,0,0,1,1
-182,1,0,1,1,0,1,0
-183,0,1,0,1,1,0,0
-184,1,1,0,1,1,0,0
-185,0,1,0,1,0,1,1
-186,1,1,0,0,0,1,1
-187,1,0,0,0,1,1,0
-188,0,0,0,0,1,0,1
-189,0,0,1,0,1,0,1
-190,1,1,0,0,0,1,1
-191,1,0,1,0,0,0,1
-192,0,1,1,1,1,1,0
-193,1,0,0,1,1,1,1
-194,0,1,0,0,1,1,1
-195,0,0,0,0,1,0,0
-196,0,1,1,1,1,0,1
-197,1,1,1,0,0,0,1
-198,0,1,0,0,1,0,1
-199,1,0,0,1,0,1,0
-200,1,0,0,1,1,1,1
-201,0,1,1,1,1,1,1
-202,1,1,1,1,1,1,0
-203,0,0,0,0,1,1,0
-204,0,1,0,1,1,0,0
-205,1,0,1,1,0,1,1
-206,1,1,0,0,1,1,1
-207,0,0,0,0,0,1,0
-208,1,1,1,0,1,1,1
-209,0,1,0,0,1,0,1
-210,0,0,0,0,0,0,1
-211,0,1,1,0,0,0,1
-212,1,0,1,1,0,1,1
-213,1,0,1,0,1,1,1
-214,0,0,1,0,1,1,1
-215,0,0,0,1,1,0,0
-216,1,0,0,1,1,0,1
-217,0,0,1,1,1,0,1
-218,0,1,1,0,1,0,0
-219,0,1,1,0,0,0,0
-220,1,0,1,1,1,0,1
-221,0,1,1,0,1,1,0
-222,0,0,1,1,1,1,1
-223,1,1,1,1,1,1,0
-224,0,1,1,1,0,0,0
-225,0,1,1,1,1,1,0
-226,0,1,0,1,0,0,0
-227,0,1,1,0,0,1,0
-228,0,1,1,1,1,1,0
-229,1,1,1,1,1,0,1
-230,1,1,1,1,0,1,1
-231,1,0,0,0,1,1,0
-232,1,1,0,0,0,1,0
-233,0,0,1,0,1,0,0
-234,1,1,1,1,1,0,0
-235,1,0,1,0,1,0,0
-236,0,1,1,0,1,0,1
-237,1,0,1,1,0,1,1
-238,1,0,1,0,1,0,1
-239,0,0,0,0,0,0,1
-240,1,1,1,1,1,0,0
-241,0,1,1,1,1,0,1
-242,0,0,1,0,0,0,0
-243,1,1,1,1,1,0,1
-244,1,1,0,0,1,0,1
-245,0,1,0,1,0,1,1
-246,1,0,0,1,0,0,0
-247,1,1,0,0,0,0,1
-248,1,0,1,1,0,1,0
-249,1,0,0,1,1,0,0
-250,1,0,1,1,0,0,0
-251,1,1,0,0,1,0,1
-252,0,1,0,1,1,1,0
-253,1,1,1,1,1,1,0
-254,1,1,0,0,1,1,0
-255,0,1,0,0,1,1,0
-256,0,0,0,1,0,0,0
-257,0,1,0,0,0,0,1
-258,0,0,0,0,1,1,1
-259,1,0,1,1,0,0,0
-260,0,1,1,1,0,1,1
-261,0,1,0,1,1,1,0
-262,1,1,0,0,1,1,0
-263,1,1,1,1,1,0,0
-264,1,1,0,0,1,1,0
-265,1,0,0,1,1,0,1
-266,0,0,0,1,0,1,1
-267,1,0,0,0,1,1,1
-268,0,0,0,0,1,0,0
-269,0,1,1,0,1,1,0
-270,0,1,1,0,0,1,0
-271,1,1,1,1,0,1,0
-272,0,0,1,1,0,1,0
-273,0,1,0,1,0,1,1
-274,0,0,0,0,0,1,1
-275,1,1,0,0,1,1,0
-276,0,0,1,1,1,0,0
-277,0,0,1,1,0,0,1
-278,1,0,1,1,0,1,0
-279,1,0,0,0,0,1,0
-280,0,0,1,0,1,1,1
-281,0,0,0,0,0,0,0
-282,1,0,1,1,1,0,0
-283,1,1,1,1,0,1,0
-284,0,0,0,0,0,0,1
-285,1,1,1,1,0,0,1
-286,1,1,1,0,0,0,1
-287,1,0,1,0,1,1,0
-288,1,1,0,1,1,0,1
-289,1,1,0,0,1,1,1
-290,0,0,0,1,0,0,0
-291,1,1,0,0,1,1,1
-292,1,0,0,1,0,0,1
-293,1,0,1,1,0,1,1
-294,1,1,1,0,1,0,0
-295,1,1,1,1,1,1,1
-296,0,0,0,0,1,1,1
-297,0,0,1,0,1,1,0
-298,1,1,0,0,1,0,1
-299,0,1,0,0,1,0,1
-300,1,1,1,0,0,1,0
-301,1,0,1,1,1,0,0
-302,0,1,0,0,1,0,1
-303,0,0,1,1,0,1,0
-304,0,1,0,0,1,0,1
-305,0,0,0,1,0,0,1
-306,1,1,0,1,1,0,0
-307,0,1,1,0,1,1,1
-308,0,1,1,1,0,0,1
-309,1,1,0,0,0,0,1
-310,1,1,0,0,0,1,1
-311,1,1,1,1,0,1,1
-312,0,1,0,0,0,1,1
-313,0,1,1,0,0,1,1
-314,1,0,0,0,1,0,1
-315,0,0,0,1,0,0,0
-316,1,1,1,0,0,0,1
-317,1,1,0,0,1,0,1
-318,1,1,1,0,1,0,0
-319,0,1,0,1,0,1,1
-320,0,1,0,1,1,1,1
-321,1,1,1,1,1,1,0
-322,0,1,0,1,0,1,0
-323,1,0,0,0,0,0,0
-324,0,0,0,0,0,1,1
-325,0,1,0,0,1,0,0
-326,0,1,0,0,1,1,0
-327,0,0,1,0,0,1,1
-328,0,1,1,1,0,1,1
-329,1,0,0,0,1,1,1
-330,1,1,0,1,0,0,1
-331,0,1,1,1,1,1,0
-332,1,0,0,1,1,1,0
-333,0,0,1,0,1,1,1
-334,0,1,1,1,1,0,0
-335,0,0,0,0,0,1,1
-336,1,1,1,1,0,0,1
-337,1,1,1,1,0,1,0
-338,0,0,1,1,1,1,0
-339,1,0,0,0,0,0,0
-340,0,0,1,1,1,0,1
-341,0,1,0,0,0,1,0
-342,0,1,0,1,0,0,1
-343,0,1,0,1,1,0,0
-344,1,1,0,1,1,1,1
-345,0,1,1,1,1,1,0
-346,1,1,0,0,1,1,1
-347,1,1,1,0,0,1,0
-348,1,0,0,1,1,1,0
-349,0,0,1,1,1,1,1
-350,1,0,0,1,1,0,0
-351,0,1,1,1,1,1,1
-352,0,1,1,1,0,1,1
-353,0,0,1,0,1,0,1
-354,1,1,0,1,0,1,1
-355,0,0,1,1,0,0,1
-356,0,1,0,0,1,1,0
-357,0,0,0,0,1,1,0
-358,0,0,1,0,0,1,0
-359,1,1,0,1,0,1,1
-360,0,0,1,0,1,1,1
-361,1,1,0,0,1,0,1
-362,0,0,0,0,0,0,0
-363,1,0,1,1,0,0,1
-364,1,0,0,1,1,1,1
-365,0,0,1,1,1,1,0
-366,1,1,0,0,1,0,1
-367,1,0,0,1,1,1,1
-368,1,0,0,1,1,0,1
-369,1,1,0,1,0,1,1
-370,0,1,1,0,1,1,1
-371,1,0,0,1,1,0,1
-372,0,1,0,0,0,1,0
-373,0,1,1,0,0,1,0
-374,1,0,0,1,0,0,0
-375,0,0,1,1,1,0,1
-376,1,0,1,0,0,1,0
-377,1,0,1,1,1,0,1
-378,0,1,1,0,0,0,1
-379,0,1,0,1,1,1,1
-380,0,1,1,1,1,1,0
-381,0,1,0,1,1,1,1
-382,0,0,1,0,1,1,1
-383,0,0,0,0,1,1,0
-384,1,1,1,1,0,0,1
-385,1,1,0,1,0,1,1
-386,0,1,1,0,1,0,1
-387,1,0,1,0,1,1,0
-388,1,1,0,1,0,0,1
-389,0,0,0,1,1,0,1
-390,1,0,1,1,1,1,1
-391,1,0,0,0,1,0,1
-392,1,1,0,1,0,0,1
-393,0,0,0,0,0,0,0
-394,0,1,1,1,1,1,0
-395,1,1,0,1,0,1,0
-396,0,1,0,0,0,0,1
-397,1,0,1,1,1,1,1
-398,0,0,1,1,1,1,0
-399,0,1,0,1,1,0,1
-400,1,0,1,0,0,0,0
-401,0,0,1,1,1,1,1
-402,0,0,0,1,0,1,0
-403,0,1,1,1,0,0,1
-404,0,1,1,1,0,1,0
-405,0,1,0,0,1,0,1
-406,0,0,0,0,0,0,1
-407,1,1,1,1,1,1,1
-408,1,1,0,1,1,1,1
-409,0,1,0,1,1,0,1
-410,0,0,1,1,0,0,1
-411,0,1,0,0,1,1,1
-412,0,1,0,1,0,0,0
-413,0,1,1,1,0,0,1
-414,1,1,1,0,0,0,0
-415,1,0,0,0,0,1,1
-416,1,0,0,1,1,1,0
-417,0,1,1,0,1,1,0
-418,1,1,1,1,0,1,0
-419,1,1,0,1,0,1,1
-420,0,0,0,1,1,1,0
-421,1,0,0,0,1,0,1
-422,1,1,1,1,1,0,1
-423,1,1,0,0,1,0,0
-424,0,1,0,0,0,1,0
-425,0,1,1,0,0,1,1
-426,0,0,0,1,0,1,0
-427,1,1,0,0,0,0,0
-428,1,1,1,1,1,1,0
-429,0,1,1,0,0,0,0
-430,0,0,0,0,1,1,0
-431,0,1,1,0,1,0,0
-432,1,1,0,0,0,1,0
-433,1,0,0,0,0,0,1
-434,0,1,1,1,0,1,0
-435,0,1,1,0,0,0,0
-436,1,1,1,1,1,0,0
-437,1,1,0,0,1,1,1
-438,0,1,1,1,1,1,1
-439,1,0,1,0,1,1,0
-440,0,0,0,0,0,1,0
-441,0,0,0,0,1,1,1
-442,0,0,1,0,0,1,1
-443,0,0,1,1,0,0,0
-444,1,0,1,1,0,1,0
-445,1,1,1,1,0,1,1
-446,1,1,0,1,0,1,1
-447,0,1,1,1,0,0,0
-448,1,0,1,0,0,1,0
-449,1,0,1,0,1,0,0
-450,0,0,0,0,0,1,1
-451,0,0,1,0,1,0,1
-452,0,0,1,1,1,1,0
-453,1,0,1,0,0,0,1
-454,0,1,1,0,0,0,1
-455,1,0,0,0,1,1,1
-456,1,1,0,0,0,1,1
-457,0,1,0,0,1,0,0
-458,1,0,1,0,1,0,0
-459,0,0,1,0,1,1,1
-460,0,1,1,0,0,1,0
-461,0,1,0,0,1,1,0
-462,1,1,0,0,1,0,1
-463,1,1,0,1,0,0,0
-464,0,0,0,1,0,0,0
-465,1,0,1,0,0,0,0
-466,1,1,0,0,0,1,0
-467,0,0,1,0,1,0,1
-468,1,1,1,1,1,1,1
-469,1,1,1,1,0,0,1
-470,0,0,1,1,0,0,1
-471,0,0,1,0,1,1,0
-472,1,0,0,1,0,0,0
-473,0,0,0,0,1,0,1
-474,0,0,1,0,1,0,1
-475,1,1,0,0,0,0,0
-476,1,0,1,0,0,0,1
-477,0,1,0,0,0,1,1
-478,0,1,1,0,1,0,1
-479,1,0,1,1,0,0,0
-480,0,1,1,0,0,0,1
-481,1,1,1,0,0,0,1
-482,0,1,0,1,0,1,0
-483,0,0,1,0,1,0,1
-484,0,1,1,1,1,0,1
-485,1,1,0,0,1,0,1
-486,0,0,0,0,0,1,1
-487,1,1,1,1,1,1,1
-488,0,1,0,0,0,0,0
-489,0,1,1,1,1,0,0
-490,1,0,1,0,1,1,0
-491,1,1,1,0,1,0,0
-492,1,1,0,0,0,1,0
-493,1,1,0,0,1,1,0
-494,0,1,0,0,0,1,1
-495,1,1,0,1,1,0,1
-496,0,0,0,0,0,1,0
-497,0,1,0,1,1,0,1
-498,1,0,1,0,0,1,0
-499,1,0,0,0,0,1,1
-500,1,0,0,1,0,1,1
+﻿user_id,perfume_category
+1,woody
+2,"woody, musk, amber"
+3,"citrus, woody"
+4,"citrus, floral, fruity, light_floral"
+5,"citrus, musk, fougere"
+6,"citrus, aromatic"
+7,"citrus, floral, woody, light_floral, white_floral"
+8,"citrus, floral, musk"
+9,citrus
+10,"floral, woody, musk, green"
+11,"citrus, aquatic, powdery"
+12,"woody, green, powdery, casual, cozy"
+13,casual
+14,floral
+15,"woody, green, gourmand, chypre, amber"
+16,green
+17,"woody, casual"
+18,"floral, woody, aquatic, green, fruity, aromatic"
+19,musk
+20,"citrus, fruity"
+21,"woody, musk, gourmand, fruity, amber"
+22,"musk, light_floral"
+23,woody
+24,"musk, powdery, fougere"
+25,musk
+26,"citrus, casual"
+27,"musk, powdery, light_floral"
+28,"musk, aquatic, powdery, light_floral"
+29,aromatic
+30,woody
+31,"musk, chypre, white_floral"
+32,"citrus, aquatic"
+33,"woody, aquatic"
+34,"woody, green, aromatic, chypre"
+35,"fruity, light_floral, white_floral"
+36,musk
+37,"citrus, musk, green, cozy"
+38,aromatic
+39,"woody, green"
+40,"floral, woody"
+41,"floral, musk, aquatic, gourmand, powdery, fruity, light_floral, white_floral"
+42,"floral, aquatic, powdery, fruity, white_floral, casual, cozy"
+43,woody
+44,"woody, gourmand, aromatic, cozy"
+45,"woody, oriental, musk"
+46,"woody, aquatic, green"
+47,"floral, musk"
+48,"citrus, musk, aquatic, fruity"
+49,"citrus, floral, green, aromatic"
+50,"citrus, floral"
+51,"floral, aquatic, green"
+52,"woody, musk"
+53,woody
+54,"woody, musk, green"
+55,"woody, musk, powdery, chypre"
+56,"citrus, woody, aromatic"
+57,citrus
+58,"citrus, floral, musk, aromatic, chypre"
+59,"citrus, woody, musk"
+60,"woody, green"
+61,"woody, oriental, musk, powdery, fougere"
+62,floral
+63,woody
+64,floral
+65,"citrus, floral, woody, aquatic, green, gourmand, fruity, light_floral, white_floral"
+66,"musk, aquatic, chypre"
+67,"musk, powdery, fruity"
+68,"citrus, woody, cozy"
+69,"woody, musk, powdery, aromatic, fougere, light_floral, casual"
+70,floral
+71,"aromatic, casual"
+72,"floral, aromatic"
+73,"citrus, woody, aromatic, casual, cozy"
+74,"fruity, casual"
+75,"citrus, woody, aquatic, light_floral"
+76,musk
+77,"citrus, floral, musk, aromatic, fougere, white_floral, casual, cozy"
+78,"citrus, floral, green, fruity, aromatic, amber, light_floral, cozy"
+79,"floral, aquatic, light_floral"
+80,"aromatic, fougere"
+81,musk
+82,"floral, musk, powdery"
+83,"musk, white_floral"
+84,aquatic
+85,"floral, woody, green, aromatic"
+86,woody
+87,"musk, powdery"
+88,"musk, aromatic"
+89,"citrus, aquatic, fruity"
+90,"citrus, floral, woody, musk, powdery, aromatic, chypre, fougere, amber, light_floral, white_floral, casual, cozy"
+91,"citrus, woody, musk, aquatic, fruity, light_floral, casual, cozy"
+92,"citrus, woody, white_floral"
+93,aquatic
+94,"powdery, light_floral"
+95,"citrus, musk"
+96,"floral, musk, fruity"
+97,green
+98,"floral, musk, aquatic, powdery, fruity, fougere, casual"
+99,"floral, musk, fruity"
+100,citrus
+101,"musk, light_floral, casual"
+102,"citrus, floral, aquatic, green, light_floral, casual"
+103,"citrus, woody, musk"
+104,"citrus, gourmand"
+105,fougere
+106,musk
+107,"floral, musk, aquatic, powdery, casual"
+108,citrus
+109,woody
+110,"aquatic, fougere, light_floral"
+111,musk
+112,"floral, green, fruity, light_floral"
+113,"floral, musk"
+114,"floral, musk, powdery, white_floral"
+115,"floral, woody, musk, gourmand, fruity, amber, casual"
+116,"citrus, woody, musk, powdery, cozy"
+117,"musk, white_floral, casual"
+118,"woody, green"
+119,"citrus, musk"
+120,"citrus, musk, green"
+121,"citrus, woody, oriental, fruity, cozy"
+122,"citrus, powdery, cozy"
+123,"floral, powdery, casual"
+124,"citrus, musk, green, gourmand, fruity, aromatic, chypre, amber, light_floral, white_floral, cozy"
+125,"woody, musk, casual, cozy"
+126,"citrus, woody, aromatic"
+127,citrus
+128,"powdery, aromatic, light_floral"
+129,"floral, aquatic, powdery, light_floral"
+130,"citrus, aromatic, light_floral"
+131,"woody, green, fougere"
+132,"woody, musk, aquatic"
+133,"woody, musk, green, gourmand, fruity, light_floral, white_floral, casual, cozy"
+134,"floral, musk, gourmand, powdery, fruity, light_floral, white_floral"
+135,citrus
+136,"woody, oriental, green, chypre"
+137,"musk, aquatic, powdery, aromatic, fougere, casual"
+138,"floral, fruity"
+139,"woody, gourmand, powdery"
+140,"floral, woody, musk"
+141,"floral, light_floral"
+142,"citrus, musk, casual"
+143,"green, aromatic"
+144,"gourmand, powdery, casual"
+145,aquatic
+146,"citrus, green, fruity, chypre, light_floral, casual"
+147,"citrus, light_floral, white_floral"
+148,floral
+149,"light_floral, casual"
+150,green
+151,"woody, green, powdery"
+152,"citrus, woody, green, aromatic, light_floral, white_floral"
+153,"citrus, floral, gourmand"
+154,"woody, aquatic"
+155,"fruity, light_floral"
+156,"citrus, woody, fruity"
+157,woody
+158,"floral, aquatic, green, aromatic"
+159,"woody, aquatic"
+160,woody
+161,"woody, green"
+162,"woody, aquatic, amber, spicy, light_floral"
+163,"floral, aromatic"
+164,"woody, musk"
+165,"citrus, woody, musk, aquatic"
+166,aromatic
+167,citrus
+168,"woody, aquatic, light_floral, cozy"
+169,"musk, fruity, cozy"
+170,"floral, woody, musk, powdery, light_floral, casual, cozy"
+171,"woody, aquatic, cozy"
+172,"woody, musk, aquatic, powdery, amber"
+173,musk
+174,"citrus, musk"
+175,floral
+176,"musk, powdery, cozy"
+177,"woody, musk, chypre, white_floral"
+178,"floral, musk, powdery"
+179,"musk, aquatic, aromatic, amber, casual"
+180,aromatic
+181,"floral, woody"
+182,musk
+183,cozy
+184,"musk, aquatic, fruity"
+185,"powdery, casual"
+186,"aquatic, casual"
+187,aquatic
+188,"citrus, floral, aquatic, green, fruity, light_floral, white_floral, casual"
+189,floral
+190,"musk, casual"
+191,"citrus, musk"
+192,"woody, musk, green, aromatic"
+193,"citrus, woody, musk, aquatic, green, powdery, fruity, casual, cozy"
+194,"citrus, musk, cozy"
+195,"floral, white_floral"
+196,"woody, musk"
+197,"woody, musk, green, aromatic, casual"
+198,"citrus, floral, musk, powdery, fruity, light_floral"
+199,"green, powdery, chypre"
+200,"aromatic, chypre, white_floral"
+201,"floral, fruity"
+202,floral
+203,woody
+204,citrus
+205,"woody, casual, cozy"
+206,"citrus, aromatic"
+207,"citrus, floral, fruity, aromatic, cozy"
+208,"citrus, woody, chypre, amber"
+209,"citrus, floral, woody, musk, aquatic, green, fruity, chypre, amber, cozy"
+210,floral
+211,"floral, woody, green, powdery, aromatic, chypre, casual"
+212,floral
+213,"citrus, green"
+214,"powdery, light_floral, white_floral"
+215,aquatic
+216,"woody, aquatic, powdery"
+217,floral
+218,woody
+219,aquatic
+220,"citrus, floral, woody, powdery, cozy"
+221,"citrus, woody, powdery"
+222,"citrus, woody, casual"
+223,aquatic
+224,citrus
+225,"floral, musk, aquatic, powdery, fruity, light_floral, casual"
+226,"floral, gourmand, powdery"
+227,aromatic
+228,"citrus, woody, oriental, spicy"
+229,aquatic
+230,"musk, aquatic"
+231,"green, gourmand, powdery, fruity, light_floral"
+232,"citrus, woody, aquatic, fruity, casual"
+233,"musk, aquatic"
+234,"woody, musk, fruity"
+235,aromatic
+236,"woody, powdery"
+237,"floral, fruity, aromatic"
+238,"citrus, woody, musk, aquatic, powdery, fruity, aromatic, casual"
+239,"floral, fruity"
+240,"citrus, gourmand, powdery, light_floral"
+241,"citrus, woody, musk"
+242,"floral, woody, green, amber"
+243,floral
+244,"woody, musk, aquatic, powdery, fruity, aromatic, light_floral, casual"
+245,"woody, aquatic, white_floral"
+246,woody
+247,"woody, aquatic"
+248,"citrus, floral, woody, aquatic"
+249,"floral, musk, aquatic, fruity, amber"
+250,aquatic
+251,"woody, oriental, green, powdery"
+252,"musk, aquatic, powdery, casual"
+253,"woody, musk, fruity"
+254,"woody, oriental, musk, green, powdery, aromatic, fougere, cozy"
+255,light_floral
+256,"aquatic, amber"
+257,"citrus, aquatic, gourmand, fruity"
+258,"woody, aquatic, green"
+259,woody
+260,"woody, musk, green, fougere, casual, cozy"
+261,"citrus, floral, green, fruity, aromatic"
+262,citrus
+263,"oriental, fougere"
+264,"floral, oriental"
+265,"woody, musk, aquatic, fruity, chypre"
+266,"citrus, woody, green"
+267,"woody, musk, powdery, casual, cozy"
+268,chypre
+269,"floral, aquatic, light_floral"
+270,"citrus, floral, casual"
+271,musk
+272,aquatic
+273,"woody, oriental, green, spicy"
+274,"floral, oriental, green"
+275,"floral, woody, musk, aquatic, gourmand, powdery, fougere, amber, cozy"
+276,"floral, powdery"
+277,"aquatic, fougere"
+278,"musk, aquatic, powdery, amber"
+279,"musk, powdery"
+280,"woody, green, casual"
+281,"citrus, floral, woody, musk, amber"
+282,casual
+283,"citrus, aromatic"
+284,"floral, woody, oriental, green, aromatic, chypre"
+285,floral
+286,floral
+287,"citrus, floral, woody, musk, green, powdery, fruity, aromatic, chypre, amber, white_floral"
+288,"floral, musk, aquatic"
+289,woody
+290,"musk, aquatic, fougere"
+291,citrus
+292,"musk, fougere, casual"
+293,"citrus, floral, musk, green, powdery"
+294,"citrus, woody"
+295,"citrus, musk, chypre"
+296,"floral, aquatic, amber"
+297,musk
+298,"musk, powdery, casual, cozy"
+299,"aquatic, fougere, casual"
+300,"woody, green, aromatic"
+301,"citrus, fruity, casual"
+302,"citrus, woody, musk, aquatic, aromatic"
+303,"floral, musk, aquatic, green, gourmand, powdery, aromatic, amber, light_floral, white_floral, casual"
+304,aromatic
+305,"aquatic, casual, cozy"
+306,"floral, green, light_floral"
+307,citrus
+308,"citrus, woody, fruity"
+309,casual
+310,musk
+311,"citrus, woody, casual"
+312,"citrus, floral, woody, oriental, aquatic, green, chypre, fougere, light_floral, white_floral"
+313,"floral, musk"
+314,"floral, musk, light_floral"
+315,"citrus, fruity"
+316,"citrus, woody, green"
+317,"floral, aromatic, light_floral"
+318,"citrus, gourmand, chypre, cozy"
+319,"woody, aquatic"
+320,"citrus, woody, musk, aquatic, fougere, casual"
+321,"citrus, floral, woody, oriental, fruity, aromatic, chypre, fougere, light_floral, white_floral, casual"
+322,"aquatic, green, casual, cozy"
+323,"woody, chypre"
+324,citrus
+325,"woody, musk, chypre"
+326,"woody, musk"
+327,musk
+328,"powdery, light_floral"
+329,"citrus, musk"
+330,citrus
+331,"woody, musk, powdery"
+332,"musk, aquatic"
+333,"woody, white_floral"
+334,"citrus, floral, woody, oriental, musk, aquatic, green, fougere, spicy, casual, cozy"
+335,"floral, fruity"
+336,"citrus, floral, musk, white_floral"
+337,"citrus, woody, green, gourmand, fruity"
+338,"citrus, floral, aquatic, green, fruity, chypre, light_floral, white_floral, casual"
+339,"citrus, floral, woody, green, gourmand, fruity, light_floral, cozy"
+340,floral
+341,"floral, musk, aquatic, powdery, light_floral"
+342,floral
+343,"woody, green"
+344,"woody, musk, fruity"
+345,"citrus, woody, fruity"
+346,"musk, aquatic"
+347,woody
+348,"woody, musk"
+349,"citrus, floral, woody"
+350,citrus
+351,floral
+352,"aquatic, chypre"
+353,floral
+354,"citrus, woody, musk, cozy"
+355,"floral, woody, green, aromatic, chypre, fougere, light_floral"
+356,"aquatic, powdery, casual"
+357,"citrus, light_floral"
+358,"floral, musk, fruity"
+359,"citrus, powdery"
+360,"citrus, green, fruity, white_floral"
+361,aquatic
+362,"woody, aquatic"
+363,"woody, musk, aquatic, powdery, fruity, amber, casual, cozy"
+364,"woody, casual"
+365,"musk, green"
+366,"citrus, casual"
+367,"oriental, green"
+368,"powdery, aromatic"
+369,"floral, powdery"
+370,"woody, aquatic, powdery"
+371,woody
+372,"citrus, floral, aromatic, light_floral, white_floral"
+373,"floral, musk, gourmand, powdery"
+374,"aromatic, fougere"
+375,citrus
+376,"citrus, musk, cozy"
+377,"musk, aquatic, powdery, casual"
+378,"woody, musk, chypre"
+379,"oriental, aromatic"
+380,"musk, gourmand, casual"
+381,woody
+382,woody
+383,"floral, musk, aromatic"
+384,"musk, aquatic, cozy"
+385,oriental
+386,aquatic
+387,"citrus, fruity, light_floral"
+388,floral
+389,"citrus, woody, musk, green, powdery, aromatic, fougere, spicy, casual"
+390,"citrus, aromatic"
+391,"citrus, woody, musk"
+392,"woody, fruity"
+393,"green, aromatic, light_floral"
+394,"woody, casual"
+395,"citrus, floral"
+396,"woody, green"
+397,casual
+398,"woody, aquatic"
+399,"citrus, floral, woody, musk, aquatic, green, gourmand, fruity, aromatic, chypre, light_floral, casual, cozy"
+400,"citrus, musk, aquatic, green, aromatic, light_floral"
+401,"aquatic, green, casual"
+402,"citrus, musk, green"
+403,"woody, light_floral"
+404,"musk, gourmand, light_floral"
+405,"citrus, aromatic"
+406,"green, fruity, white_floral"
+407,"floral, musk, powdery, light_floral, white_floral"
+408,"woody, green, chypre, fougere"
+409,musk
+410,"floral, musk, powdery"
+411,"citrus, green"
+412,woody
+413,"oriental, aquatic, casual"
+414,"citrus, floral, gourmand"
+415,"musk, powdery, casual, cozy"
+416,citrus
+417,citrus
+418,"floral, musk, powdery, fruity"
+419,"citrus, floral, woody"
+420,"citrus, fruity"
+421,"woody, musk"
+422,floral
+423,"woody, musk"
+424,aquatic
+425,"floral, gourmand, powdery, fruity, aromatic, fougere, amber, light_floral"
+426,"aquatic, fruity, light_floral"
+427,"musk, powdery"
+428,"floral, musk, powdery, aromatic"
+429,"floral, musk, powdery"
+430,"citrus, woody"
+431,"woody, musk"
+432,green
+433,"woody, musk, aromatic, light_floral"
+434,cozy
+435,"musk, powdery, casual"
+436,citrus
+437,powdery
+438,"citrus, woody, aquatic, green, fougere, white_floral, casual"
+439,"aromatic, fougere"
+440,"citrus, gourmand, fruity, chypre, fougere, amber, white_floral"
+441,"floral, woody, casual"
+442,"floral, light_floral"
+443,"woody, musk, powdery"
+444,"aquatic, casual"
+445,"citrus, green"
+446,"musk, aromatic"
+447,"citrus, gourmand, powdery, white_floral"
+448,"citrus, oriental"
+449,"chypre, white_floral, casual"
+450,woody
+451,"floral, gourmand, powdery, amber, white_floral, casual, cozy"
+452,"citrus, light_floral"
+453,"floral, woody, musk, aquatic"
+454,"citrus, casual"
+455,"woody, musk"
+456,"floral, green"
+457,"aquatic, chypre, fougere"
+458,"floral, aquatic, aromatic, casual"
+459,citrus
+460,musk
+461,floral
+462,"woody, musk"
+463,"citrus, floral, aquatic, green, light_floral, casual"
+464,musk
+465,musk
+466,"musk, aromatic"
+467,"woody, aquatic, green"
+468,"citrus, floral"
+469,"woody, musk, powdery"
+470,"woody, aromatic"
+471,floral
+472,"citrus, musk, green, powdery, fruity, aromatic, light_floral, casual, cozy"
+473,"citrus, floral, chypre, light_floral"
+474,aromatic
+475,citrus
+476,musk
+477,woody
+478,"citrus, musk, aquatic, fougere, cozy"
+479,floral
+480,"citrus, musk, aquatic, powdery, casual, cozy"
+481,woody
+482,cozy
+483,fougere
+484,"floral, woody, musk, powdery, light_floral"
+485,"woody, fougere"
+486,"floral, musk, aquatic"
+487,"aquatic, green, fougere"
+488,"citrus, chypre, light_floral"
+489,"citrus, woody, aromatic"
+490,"citrus, aquatic, fruity, casual, cozy"
+491,"citrus, woody, musk, aquatic, powdery, fougere"
+492,"woody, musk, aquatic"
+493,"citrus, woody, green, gourmand, amber, cozy"
+494,"fruity, aromatic"
+495,"aquatic, green, casual"
+496,green
+497,"floral, woody, oriental, aquatic, spicy, casual"
+498,musk
+499,"woody, musk, green, aromatic, light_floral"
+500,"floral, aquatic, fruity, light_floral, casual"
+501,gourmand
+502,"woody, musk, aquatic, green, powdery, casual, cozy"
+503,"citrus, woody, musk"
+504,"citrus, floral, powdery, fruity, light_floral, white_floral"
+505,fruity
+506,"citrus, floral, musk, aquatic, green, gourmand, fruity, aromatic, chypre, fougere, amber, light_floral, white_floral, casual, cozy"
+507,citrus
+508,"floral, woody, musk, casual"
+509,fruity
+510,"citrus, floral, gourmand, powdery, fruity, aromatic, light_floral"
+511,woody
+512,"woody, musk, aquatic, gourmand, powdery, casual, cozy"
+513,"woody, aquatic, casual"
+514,"citrus, green, chypre"
+515,"citrus, floral, oriental, green, casual"
+516,"floral, woody, musk"
+517,"powdery, fougere"
+518,"citrus, woody, gourmand, fruity, cozy"
+519,"citrus, powdery, fruity"
+520,"floral, green, fruity, aromatic, light_floral"
+521,"gourmand, fruity"
+522,"woody, musk, powdery"
+523,"aquatic, chypre"
+524,citrus
+525,"citrus, floral, musk, green, gourmand, fruity, aromatic, light_floral, white_floral, casual, cozy"
+526,"floral, musk, aquatic, powdery, fruity, light_floral, white_floral"
+527,"woody, white_floral, cozy"
+528,"green, gourmand, powdery, aromatic, amber, cozy"
+529,"citrus, green, powdery, white_floral, casual"
+530,musk
+531,"woody, green, aromatic"
+532,"gourmand, fruity"
+533,"citrus, woody, green, light_floral, casual"
+534,"citrus, floral, woody, aquatic, green, fruity, chypre, light_floral, white_floral, casual"
+535,"musk, aromatic"
+536,"citrus, woody, musk, fruity"
+537,powdery
+538,citrus
+539,"woody, musk, aquatic"
+540,green
+541,"citrus, woody"
+542,casual
+543,"floral, musk, light_floral"
+544,"woody, casual, cozy"
+545,"floral, light_floral"
+546,"musk, aquatic, cozy"
+547,citrus
+548,"floral, musk, fruity, aromatic, light_floral, white_floral"
+549,"woody, powdery"
+550,"citrus, woody, aquatic, fougere, casual"
+551,green
+552,"aquatic, fougere, casual"
+553,musk
+554,"woody, aromatic"
+555,"citrus, light_floral, white_floral"
+556,floral
+557,citrus
+558,"floral, woody, fougere"
+559,musk
+560,"aquatic, gourmand, cozy"
+561,"citrus, floral, woody"
+562,"citrus, woody, aquatic, fruity, light_floral"
+563,woody
+564,citrus
+565,musk
+566,"woody, musk"
+567,"woody, green"
+568,"citrus, floral, woody, aquatic, green, powdery, fruity, aromatic, light_floral, casual, cozy"
+569,"citrus, woody"
+570,"citrus, green, fougere"
+571,musk
+572,"citrus, floral, fruity, light_floral"
+573,
+574,"citrus, musk, powdery"
+575,"citrus, green, chypre, amber, casual"
+576,"woody, musk, aquatic"
+577,"citrus, woody, aquatic"
+578,"citrus, fougere"
+579,"woody, aromatic"
+580,"musk, powdery"
+581,"citrus, woody, green, gourmand"
+582,"musk, powdery, white_floral"
+583,floral
+584,"citrus, floral, green, fruity"
+585,"citrus, musk, powdery"
+586,"citrus, aquatic, green"
+587,"citrus, green"
+588,"woody, musk, powdery, light_floral, cozy"
+589,"musk, aquatic, light_floral, casual"
+590,"woody, aquatic, green"
+591,"floral, musk"
+592,"woody, musk, powdery, amber, cozy"
+593,"citrus, musk"
+594,"floral, woody, musk, aquatic, green, aromatic, casual"
+595,"floral, aromatic"
+596,"floral, woody, musk, aquatic, green, powdery, fruity, aromatic, fougere, light_floral, white_floral, casual"
+597,"woody, green, casual"
+598,"woody, musk, aquatic, powdery"
+599,citrus
+600,"citrus, musk, aquatic"
+601,"citrus, musk, powdery"
+602,"citrus, aquatic, gourmand, fruity, casual"
+603,"floral, aromatic, light_floral"
+604,"woody, musk, aquatic, cozy"
+605,woody
+606,floral
+607,"citrus, green, fruity"
+608,"citrus, aquatic"
+609,"woody, aquatic"
+610,"aquatic, green, fougere"
+611,"woody, light_floral"
+612,"aquatic, powdery, casual"
+613,"woody, aquatic"
+614,"citrus, floral, oriental"
+615,"musk, powdery, chypre, light_floral, white_floral"
+616,"citrus, woody, fruity"
+617,"musk, fruity, light_floral"
+618,"floral, woody, aquatic, green, powdery, aromatic, chypre, fougere, light_floral, casual"
+619,"floral, woody, musk"
+620,"citrus, musk, powdery"
+621,"citrus, musk, aquatic, cozy"
+622,"floral, musk"
+623,"woody, musk"
+624,"woody, musk"
+625,musk
+626,woody
+627,"musk, green, powdery, casual"
+628,"citrus, floral, woody, musk, aquatic, green, fruity, aromatic, amber, light_floral, casual, cozy"
+629,"aquatic, green, powdery"
+630,"musk, gourmand, fruity, amber"
+631,"woody, musk, fruity, casual, cozy"
+632,woody
+633,aquatic
+634,"woody, musk, aquatic"
+635,"musk, green"
+636,"woody, aquatic"
+637,"musk, aquatic, casual"
+638,"musk, aquatic"
+639,"floral, musk, green"
+640,"citrus, musk, green"
+641,fruity
+642,"citrus, floral, fruity"
+643,powdery
+644,fougere
+645,woody
+646,"woody, musk, aquatic"
+647,woody
+648,"woody, musk"
+649,"citrus, floral, green, fruity, light_floral, white_floral"
+650,"floral, aquatic, fruity, light_floral, casual"
+651,woody
+652,"musk, casual"
+653,"citrus, floral, light_floral"
+654,"citrus, floral"
+655,"citrus, woody"
+656,"floral, woody"
+657,"floral, musk"
+658,"floral, musk, aquatic, green, powdery"
+659,woody
+660,"aquatic, powdery"
+661,"woody, musk"
+662,"citrus, aromatic"
+663,"citrus, floral, white_floral"
+664,"musk, aquatic"
+665,woody
+666,green
+667,floral
+668,"citrus, powdery"
+669,"musk, casual"
+670,"floral, musk, powdery"
+671,"citrus, musk, aromatic"
+672,floral
+673,floral
+674,"citrus, fruity, aromatic"
+675,woody
+676,"woody, cozy"
+677,floral
+678,"woody, green, aromatic, fougere, casual, cozy"
+679,"woody, fruity, light_floral"
+680,"musk, casual, cozy"
+681,"citrus, powdery, white_floral"
+682,"gourmand, casual"
+683,"citrus, woody"
+684,"woody, green"
+685,"citrus, woody, aquatic, gourmand, amber"
+686,woody
+687,aquatic
+688,musk
+689,"musk, aquatic, green"
+690,"woody, oriental, musk, green, light_floral, casual, cozy"
+691,woody
+692,"citrus, woody, green, fruity, casual"
+693,"citrus, woody"
+694,"citrus, aquatic, fruity"
+695,gourmand
+696,"citrus, floral, woody, aquatic, green, fruity, fougere, amber, light_floral, casual, cozy"
+697,"citrus, musk, casual"
+698,"citrus, fruity, aromatic"
+699,"citrus, floral, aquatic, green, fruity, chypre, fougere, cozy"
+700,"floral, woody, amber"
+701,"citrus, floral, woody, musk, aquatic, green, powdery, aromatic, chypre, fougere, light_floral, casual"
+702,"citrus, musk, light_floral"
+703,"floral, musk, aquatic, gourmand, powdery, fruity, light_floral, white_floral, casual, cozy"
+704,citrus
+705,floral
+706,"citrus, green, aromatic"
+707,"citrus, woody, aquatic"
+708,citrus
+709,light_floral
+710,"woody, green"
+711,"woody, green, aromatic"
+712,"woody, musk, chypre"
+713,"citrus, floral, woody, oriental, aquatic, green, powdery, fruity, aromatic, chypre, fougere, amber, light_floral, white_floral, casual, cozy"
+714,"citrus, casual"
+715,"citrus, musk, aromatic"
+716,"woody, musk, aquatic, powdery, amber"
+717,"citrus, floral"
+718,"woody, musk, aromatic"
+719,"citrus, floral"
+720,"powdery, amber"
+721,"woody, powdery"
+722,"citrus, woody, musk, aromatic, light_floral"
+723,woody
+724,"citrus, woody, musk, aquatic"
+725,"aromatic, light_floral, white_floral"
+726,"citrus, musk, gourmand, powdery, fruity, aromatic, chypre, amber, casual, cozy"
+727,floral
+728,"fruity, casual"
+729,"woody, aquatic, light_floral"
+730,"citrus, woody, aquatic, green, aromatic, light_floral"
+731,woody
+732,"woody, aquatic, green, powdery, aromatic, chypre, fougere, light_floral"
+733,"gourmand, powdery, fruity, aromatic, light_floral, white_floral"
+734,"citrus, floral, fruity, light_floral, white_floral"
+735,"citrus, floral, light_floral"
+736,musk
+737,"woody, fougere"
+738,"musk, chypre, light_floral, casual, cozy"
+739,"woody, musk"
+740,"woody, chypre, fougere"
+741,"citrus, musk, green, powdery, casual"
+742,"woody, musk, cozy"
+743,"woody, powdery"
+744,floral
+745,"woody, light_floral"
+746,"citrus, floral, woody, oriental, musk, aquatic, green, aromatic, white_floral, cozy"
+747,"floral, musk"
+748,"citrus, aquatic, fruity"
+749,woody
+750,"citrus, aquatic, green, powdery"
+751,"citrus, green, powdery"
+752,"woody, oriental"
+753,"woody, chypre, light_floral"
+754,"musk, green"
+755,"woody, musk, green, aromatic"
+756,"citrus, powdery, casual"
+757,"citrus, musk"
+758,"floral, powdery, white_floral"
+759,woody
+760,"citrus, woody, cozy"
+761,floral
+762,"floral, musk, light_floral, white_floral, cozy"
+763,"floral, aquatic"
+764,"citrus, woody"
+765,"woody, oriental, green, aromatic"
+766,floral
+767,"citrus, aromatic, light_floral, casual"
+768,citrus
+769,citrus
+770,green
+771,"aquatic, powdery, aromatic, casual"
+772,aromatic
+773,aquatic
+774,woody
+775,"green, aromatic, light_floral"
+776,"citrus, woody"
+777,"citrus, chypre, white_floral"
+778,"woody, powdery, chypre, light_floral"
+779,"woody, aquatic, casual"
+780,citrus
+781,"woody, aquatic, green, aromatic, chypre, light_floral, casual"
+782,"citrus, oriental, green, aromatic"
+783,"floral, musk, amber, light_floral, white_floral, casual"
+784,"musk, light_floral, casual"
+785,"woody, green, fruity, light_floral"
+786,"citrus, floral, woody, aromatic, white_floral"
+787,chypre
+788,"amber, white_floral"
+789,"floral, green, casual"
+790,"woody, chypre"
+791,"musk, powdery, casual"
+792,"citrus, cozy"
+793,citrus
+794,"woody, cozy"
+795,"citrus, woody, oriental, spicy"
+796,"powdery, casual"
+797,"gourmand, powdery, fougere, white_floral"
+798,"floral, musk"
+799,"floral, fruity, light_floral, white_floral"
+800,floral
+801,"citrus, powdery, light_floral"
+802,citrus
+803,"citrus, floral, aquatic, aromatic"
+804,"woody, green"
+805,"woody, musk, green, amber"
+806,"woody, oriental, green, chypre, cozy"
+807,"citrus, woody, aquatic, green"
+808,floral
+809,"citrus, aquatic, green, aromatic, chypre, white_floral, casual"
+810,"floral, green, powdery, aromatic"
+811,aquatic
+812,"floral, aquatic"
+813,casual
+814,"citrus, floral, woody, oriental, musk, aquatic, green, aromatic, amber, casual"
+815,woody
+816,musk
+817,aquatic
+818,"citrus, floral, aromatic, white_floral"
+819,woody
+820,"citrus, floral, green, aromatic"
+821,citrus
+822,"aromatic, amber"
+823,"woody, casual"
+824,musk
+825,"floral, fruity, light_floral"
+826,"citrus, woody, aquatic, casual"
+827,"woody, gourmand, amber, cozy"
+828,"floral, musk, powdery, amber, light_floral"
+829,aquatic
+830,"musk, cozy"
+831,"citrus, aquatic"
+832,"oriental, chypre"
+833,"citrus, floral, musk, chypre"
+834,"green, light_floral"
+835,"woody, musk"
+836,floral
+837,"woody, aquatic, aromatic, casual"
+838,citrus
+839,"citrus, woody, musk, aquatic, amber"
+840,citrus
+841,"woody, musk, fougere"
+842,"floral, musk, cozy"
+843,green
+844,"floral, woody, aquatic, aromatic"
+845,"floral, woody, musk, aquatic, gourmand, powdery, amber, light_floral, white_floral, casual, cozy"
+846,green
+847,"woody, gourmand"
+848,"floral, woody"
+849,"floral, green"
+850,"woody, light_floral"
+851,"woody, musk, aquatic"
+852,"woody, musk, aquatic"
+853,"woody, musk, aquatic"
+854,"citrus, aromatic"
+855,musk
+856,floral
+857,citrus
+858,chypre
+859,"citrus, green, fruity"
+860,"citrus, floral, woody, musk, aromatic"
+861,"citrus, woody, musk, aquatic, chypre, casual"
+862,"musk, green, gourmand"
+863,floral
+864,"citrus, light_floral"
+865,oriental
+866,"aquatic, aromatic"
+867,"musk, powdery"
+868,green
+869,"citrus, woody, aromatic, casual"
+870,"citrus, floral"
+871,"woody, musk, aquatic, green, casual"
+872,"floral, musk, green, powdery, casual"
+873,"floral, white_floral"
+874,"floral, musk"
+875,"floral, musk, green, gourmand, powdery, fruity, amber, light_floral, white_floral"
+876,"woody, aquatic"
+877,"citrus, powdery"
+878,"citrus, woody, light_floral, casual"
+879,"citrus, musk, fougere"
+880,"floral, musk, powdery, aromatic"
+881,"woody, musk, fruity"
+882,"woody, aquatic, casual"
+883,"citrus, woody"
+884,"citrus, floral, fruity, light_floral"
+885,"musk, aquatic, powdery, cozy"
+886,"citrus, woody, green, gourmand, fruity, cozy"
+887,"floral, fruity"
+888,citrus
+889,"woody, aromatic"
+890,"citrus, fruity"
+891,"woody, musk"
+892,"floral, aquatic"
+893,"citrus, musk, fruity, aromatic, white_floral"
+894,"woody, aromatic"
+895,"woody, musk, powdery, cozy"
+896,"powdery, spicy"
+897,"citrus, aquatic"
+898,"aquatic, fougere"
+899,"musk, fruity, aromatic, light_floral, casual"
+900,"woody, powdery"
+901,"floral, oriental, musk, white_floral"
+902,"woody, musk, aquatic, green, aromatic"
+903,citrus
+904,"citrus, woody, aquatic, fruity"
+905,"citrus, woody, green"
+906,green
+907,"citrus, green, fruity"
+908,amber
+909,"citrus, oriental, musk, aromatic"
+910,musk
+911,fruity
+912,"citrus, casual"
+913,"citrus, floral, musk, aquatic, powdery, fruity, casual"
+914,"citrus, floral, woody"
+915,"floral, green, powdery"
+916,aquatic
+917,"woody, light_floral"
+918,"musk, powdery, casual, cozy"
+919,"woody, musk"
+920,"citrus, musk"
+921,citrus
+922,"powdery, casual"
+923,citrus
+924,citrus
+925,"citrus, gourmand"
+926,"citrus, floral, aromatic"
+927,"citrus, oriental"
+928,light_floral
+929,"citrus, woody"
+930,woody
+931,musk
+932,"woody, green, light_floral"
+933,"citrus, musk, aquatic, green, powdery, aromatic, chypre, casual"
+934,"green, cozy"
+935,powdery
+936,"floral, light_floral"
+937,"citrus, floral"
+938,"citrus, musk, green, chypre, light_floral"
+939,"citrus, woody, musk, aromatic, casual"
+940,"floral, musk, gourmand"
+941,floral
+942,gourmand
+943,"citrus, woody"
+944,"citrus, woody, aromatic"
+945,woody
+946,"woody, musk, aquatic"
+947,"woody, musk"
+948,"woody, musk, aquatic, green, casual"
+949,"floral, aquatic, green, fruity, aromatic, chypre, fougere, amber, casual"
+950,"woody, musk"
+951,"citrus, green, casual"
+952,oriental
+953,"woody, musk"
+954,chypre
+955,"citrus, woody, aquatic, green, powdery, aromatic, fougere, casual"
+956,"musk, aquatic"
+957,musk
+958,"aquatic, fruity, aromatic, light_floral, casual"
+959,"woody, musk, aquatic, green, powdery, amber, spicy"
+960,green
+961,"floral, fruity, light_floral"
+962,"floral, woody"
+963,"aquatic, green, powdery, casual"
+964,"citrus, aromatic, light_floral"
+965,"floral, woody, green"
+966,"woody, fruity, light_floral"
+967,"musk, aquatic, aromatic"
+968,"aquatic, casual"
+969,"floral, fruity"
+970,"floral, musk, powdery"
+971,"woody, green"
+972,"floral, aromatic"
+973,"floral, musk, aromatic, white_floral"
+974,"oriental, green, aromatic, casual, cozy"
+975,floral
+976,"floral, green, light_floral, white_floral, casual"
+977,fougere
+978,"woody, oriental, green, aromatic"
+979,woody
+980,"floral, woody, green"
+981,"floral, aquatic, powdery"
+982,"citrus, aromatic"
+983,"floral, light_floral"
+984,"oriental, aquatic, fruity"
+985,"citrus, fougere"
+986,"woody, musk, fruity, fougere, casual, cozy"
+987,"citrus, floral, gourmand, fruity"
+988,"citrus, floral, woody, aquatic, green"
+989,"woody, musk, fruity"
+990,"aquatic, casual"
+991,floral
+992,"citrus, musk, aromatic"
+993,oriental
+994,citrus
+995,"woody, musk, aquatic, green, powdery, fruity, amber, casual, cozy"
+996,"citrus, aquatic, powdery, fruity, casual"
+997,"citrus, aquatic, powdery, casual"
+998,"citrus, aquatic, powdery, fruity"
+999,"citrus, floral, woody, green, chypre"
+1000,"citrus, aquatic, aromatic"
+1001,"citrus, woody, powdery"
+1002,citrus
+1003,musk
+1004,"citrus, fruity, gourmand, aquatic"
+1005,"aquatic, fougere"
+1006,"green, woody"
+1007,"white_floral, powdery, musk"
+1008,aquatic
+1009,"citrus, chypre, woody, casual"
+1010,"fruity, light_floral"
+1011,"floral, aromatic"
+1012,"woody, aromatic, casual"
+1013,"white_floral, musk"
+1014,"citrus, fruity"
+1015,"aquatic, green, woody, aromatic, casual"
+1016,"citrus, floral, aquatic, woody"
+1017,"fruity, floral, white_floral, light_floral"
+1018,"powdery, cozy, aquatic, green, musk, woody, aromatic, casual"
+1019,"citrus, light_floral, woody"
+1020,musk
+1021,green
+1022,"aquatic, aromatic"
+1023,"citrus, musk, woody, casual"
+1024,"citrus, spicy"
+1025,"powdery, aquatic, green, musk, woody"
+1026,"citrus, light_floral"
+1027,"citrus, chypre, aquatic, woody"
+1028,"fruity, aquatic, woody"
+1029,"aquatic, woody"
+1030,citrus
+1031,"cozy, fougere, woody"
+1032,"fruity, powdery, gourmand, musk"
+1033,"amber, aquatic"
+1034,"aquatic, green"
+1035,"citrus, oriental, green, woody, casual"
+1036,"floral, white_floral, light_floral, musk"
+1037,"floral, white_floral, powdery, light_floral, musk"
+1038,"white_floral, amber, woody"
+1039,"citrus, woody"
+1040,"aquatic, woody"
+1041,"aquatic, green, casual"
+1042,casual
+1043,"citrus, musk"
+1044,"white_floral, chypre, aquatic, green, musk, fougere, woody, aromatic, casual"
+1045,"floral, aquatic, casual"
+1046,"white_floral, powdery, gourmand, cozy, musk, casual"
+1047,"chypre, aquatic, green, light_floral, fougere, woody"
+1048,"aquatic, musk, woody, aromatic"
+1049,"citrus, green"
+1050,fougere
+1051,"fruity, fougere"
+1052,fruity
+1053,"citrus, woody"
+1054,"citrus, aquatic, musk"
+1055,"aromatic, casual"
+1056,"woody, aromatic"
+1057,"fruity, fougere"
+1058,"floral, aquatic, musk"
+1059,musk
+1060,"citrus, aquatic, green, light_floral"
+1061,"citrus, green"
+1062,"musk, fougere"
+1063,"citrus, floral, aquatic"
+1064,"floral, green, musk, fougere, woody"
+1065,"powdery, amber, chypre, green, light_floral, fougere, woody"
+1066,"citrus, fruity, floral, white_floral, light_floral, woody"
+1067,"aquatic, green"
+1068,citrus
+1069,"white_floral, light_floral, musk, aromatic"
+1070,"citrus, woody, casual"
+1071,"fruity, powdery, aquatic, musk"
+1072,"citrus, musk"
+1073,"fougere, woody, casual"
+1074,"citrus, fruity, powdery, musk"
+1075,"amber, oriental, gourmand, green, musk, spicy, woody"
+1076,fougere
+1077,"green, casual"
+1078,"amber, cozy, musk"
+1079,"citrus, green, musk, woody"
+1080,"floral, white_floral, amber, aquatic, green, light_floral, musk"
+1081,"floral, aquatic"
+1082,"citrus, white_floral, green, musk, woody, casual"
+1083,"citrus, fruity, light_floral, musk, fougere"
+1084,"powdery, musk"
+1085,aquatic
+1086,"aquatic, green, woody"
+1087,"powdery, amber, musk, fougere, woody"
+1088,musk
+1089,aquatic
+1090,"citrus, fruity, floral, white_floral"
+1091,"citrus, aquatic"
+1092,"musk, woody"
+1093,musk
+1094,woody
+1095,"floral, musk"
+1096,"citrus, green"
+1097,woody
+1098,"fruity, green"
+1099,casual
+1100,"powdery, aquatic, green, aromatic"
+1101,"citrus, fruity, light_floral, fougere"
+1102,"aquatic, fougere"
+1103,"musk, woody"
+1104,"chypre, green, woody"
+1105,"cozy, green, musk, woody"
+1106,"citrus, musk, woody"
+1107,"floral, white_floral, light_floral"
+1108,"chypre, spicy, woody"
+1109,green
+1110,"amber, cozy, musk, woody"
+1111,"powdery, aquatic, green, light_floral, musk, casual"
+1112,"citrus, amber, musk"
+1113,"floral, green"
+1114,"powdery, musk"
+1115,"aquatic, green, woody, casual"
+1116,"white_floral, green, light_floral"
+1117,casual
+1118,"floral, green"
+1119,"fruity, floral, white_floral, powdery, gourmand, cozy, aquatic, green, light_floral, musk, woody, aromatic, casual"
+1120,"green, woody"
+1121,musk
+1122,"woody, casual"
+1123,"powdery, fougere, woody"
+1124,"citrus, floral, powdery, musk"
+1125,citrus
+1126,"musk, woody, casual"
+1127,citrus
+1128,"citrus, chypre, fougere, spicy"
+1129,"powdery, amber, green, light_floral, musk, casual"
+1130,"citrus, green, woody, casual"
+1131,"citrus, aquatic"
+1132,"aquatic, fougere"
+1133,"musk, casual"
+1134,"citrus, aquatic"
+1135,"oriental, woody"
+1136,"cozy, green"
+1137,"citrus, floral, musk, woody"
+1138,"citrus, aquatic, green, light_floral, fougere, woody, aromatic, casual"
+1139,"aquatic, musk, woody"
+1140,"amber, chypre, green, musk, woody"
+1141,"amber, chypre, woody"
+1142,aquatic
+1143,"citrus, amber, green, light_floral, aromatic"
+1144,"citrus, fruity, floral, aquatic"
+1145,woody
+1146,"aquatic, green, light_floral, musk, spicy, woody, casual"
+1147,"citrus, musk"
+1148,citrus
+1149,"citrus, fruity, white_floral, gourmand, cozy, musk, spicy"
+1150,"musk, woody"
+1151,"aquatic, green, light_floral, musk, woody"
+1152,"cozy, woody"
+1153,"fruity, floral, white_floral, powdery"
+1154,"fougere, woody"
+1155,"citrus, floral, aquatic, green, woody, aromatic"
+1156,"citrus, cozy, aquatic"
+1157,"citrus, spicy"
+1158,"citrus, oriental, spicy, woody"
+1159,"cozy, musk, spicy"
+1160,"floral, powdery, chypre, aquatic, light_floral, musk, aromatic, casual"
+1161,"citrus, chypre, spicy, woody"
+1162,"citrus, aquatic, green, musk, woody"
+1163,floral
+1164,"chypre, musk, woody"
+1165,"amber, green, musk, woody"
+1166,"white_floral, amber, chypre, musk, woody, casual"
+1167,"amber, light_floral"
+1168,"cozy, aquatic, musk"
+1169,"citrus, spicy, woody"
+1170,"citrus, chypre, aquatic, green"
+1171,"citrus, woody, casual"
+1172,"oriental, green, spicy, woody"
+1173,"citrus, fruity, gourmand, musk"
+1174,"amber, oriental, green, musk, woody"
+1175,"citrus, fruity, floral"
+1176,"citrus, fruity, gourmand, light_floral"
+1177,"floral, cozy, light_floral, musk"
+1178,"cozy, aquatic, musk, woody"
+1179,"aquatic, green, light_floral, aromatic"
+1180,"fruity, floral, aquatic, musk"
+1181,"citrus, white_floral"
+1182,"amber, aquatic, fougere, woody"
+1183,"citrus, fruity, woody"
+1184,"light_floral, woody, aromatic"
+1185,"gourmand, light_floral"
+1186,"amber, aquatic, fougere"
+1187,"floral, amber, green, woody, aromatic"
+1188,"citrus, cozy, aquatic, green, casual"
+1189,"fruity, powdery, aquatic, musk"
+1190,casual
+1191,"powdery, chypre, cozy, aquatic, musk, woody, casual"
+1192,"powdery, green, light_floral, aromatic, casual"
+1193,citrus
+1194,"citrus, aquatic, light_floral"
+1195,"floral, white_floral, aquatic, green, light_floral, aromatic"
+1196,"citrus, oriental, musk, spicy, woody"
+1197,"chypre, aquatic, fougere, woody"
+1198,woody
+1199,"aquatic, musk, woody"
+1200,"powdery, fougere"
+1201,"citrus, fruity, floral, white_floral, light_floral"
+1202,"chypre, green, fougere, woody"
+1203,"fruity, aquatic, woody"
+1204,"citrus, green, woody"
+1205,"citrus, chypre, green, woody"
+1206,"floral, green, musk"
+1207,"powdery, aquatic, musk, casual"
+1208,"cozy, green, woody"
+1209,"citrus, aquatic"
+1210,"citrus, green, musk, woody, casual"
+1211,"aquatic, woody"
+1212,"citrus, white_floral, powdery, green, woody, aromatic"
+1213,"citrus, amber, chypre, aquatic, green, musk, woody"
+1214,"citrus, aquatic, green, woody, aromatic"
+1215,"citrus, powdery, aquatic, musk, woody, casual"
+1216,"citrus, fruity, white_floral, aquatic, light_floral"
+1217,"amber, chypre, woody"
+1218,"citrus, casual"
+1219,"chypre, aquatic, green, musk, woody"
+1220,"citrus, chypre, cozy, light_floral"
+1221,"citrus, fruity"
+1222,"light_floral, musk, woody"
+1223,"amber, cozy, aquatic, green, light_floral, casual"
+1224,"citrus, fruity, floral, white_floral, chypre, aquatic, light_floral, woody, aromatic, casual"
+1225,"citrus, fruity, woody"
+1226,"citrus, fruity, floral, light_floral, musk"
+1227,"green, musk, woody"
+1228,"floral, woody, casual"
+1229,"citrus, amber, aquatic, musk, woody, casual"
+1230,"chypre, aquatic, musk, fougere, woody, casual"
+1231,"citrus, fruity, gourmand, aquatic"
+1232,"oriental, green, musk, spicy, woody"
+1233,"aquatic, musk, woody"
+1234,"white_floral, powdery, aquatic, musk, fougere"
+1235,"floral, green"
+1236,"citrus, musk"
+1237,"citrus, green, woody"
+1238,"fruity, gourmand, spicy"
+1239,aquatic
+1240,"aquatic, light_floral, woody, casual"
+1241,
+1242,"fruity, light_floral, fougere"
+1243,"white_floral, green, light_floral, musk"
+1244,"fruity, floral, white_floral, powdery, amber, gourmand, aquatic, light_floral, musk, casual"
+1245,"citrus, aquatic, musk"
+1246,"citrus, powdery, musk, fougere, woody"
+1247,woody
+1248,"aquatic, green, casual"
+1249,"powdery, aquatic, musk, woody, aromatic"
+1250,"floral, chypre, light_floral"
+1251,"floral, white_floral, aquatic, green, light_floral"
+1252,"citrus, floral, amber, woody"
+1253,citrus
+1254,"aquatic, woody"
+1255,"green, woody"
+1256,"fruity, aquatic, green"
+1257,light_floral
+1258,powdery
+1259,"musk, woody"
+1260,"white_floral, aquatic, musk"
+1261,"citrus, aquatic, woody"
+1262,"citrus, green, woody"
+1263,"citrus, musk, woody"
+1264,"fruity, floral, white_floral, chypre, woody"
+1265,light_floral
+1266,"floral, aquatic, green, musk, woody"
+1267,"citrus, powdery, oriental, aquatic, green, light_floral, musk, aromatic, casual"
+1268,aquatic
+1269,white_floral
+1270,"citrus, floral, woody"
+1271,"powdery, musk, casual"
+1272,"floral, white_floral"
+1273,"citrus, green, light_floral"
+1274,fougere
+1275,citrus
+1276,"musk, woody"
+1277,"amber, gourmand, cozy, fougere, woody"
+1278,"powdery, amber, aquatic, musk, woody"
+1279,"floral, chypre, aquatic, green"
+1280,"citrus, musk, woody"
+1281,"fruity, amber, chypre, aquatic, green, woody"
+1282,"green, spicy, woody"
+1283,"fruity, floral, aquatic, green, woody"
+1284,"citrus, floral, powdery, cozy, light_floral, woody"
+1285,musk
+1286,"cozy, musk, woody"
+1287,"citrus, powdery, light_floral, spicy"
+1288,"citrus, green, musk, woody"
+1289,"fruity, floral, aquatic"
+1290,"white_floral, aquatic, green, light_floral"
+1291,"citrus, light_floral"
+1292,"amber, green, woody"
+1293,"aquatic, musk"
+1294,woody
+1295,"powdery, cozy, aquatic, musk, woody"
+1296,"green, woody, aromatic"
+1297,"citrus, fruity, floral, powdery, amber, chypre, aquatic, green, woody, aromatic, casual"
+1298,"cozy, light_floral, woody"
+1299,"citrus, green, woody"
+1300,"light_floral, musk, woody, casual"
+1301,"citrus, amber, aquatic, green, light_floral, woody, aromatic, casual"
+1302,woody
+1303,"citrus, cozy, woody"
+1304,"powdery, green, aromatic"
+1305,"fruity, floral, amber"
+1306,"chypre, musk"
+1307,"citrus, fruity"
+1308,citrus
+1309,aquatic
+1310,"cozy, woody, casual"
+1311,"citrus, musk, spicy, woody"
+1312,"citrus, musk, woody"
+1313,"citrus, aquatic, green"
+1314,"chypre, cozy, green, woody"
+1315,"fruity, light_floral, casual"
+1316,"citrus, white_floral, chypre, green, fougere, woody, aromatic"
+1317,"cozy, woody"
+1318,"citrus, floral, white_floral, powdery, musk"
+1319,"citrus, powdery, aquatic, green, musk, spicy, woody, casual"
+1320,"chypre, fougere, woody"
+1321,"citrus, chypre, aquatic, woody"
+1322,"woody, aromatic"
+1323,"citrus, gourmand, fougere"
+1324,"aquatic, light_floral, aromatic, casual"
+1325,"amber, aquatic, musk"
+1326,"aquatic, green, light_floral, casual"
+1327,"citrus, aquatic, musk"
+1328,woody
+1329,musk
+1330,"musk, spicy, woody"
+1331,"citrus, fougere, woody"
+1332,"gourmand, casual"
+1333,"musk, woody"
+1334,white_floral
+1335,"citrus, aquatic, woody, casual"
+1336,"gourmand, light_floral, casual"
+1337,"green, light_floral, woody"
+1338,"aquatic, musk"
+1339,"citrus, green, woody"
+1340,"floral, amber, woody"
+1341,"citrus, cozy, aquatic, green, musk, spicy, woody, casual"
+1342,"citrus, green, woody, aromatic"
+1343,"citrus, fruity, powdery, aquatic, musk, woody"
+1344,"floral, amber, oriental"
+1345,"fruity, amber, gourmand, cozy, musk"
+1346,"aquatic, musk, woody, casual"
+1347,"floral, chypre, woody"
+1348,"amber, woody"
+1349,"citrus, floral, aquatic, green, light_floral, woody, aromatic, casual"
+1350,"aquatic, green, woody, aromatic"
+1351,"green, woody, casual"
+1352,"citrus, fruity, floral, white_floral, amber, green, light_floral, musk, woody, aromatic, casual"
+1353,"citrus, green"
+1354,"citrus, floral, oriental, chypre, green, woody"
+1355,"chypre, cozy, musk, woody"
+1356,"fruity, light_floral, casual"
+1357,"powdery, aquatic, musk"
+1358,"citrus, fruity, aquatic, fougere"
+1359,"powdery, musk"
+1360,"citrus, white_floral, woody"
+1361,"cozy, woody"
+1362,"fruity, floral, white_floral, chypre, aquatic, green, light_floral, woody, aromatic"
+1363,"citrus, aquatic, green"
+1364,"citrus, aquatic, musk, woody"
+1365,"citrus, fruity, amber, oriental, chypre, cozy, green, light_floral, spicy, woody, aromatic"
+1366,"citrus, fruity, floral, light_floral"
+1367,"citrus, green, woody"
+1368,"white_floral, amber, aquatic, green, musk, woody"
+1369,"fruity, spicy, woody, aromatic"
+1370,"powdery, aquatic, musk"
+1371,"citrus, woody, aromatic"
+1372,"gourmand, aquatic, light_floral, musk"
+1373,"spicy, woody"
+1374,"citrus, fruity, aquatic"
+1375,"powdery, musk, spicy, casual"
+1376,"citrus, fruity, floral, gourmand, aquatic, green, casual"
+1377,"musk, fougere, woody"
+1378,"citrus, oriental, aquatic, woody"
+1379,"white_floral, amber, light_floral"
+1380,"powdery, chypre, cozy, aquatic, green, musk, woody, aromatic, casual"
+1381,"citrus, fruity, green, light_floral"
+1382,"citrus, white_floral, spicy, woody"
+1383,"citrus, floral, amber, chypre, musk, woody"
+1384,"powdery, light_floral"
+1385,"citrus, oriental, gourmand, green, musk, casual"
+1386,"fruity, gourmand, musk, woody"
+1387,"aquatic, musk, casual"
+1388,"powdery, gourmand, cozy, musk"
+1389,"fruity, floral, white_floral, powdery, amber, cozy, aquatic, light_floral, musk"
+1390,"citrus, musk, woody"
+1391,"aquatic, musk"
+1392,"floral, musk, woody, aromatic"
+1393,"citrus, aquatic, musk, woody"
+1394,"citrus, fruity, floral, aquatic, light_floral"
+1395,"aquatic, fougere"
+1396,"powdery, aquatic, green, casual"
+1397,"floral, white_floral, powdery, amber, gourmand, cozy, light_floral, musk, woody, aromatic"
+1398,"floral, woody"
+1399,"aquatic, green, woody"
+1400,"light_floral, musk, woody"
+1401,citrus
+1402,"gourmand, musk, woody"
+1403,"citrus, fruity, white_floral, amber, light_floral, musk, fougere, woody, aromatic"
+1404,"powdery, light_floral, musk"
+1405,"aquatic, woody, casual"
+1406,"aquatic, fougere"
+1407,"powdery, light_floral, musk, woody"
+1408,"powdery, aquatic, musk"
+1409,"floral, amber, oriental, gourmand, cozy, fougere, spicy, woody"
+1410,"citrus, fruity, white_floral, powdery, cozy, aquatic, green, light_floral, musk"
+1411,"aquatic, fougere, woody"
+1412,"citrus, musk"
+1413,"citrus, fruity, powdery, oriental, chypre, aquatic, green, musk, woody, casual"
+1414,light_floral
+1415,"floral, chypre, light_floral, spicy, woody"
+1416,"floral, musk"
+1417,"white_floral, green, aromatic"
+1418,"citrus, floral, white_floral, powdery, amber, chypre, green, musk, woody, aromatic, casual"
+1419,floral
+1420,"floral, aquatic, light_floral, musk"
+1421,"amber, musk, woody"
+1422,"fruity, aquatic, casual"
+1423,"fruity, powdery, chypre, woody, casual"
+1424,"citrus, fruity, floral"
+1425,"floral, chypre, musk"
+1426,"light_floral, musk"
+1427,"citrus, fruity, amber, chypre, green, fougere, spicy, woody"
+1428,floral
+1429,"citrus, aquatic, woody"
+1430,"floral, chypre, green, aromatic"
+1431,"citrus, fruity, gourmand, cozy, musk, woody, aromatic"
+1432,"green, musk, woody"
+1433,"floral, woody"
+1434,"fruity, aquatic, casual"
+1435,"fruity, cozy, woody"
+1436,"citrus, fruity, casual"
+1437,"aquatic, woody"
+1438,"floral, white_floral, light_floral, aromatic, casual"
+1439,"fruity, green, musk, fougere, woody"
+1440,"cozy, woody"
+1441,"citrus, white_floral, amber, cozy, green, woody, aromatic, casual"
+1442,"citrus, white_floral, green, fougere, woody"
+1443,"powdery, aquatic"
+1444,"citrus, amber, oriental, musk, fougere, woody, aromatic"
+1445,"citrus, powdery, aquatic, musk, spicy, woody, casual"
+1446,"chypre, green, woody, aromatic"
+1447,"fruity, green, light_floral"
+1448,"citrus, aquatic, musk"
+1449,"aquatic, aromatic"
+1450,"citrus, fruity, fougere"
+1451,"chypre, cozy, green, woody"
+1452,"oriental, fougere"
+1453,"citrus, gourmand"
+1454,"citrus, aquatic"
+1455,"floral, light_floral, woody"
+1456,"citrus, green"
+1457,"citrus, cozy, woody, casual"
+1458,"citrus, fruity, floral, light_floral"
+1459,"floral, gourmand, light_floral"
+1460,"woody, aromatic"
+1461,"powdery, aquatic, green, musk, casual"
+1462,"citrus, floral, green, light_floral, woody"
+1463,aquatic
+1464,"citrus, chypre, green, light_floral, fougere, spicy, woody"
+1465,"floral, aquatic, light_floral, casual"
+1466,"citrus, powdery, aquatic"
+1467,"fruity, floral, white_floral, cozy"
+1468,"white_floral, musk, woody, casual"
+1469,"citrus, green, musk"
+1470,"amber, musk"
+1471,"musk, woody"
+1472,woody
+1473,"floral, white_floral, light_floral, woody"
+1474,"citrus, fruity, floral, powdery, amber, aquatic, green, light_floral, musk, fougere, aromatic"
+1475,"white_floral, light_floral, woody"
+1476,"citrus, floral, amber, gourmand, aquatic, woody, aromatic"
+1477,"citrus, woody"
+1478,"citrus, floral, oriental, woody"
+1479,"fruity, amber, chypre, musk"
+1480,"chypre, aquatic, green, woody"
+1481,"floral, powdery, green, musk"
+1482,"musk, casual"
+1483,"citrus, aquatic, musk, fougere"
+1484,"green, musk, spicy"
+1485,"green, light_floral, musk"
+1486,"citrus, aquatic"
+1487,"citrus, musk, woody, casual"
+1488,"floral, light_floral"
+1489,"powdery, aquatic, casual"
+1490,"floral, powdery, chypre, aquatic, green, light_floral, woody"
+1491,citrus
+1492,"citrus, fruity, aromatic"
+1493,"citrus, powdery, aquatic, green, musk, woody, casual"
+1494,"citrus, woody"
+1495,"green, musk, spicy, woody"
+1496,"citrus, fruity, floral"
+1497,"powdery, amber, musk, aromatic"
+1498,"floral, white_floral, light_floral"
+1499,"powdery, aquatic, musk, fougere, woody"
+1500,"aquatic, musk"
+1501,"citrus, oriental, green, woody"
+1502,"chypre, cozy, aquatic, fougere, woody, casual"
+1503,"musk, woody"
+1504,"citrus, musk, woody"
+1505,"amber, chypre, cozy, green, fougere, spicy"
+1506,"floral, white_floral, aquatic, green, light_floral, musk, woody"
+1507,"oriental, chypre, green, spicy, woody, aromatic"
+1508,"fruity, floral, light_floral"
+1509,"floral, white_floral, aquatic, green, light_floral"
+1510,"citrus, fruity, floral, chypre, light_floral, aromatic"
+1511,"citrus, fruity"
+1512,"powdery, musk"
+1513,"fruity, musk"
+1514,"citrus, white_floral, amber, cozy, light_floral, musk, fougere, woody, aromatic, casual"
+1515,"citrus, aquatic, green, light_floral, musk, fougere, woody, aromatic, casual"
+1516,"citrus, white_floral, woody, aromatic"
+1517,"citrus, white_floral, gourmand, light_floral, fougere, spicy, casual"
+1518,"floral, spicy, woody"
+1519,"aquatic, woody, casual"
+1520,cozy
+1521,"aquatic, green, casual"
+1522,"amber, chypre, aquatic, casual"
+1523,"chypre, cozy, fougere"
+1524,"citrus, musk, aromatic"
+1525,"cozy, aquatic, green"
+1526,"aquatic, musk, casual"
+1527,musk
+1528,"citrus, fruity, musk"
+1529,"aquatic, green, fougere, woody, aromatic, casual"
+1530,"floral, aquatic, musk"
+1531,"citrus, fruity, chypre, cozy, aquatic, green, casual"
+1532,"citrus, fruity, gourmand, musk, fougere, woody"
+1533,"citrus, green, musk, woody"
+1534,"aquatic, musk, spicy, aromatic"
+1535,"citrus, white_floral, chypre, light_floral, casual"
+1536,"citrus, fruity, floral, powdery, light_floral, musk"
+1537,citrus
+1538,"light_floral, musk"
+1539,"aquatic, woody"
+1540,"citrus, fougere"
+1541,"citrus, green, musk, woody"
+1542,"citrus, musk, woody"
+1543,"citrus, musk"
+1544,"powdery, green, musk, woody"
+1545,"citrus, musk, casual"
+1546,"white_floral, powdery, musk"
+1547,"citrus, oriental, green, woody"
+1548,powdery
+1549,"citrus, fruity"
+1550,"citrus, powdery, aquatic, green, musk, woody"
+1551,"floral, white_floral, amber, musk, woody"
+1552,"citrus, fruity, floral, musk, woody"
+1553,"citrus, chypre, spicy, woody"
+1554,"citrus, chypre, aquatic, musk, woody"
+1555,"amber, musk, woody"
+1556,"floral, powdery, chypre, musk, fougere, aromatic"
+1557,"citrus, chypre, aquatic, green, musk, woody"
+1558,"citrus, powdery, oriental, chypre, cozy, aquatic, green, light_floral, musk, spicy, woody"
+1559,"powdery, musk, aromatic"
+1560,"citrus, amber, chypre, green, musk, fougere, aromatic"
+1561,"citrus, oriental, green, woody"
+1562,"aquatic, musk, spicy, woody"
+1563,"amber, chypre, light_floral, woody, aromatic"
+1564,"aquatic, musk, fougere"
+1565,"chypre, cozy, spicy, woody, casual"
+1566,"fruity, floral, green, musk"
+1567,"citrus, aquatic, casual"
+1568,"citrus, chypre, aquatic, green, woody, aromatic"
+1569,"cozy, light_floral, fougere, woody, aromatic"
+1570,"citrus, fruity, floral, white_floral, powdery, oriental, chypre, aquatic, green, light_floral, musk, fougere, woody, aromatic"
+1571,"green, musk"
+1572,"citrus, fruity, floral, white_floral, woody, aromatic"
+1573,"fruity, floral, green, musk, aromatic, casual"
+1574,"fruity, floral, powdery"
+1575,"amber, oriental, gourmand, cozy, woody"
+1576,"citrus, fruity, floral, powdery, cozy, light_floral, musk, woody, casual"
+1577,"floral, green, light_floral"
+1578,woody
+1579,"white_floral, powdery"
+1580,"citrus, fruity, floral, chypre, casual"
+1581,"amber, oriental, chypre, gourmand, spicy, woody"
+1582,"floral, white_floral"
+1583,musk
+1584,"fruity, floral, white_floral, powdery, amber, chypre, green, light_floral, musk, aromatic"
+1585,"floral, white_floral, powdery, cozy, woody"
+1586,"powdery, aquatic, musk"
+1587,"floral, light_floral"
+1588,"cozy, spicy, woody, casual"
+1589,"fruity, fougere"
+1590,"citrus, musk"
+1591,"citrus, powdery, aquatic"
+1592,"fruity, white_floral, green, musk"
+1593,woody
+1594,"oriental, woody, aromatic"
+1595,"floral, musk"
+1596,"citrus, amber, oriental, aquatic, green, musk, spicy, woody"
+1597,citrus
+1598,"citrus, fruity, floral"
+1599,"cozy, fougere, woody, casual"
+1600,"powdery, aquatic"
+1601,"fruity, floral, powdery, light_floral, woody"
+1602,"citrus, amber, oriental, chypre, green, musk, woody, aromatic"
+1603,"musk, woody"
+1604,"fruity, floral, green, light_floral, woody, casual"
+1605,"green, light_floral, woody, casual"
+1606,musk
+1607,"citrus, fruity, aquatic, green"
+1608,"floral, amber, chypre, light_floral"
+1609,"citrus, fruity, woody"
+1610,"musk, casual"
+1611,"floral, gourmand, aquatic"
+1612,"white_floral, amber, chypre, musk, spicy, woody"
+1613,"musk, casual"
+1614,"citrus, aquatic, green, light_floral"
+1615,"fruity, floral, chypre, gourmand, green"
+1616,"floral, aquatic, woody, casual"
+1617,"musk, woody, casual"
+1618,"aquatic, woody"
+1619,fougere
+1620,"floral, oriental, musk, woody"
+1621,"citrus, fruity, floral, powdery, aquatic, light_floral, casual"
+1622,"citrus, aquatic"
+1623,"floral, woody"
+1624,"citrus, musk"
+1625,"musk, aromatic, casual"
+1626,"floral, aquatic, green"
+1627,"citrus, fruity, powdery, amber, casual"
+1628,"floral, powdery, aquatic, light_floral, woody, aromatic, casual"
+1629,"citrus, green, aromatic"
+1630,"powdery, musk, woody"
+1631,"citrus, white_floral, powdery, aquatic, light_floral, musk, woody"
+1632,woody
+1633,"cozy, spicy, woody"
+1634,"chypre, woody, aromatic"
+1635,"citrus, green"
+1636,"citrus, fruity, musk, fougere, spicy, woody"
+1637,"citrus, aquatic, green"
+1638,"citrus, green, woody"
+1639,"cozy, aquatic, green, woody"
+1640,"citrus, light_floral, musk, casual"
+1641,"citrus, green, musk, fougere, woody"
+1642,"citrus, cozy"
+1643,"white_floral, powdery, musk"
+1644,"gourmand, cozy, aromatic"
+1645,"light_floral, woody"
+1646,"citrus, aquatic, musk, casual"
+1647,"citrus, powdery, musk"
+1648,"floral, white_floral, amber, light_floral"
+1649,"floral, powdery, cozy, musk"
+1650,"citrus, aquatic"
+1651,"floral, white_floral, aquatic, green, woody"
+1652,"amber, cozy, woody"
+1653,"citrus, powdery, musk, aromatic"
+1654,"citrus, fruity, floral"
+1655,"citrus, green, woody"
+1656,"citrus, fruity, green, light_floral, aromatic, casual"
+1657,"aquatic, fougere"
+1658,"citrus, green, woody"
+1659,"citrus, fruity, powdery, musk"
+1660,"musk, woody, casual"
+1661,"fougere, woody, aromatic"
+1662,"citrus, powdery, amber, oriental, chypre, cozy, aquatic, green, light_floral, musk, spicy, woody, casual"
+1663,"white_floral, green, aromatic"
+1664,"citrus, floral, powdery, aquatic, green, musk, aromatic, casual"
+1665,"citrus, chypre, cozy, aquatic, musk, woody"
+1666,"cozy, woody, casual"
+1667,"amber, musk, woody"
+1668,aquatic
+1669,citrus
+1670,aquatic
+1671,"citrus, woody"
+1672,aquatic
+1673,"citrus, fruity, powdery, cozy, light_floral, casual"
+1674,"citrus, aquatic, musk, woody"
+1675,"aquatic, fougere, woody"
+1676,"chypre, musk, spicy, woody, casual"
+1677,"aquatic, musk, casual"
+1678,"cozy, aquatic, green, musk, woody, casual"
+1679,"citrus, floral, green"
+1680,"citrus, aquatic, green, fougere, spicy, woody, casual"
+1681,"powdery, musk"
+1682,"musk, woody"
+1683,"aquatic, musk, aromatic"
+1684,"green, woody"
+1685,"powdery, cozy"
+1686,"cozy, green, woody"
+1687,"citrus, fruity, powdery, aquatic"
+1688,"fruity, aquatic"
+1689,"amber, woody, casual"
+1690,"chypre, aquatic, light_floral, spicy"
+1691,"citrus, aquatic"
+1692,"citrus, floral, green"
+1693,"citrus, musk"
+1694,"powdery, cozy, casual"
+1695,aquatic
+1696,"fruity, amber, light_floral, musk"
+1697,"citrus, casual"
+1698,"floral, musk"
+1699,"powdery, musk, woody"
+1700,"citrus, white_floral, powdery, chypre, aquatic, green, woody, aromatic"
+1701,"fruity, chypre, woody"
+1702,"citrus, floral, white_floral, musk"
+1703,"powdery, oriental"
+1704,"citrus, green, musk"
+1705,"cozy, woody"
+1706,"citrus, woody"
+1707,"floral, white_floral, oriental"
+1708,aquatic
+1709,"chypre, fougere, woody, aromatic"
+1710,"aquatic, musk, woody"
+1711,"citrus, chypre, green, woody"
+1712,"fruity, green, light_floral, musk, woody, casual"
+1713,"powdery, musk"
+1714,"citrus, aquatic, casual"
+1715,"citrus, musk, woody"
+1716,"cozy, woody"
+1717,aquatic
+1718,"aquatic, green, woody"
+1719,"citrus, aquatic, green"
+1720,"amber, musk"
+1721,"citrus, floral, light_floral"
+1722,"cozy, aquatic"
+1723,"citrus, green, casual"
+1724,"citrus, fruity, floral, white_floral, aquatic, green, light_floral, musk, casual"
+1725,"citrus, powdery, aquatic, green, musk, woody"
+1726,"aquatic, green, woody"
+1727,"green, musk, fougere"
+1728,"aquatic, green, light_floral, musk, casual"
+1729,"fougere, casual"
+1730,"citrus, aquatic, musk, woody"
+1731,"cozy, musk, woody, aromatic, casual"
+1732,fruity
+1733,"citrus, fruity, floral, aquatic"
+1734,"citrus, musk, spicy"
+1735,"powdery, aquatic, fougere, woody"
+1736,"citrus, fruity, green"
+1737,"aquatic, aromatic"
+1738,"citrus, aquatic, green, light_floral, musk, fougere"
+1739,"citrus, fruity, floral, white_floral, powdery, amber, oriental, chypre, gourmand, cozy, aquatic, green, light_floral, musk, fougere, spicy, woody, aromatic, casual"
+1740,"citrus, floral, white_floral, light_floral, woody, aromatic"
+1741,"aquatic, green, woody"
+1742,aquatic
+1743,"powdery, aquatic, musk"
+1744,"oriental, gourmand, woody"
+1745,"powdery, aquatic, light_floral, musk"
+1746,"citrus, aquatic, casual"
+1747,"white_floral, powdery, musk"
+1748,musk
+1749,"woody, casual"
+1750,"citrus, powdery, musk"
+1751,"white_floral, light_floral, musk"
+1752,"floral, white_floral, musk"
+1753,"citrus, green, aromatic"
+1754,"aquatic, green, woody"
+1755,"citrus, aquatic, woody"
+1756,"powdery, aquatic, musk"
+1757,"citrus, chypre, green, woody"
+1758,"fruity, aquatic"
+1759,"floral, amber, gourmand, light_floral"
+1760,"citrus, light_floral, woody"
+1761,"aquatic, woody"
+1762,musk
+1763,"floral, white_floral, powdery, green, casual"
+1764,"floral, white_floral, cozy, green, light_floral"
+1765,"cozy, green, spicy, woody"
+1766,"floral, aquatic, green, musk, woody"
+1767,"floral, powdery, green, woody"
+1768,"citrus, fruity, floral, amber, gourmand, cozy, aquatic, green, casual"
+1769,"citrus, floral, powdery, amber, aquatic"
+1770,"citrus, aquatic, casual"
+1771,"citrus, floral, amber, gourmand, aquatic, light_floral, spicy, woody"
+1772,"powdery, aquatic, woody"
+1773,"powdery, aquatic, musk"
+1774,"amber, chypre, gourmand, green, light_floral, musk, fougere, spicy, woody, casual"
+1775,"woody, aromatic"
+1776,"floral, chypre, fougere, woody"
+1777,"citrus, fruity, floral, white_floral, light_floral, casual"
+1778,"powdery, aquatic, green, musk, woody, casual"
+1779,"citrus, green, light_floral, fougere, woody, aromatic"
+1780,"aquatic, light_floral"
+1781,"amber, musk, fougere, woody"
+1782,"oriental, aquatic"
+1783,"oriental, musk, spicy, woody, casual"
+1784,"cozy, aquatic, woody"
+1785,"chypre, woody"
+1786,"citrus, fruity, musk, woody, casual"
+1787,woody
+1788,"citrus, green, musk, woody"
+1789,"citrus, powdery, musk, fougere, woody"
+1790,"powdery, woody"
+1791,"light_floral, aromatic"
+1792,"green, musk"
+1793,"citrus, powdery, aquatic, musk, spicy, woody, casual"
+1794,citrus
+1795,"fruity, floral, white_floral, powdery, light_floral, casual"
+1796,"fruity, floral, powdery"
+1797,"citrus, musk"
+1798,"citrus, floral, musk, aromatic, casual"
+1799,"citrus, fruity, floral, white_floral, amber, green, light_floral"
+1800,citrus
+1801,"aquatic, musk, woody, casual"
+1802,"citrus, white_floral, chypre, green, light_floral"
+1803,woody
+1804,"musk, woody, casual"
+1805,"floral, powdery, aquatic, casual"
+1806,"citrus, powdery, chypre, aquatic, green, musk, spicy, woody, aromatic"
+1807,"cozy, aquatic, casual"
+1808,"citrus, fougere, woody"
+1809,"amber, oriental, chypre, cozy, musk, fougere, woody, casual"
+1810,"powdery, fougere, woody, aromatic, casual"
+1811,"green, woody"
+1812,"floral, powdery, musk, aromatic"
+1813,"fruity, oriental, gourmand, light_floral, fougere, spicy, woody, aromatic"
+1814,"floral, white_floral, amber, musk, woody"
+1815,"citrus, floral, white_floral, powdery, amber, chypre, aquatic, green, light_floral, musk, spicy, woody, aromatic"
+1816,"floral, chypre, woody"
+1817,"citrus, musk, woody"
+1818,"citrus, oriental, gourmand, cozy, aquatic, spicy, woody"
+1819,"amber, green, musk, woody"
+1820,"fruity, powdery, oriental, spicy"
+1821,"citrus, fruity, floral, white_floral"
+1822,"citrus, green, woody"
+1823,"citrus, chypre"
+1824,"woody, casual"
+1825,musk
+1826,"fruity, powdery, aquatic, musk, spicy, woody"
+1827,"powdery, amber, oriental, aquatic, woody, casual"
+1828,"citrus, floral, white_floral, powdery, aquatic, green, light_floral, musk, woody"
+1829,"citrus, white_floral, amber, musk, woody"
+1830,"citrus, fruity"
+1831,"citrus, fruity, powdery, gourmand, aquatic"
+1832,"citrus, floral, musk, woody"
+1833,"oriental, chypre, gourmand, green, musk, woody"
+1834,woody
+1835,"spicy, woody"
+1836,"citrus, chypre, aquatic, fougere, woody"
+1837,"citrus, powdery, cozy, green, light_floral, musk, woody, casual"
+1838,"aquatic, musk, woody, casual"
+1839,"citrus, powdery, musk, woody"
+1840,"floral, chypre, musk, woody"
+1841,"citrus, amber, cozy, aquatic, green, light_floral, spicy, woody"
+1842,"powdery, chypre, aquatic, woody"
+1843,"musk, casual"
+1844,"citrus, floral, aromatic, casual"
+1845,"citrus, green, woody, aromatic"
+1846,"cozy, light_floral, woody, aromatic, casual"
+1847,"amber, chypre, green, musk, woody"
+1848,"amber, musk, woody"
+1849,"citrus, fruity, floral, white_floral, aquatic, musk"
+1850,"floral, aquatic"
+1851,"aquatic, green"
+1852,"citrus, white_floral, powdery, amber"
+1853,"cozy, aquatic, musk, fougere, woody, casual"
+1854,"oriental, gourmand, aquatic, musk"
+1855,casual
+1856,"amber, chypre, gourmand, cozy, musk"
+1857,"citrus, powdery, green, woody"
+1858,"white_floral, amber, musk, spicy, woody"
+1859,"citrus, powdery, green, woody"
+1860,"aquatic, green, light_floral, woody"
+1861,"chypre, cozy, aquatic, green, musk, fougere, woody, casual"
+1862,"floral, powdery, light_floral, aromatic, casual"
+1863,"citrus, fruity, musk"
+1864,"oriental, woody"
+1865,"powdery, spicy, woody"
+1866,"citrus, light_floral, woody"
+1867,"white_floral, chypre, gourmand, green, woody"
+1868,casual
+1869,"citrus, amber, chypre, green, woody, aromatic"
+1870,"fruity, floral, white_floral, amber, aquatic, light_floral"
+1871,"citrus, aquatic, musk"
+1872,"chypre, woody, casual"
+1873,"fougere, woody, casual"
+1874,"citrus, chypre, green, light_floral, aromatic, casual"
+1875,"citrus, fruity, light_floral"
+1876,"fruity, floral, white_floral, aquatic, light_floral, casual"
+1877,musk
+1878,"white_floral, light_floral"
+1879,"fruity, white_floral"
+1880,"citrus, fruity, powdery, amber, gourmand, aquatic, woody"
+1881,"citrus, fruity, floral"
+1882,"amber, green, spicy, woody"
+1883,"citrus, floral, white_floral, light_floral"
+1884,"citrus, oriental, aquatic, green, musk"
+1885,fougere
+1886,"amber, oriental, cozy, musk, woody"
+1887,"musk, woody"
+1888,"citrus, chypre, musk, woody"
+1889,"green, light_floral, woody"
+1890,"fruity, light_floral"
+1891,"citrus, powdery, aquatic, woody"
+1892,"aquatic, green, light_floral, woody"
+1893,"fruity, floral, powdery, aquatic, light_floral, musk"
+1894,"powdery, aquatic, green, musk, woody, casual"
+1895,"powdery, aquatic, musk, casual"
+1896,"citrus, green, musk"
+1897,"citrus, floral, white_floral, powdery, amber, aquatic, light_floral, aromatic, casual"
+1898,musk
+1899,"floral, powdery, musk"
+1900,"citrus, white_floral, powdery, musk"
+1901,"aquatic, green"
+1902,"citrus, cozy, aquatic, light_floral, musk"
+1903,"citrus, fruity, powdery, cozy, aquatic, green, spicy"
+1904,"fruity, casual"
+1905,"floral, light_floral, musk"
+1906,"light_floral, woody"
+1907,"aquatic, woody"
+1908,"powdery, amber, cozy, musk, woody, casual"
+1909,"citrus, fougere"
+1910,"citrus, fruity, amber, gourmand, cozy, aquatic, musk, woody"
+1911,citrus
+1912,"citrus, green, musk"
+1913,"citrus, floral, white_floral, musk, fougere, aromatic"
+1914,"fruity, amber, aquatic, green, musk, woody"
+1915,"aquatic, musk, casual"
+1916,"floral, cozy, woody, casual"
+1917,"fruity, floral, white_floral, gourmand, light_floral, aromatic"
+1918,"aquatic, musk"
+1919,woody
+1920,"chypre, green, woody"
+1921,"citrus, green, woody"
+1922,"floral, powdery"
+1923,"floral, amber, chypre, green, light_floral, woody, aromatic, casual"
+1924,"oriental, cozy, aquatic, green, musk, woody"
+1925,"citrus, casual"
+1926,"floral, amber, cozy, green, light_floral, fougere, woody, aromatic, casual"
+1927,"aquatic, light_floral, musk"
+1928,"green, light_floral, musk, spicy, woody"
+1929,"floral, green, woody, aromatic"
+1930,"citrus, musk"
+1931,"powdery, aquatic, casual"
+1932,"white_floral, powdery, chypre, musk, woody"
+1933,"citrus, floral, aromatic"
+1934,"citrus, powdery, amber, aquatic, spicy, casual"
+1935,"citrus, gourmand, musk"
+1936,"powdery, aquatic, musk, woody"
+1937,"citrus, fruity, amber, cozy, green"
+1938,"gourmand, musk"
+1939,"aquatic, musk, woody"
+1940,"fougere, woody"
+1941,"citrus, green, fougere, woody"
+1942,"citrus, oriental, cozy, musk, spicy, woody, casual"
+1943,"citrus, musk, woody"
+1944,"white_floral, aquatic, green, woody, casual"
+1945,"citrus, fruity, floral, white_floral, amber, oriental, chypre, gourmand, light_floral, fougere, spicy, aromatic"
+1946,"citrus, fruity, cozy, aquatic, green, woody"
+1947,"cozy, musk, woody"
+1948,"floral, aquatic, green, musk, casual"
+1949,"cozy, musk, woody"
+1950,"oriental, chypre, aquatic, green, fougere, spicy, woody, aromatic, casual"
+1951,
+1952,"aquatic, woody"
+1953,"aquatic, musk"
+1954,"citrus, chypre, green, light_floral, woody"
+1955,citrus
+1956,"aquatic, musk, casual"
+1957,"white_floral, powdery, musk"
+1958,"floral, white_floral, powdery, amber, chypre, cozy, light_floral, woody, aromatic, casual"
+1959,"citrus, fruity, floral, powdery, amber, gourmand, aquatic, light_floral, casual"
+1960,"powdery, light_floral, musk, spicy, casual"
+1961,"musk, spicy, woody"
+1962,"citrus, aquatic, woody"
+1963,"citrus, woody"
+1964,"citrus, powdery, gourmand, light_floral, casual"
+1965,"powdery, musk, casual"
+1966,woody
+1967,"white_floral, amber, musk, woody, aromatic"
+1968,"citrus, musk, casual"
+1969,"chypre, gourmand, green, light_floral, woody"
+1970,"fruity, aquatic, green"
+1971,casual
+1972,"citrus, floral, aquatic, fougere"
+1973,"citrus, floral, white_floral, amber, gourmand, light_floral, musk, woody, casual"
+1974,"floral, powdery, casual"
+1975,"oriental, musk, spicy, woody"
+1976,"citrus, powdery, chypre, aquatic, green, light_floral, woody, aromatic, casual"
+1977,"citrus, chypre, green, light_floral"
+1978,"citrus, fruity, floral, aquatic, green, light_floral"
+1979,fougere
+1980,"citrus, green, woody"
+1981,"musk, woody"
+1982,"citrus, chypre, cozy, aquatic, green, light_floral, musk, fougere, aromatic"
+1983,"citrus, green, woody"
+1984,"cozy, aquatic, musk, fougere, woody, casual"
+1985,"green, fougere, woody, casual"
+1986,"citrus, floral, green"
+1987,"fruity, gourmand, light_floral, musk"
+1988,"citrus, aquatic"
+1989,"cozy, woody"
+1990,"green, light_floral"
+1991,"aquatic, woody"
+1992,"aquatic, musk, casual"
+1993,"floral, aquatic, aromatic"
+1994,"citrus, floral, white_floral, powdery, amber, chypre, cozy, green, light_floral, musk, woody"
+1995,"floral, green, light_floral, aromatic"
+1996,"citrus, amber, woody"
+1997,"fruity, gourmand, cozy, aquatic, green, woody, casual"
+1998,"white_floral, amber, chypre, aquatic, musk, fougere, spicy, woody"
+1999,"fruity, aquatic, fougere, woody, aromatic"
+2000,"citrus, fruity, cozy, aquatic, green"
+2001,"citrus, light_floral, musk, casual"
