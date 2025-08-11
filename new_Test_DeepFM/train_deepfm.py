@@ -10,9 +10,9 @@ from models.deepfm import DeepFM
 from data.perfume_dataset_deepfm import PerfumeDataset
 
 # DeepFM 학습 및 평가 함수 정의
-def train_deepfm(user_path, note_path, embedding_dim, hidden_dims, dropout, epochs, batch_size):
+def train_deepfm(data_path, embedding_dim, hidden_dims, dropout, epochs, batch_size):
     # 데이터셋 로드 및 feature 정보 추출  
-    dataset = PerfumeDataset(user_path, note_path)
+    dataset = PerfumeDataset(data_path)
     field_dims = dataset.get_input_dim() # 각 field의 클래스 갯수 리스트 반환 
 
     # 학습/검증 세트 분할 

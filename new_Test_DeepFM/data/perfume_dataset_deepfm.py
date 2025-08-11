@@ -10,15 +10,14 @@ import matplotlib.pyplot as plt
 
 # PerfumeDataset 클래스 정의
 class PerfumeDataset(Dataset):
-    def __init__(self, user_feat_path: str, note_path: str):
+    def __init__(self, data_path: str):
         
         # 다중 선택(multi-label) 항목에 대한 고정 slot 수 설정 (ex) style에서 4개의 답변을 선택해도, 3개만 반영
-        self.fixed_slots = { "purpose": 2, "fashionstyle": 3, "prefercolor": 3, "perfume_category" : 10 } 
+        self.fixed_slots = { "purpose": 2, "fashionstyle": 3, "prefercolor": 3, "perfume_category" : 8 } 
         PAD_TOKEN = "PAD"
         
         # 사용자/향조 데이터 불러오기
-        user_df = pd.read_csv(user_feat_path)
-        note_df = pd.read_csv(note_path)
+        df = pd.read_csv(data_path)
         
         # Multi-label 항목들의 처리: fixed slot 갯수에 맞추어, 부족한 항목은 PAD로 채움. 
         # (ex) 3개의 fixed slot인 style에서 2개의 답변만 선택한 사용자에겐, 1칸은 PAD로 할당. 
@@ -50,26 +49,26 @@ class PerfumeDataset(Dataset):
                 return []
             
         for field in ["purpose", "fashionstyle", "prefercolor"]:
-            user_df = process_multilabel_column(user_df, field, self.fixed_slots[field])
+            df = process_multilabel_column(df, field, self.fixed_slots[field])
                 
-        note_df["perfume_category"] = note_df["perfume_category"].fillna("[]").apply(safe_literal_eval)
-        note_df["perfume_category"] = note_df["perfume_category"].fillna("").apply(clean_and_split_notes)
+        df["perfume_category"] = df["perfume_category"].fillna("[]").apply(safe_literal_eval)
+        df["perfume_category"] = df["perfume_category"].fillna("").apply(clean_and_split_notes)
         
         # 향조 분포 확인용 출력 (7/22)
-        all_notes_flat = [note for row in note_df["perfume_category"] for note in row if isinstance(note, str)]
+        all_notes_flat = [note for row in df["perfume_category"] for note in row if isinstance(note, str)]
         from collections import Counter
         note_counter = Counter(all_notes_flat)
         print("\n[향조 문자열 분포 상위 30개] - 1")
         print(note_counter.most_common(30))
 
         # 향조도 fixed slot 길이에 맞추어 빈칸엔 PAD 처리 
-        note_df["perfume_category"] = note_df["perfume_category"].apply(
+        df["perfume_category"] = df["perfume_category"].apply(
             lambda x: x[:self.fixed_slots["perfume_category"]] + [PAD_TOKEN] * (self.fixed_slots["perfume_category"] - len(x))
         )
         
         # Positive 샘플 생성 (사용자가 선택한 향조)
         positive_rows = []
-        for _, row in note_df.iterrows():
+        for _, row in df.iterrows():
             for note in row["perfume_category"]:
                 if note != PAD_TOKEN:
                     positive_rows.append({"user_id": row["user_id"], "note": note, "liked": 1})
@@ -77,20 +76,20 @@ class PerfumeDataset(Dataset):
 
         all_notes = set(positive_df["note"].unique()) - {PAD_TOKEN}
         
-        '''
+        
         negative_sample_ratio = 4
         negative_rows = []
         
-        for uid, user_notes in note_df[["user_id", "perfume_category"]].values:
+        for uid, user_notes in df[["user_id", "perfume_category"]].values:
             unselected = all_notes - set(user_notes)
             sampled = random.sample(unselected, min(len(unselected), negative_sample_ratio * len(user_notes)))
             for note in sampled:
                 negative_rows.append({"user_id": uid, "note": note, "liked": 0})
         negative_df = pd.DataFrame(negative_rows)
-        '''
         
+        '''
         # 향조별 등장 빈도 계산
-        note_counter = Counter([note for row in note_df["perfume_category"] for note in row if note != PAD_TOKEN])
+        note_counter = Counter([note for row in df["perfume_category"] for note in row if note != PAD_TOKEN])
         total_count = sum(note_counter.values())
 
         # 향조별 등장 빈도 기반 샘플링 확률 계산
@@ -100,7 +99,7 @@ class PerfumeDataset(Dataset):
         negative_sample_ratio = 4
         negative_rows = []
 
-        for uid, user_notes in note_df[["user_id", "perfume_category"]].values:
+        for uid, user_notes in df[["user_id", "perfume_category"]].values:
             user_notes_set = set(user_notes)
             candidates = list(all_notes - user_notes_set)
     
@@ -117,10 +116,10 @@ class PerfumeDataset(Dataset):
             for note in sampled_negatives:
                 negative_rows.append({"user_id": uid, "note": note, "liked": 0})
         negative_df = pd.DataFrame(negative_rows)
-        
+        '''
         # Positive + Negative 결합 
         long_df = pd.concat([positive_df, negative_df], ignore_index=True)
-        merged = pd.merge(user_df, long_df, on="user_id")
+        merged = pd.merge(df, long_df, on="user_id")
         
         # Fixed slot 구조로 feature 필드 전개 (flatten)
         self.feature_cols = (
@@ -144,7 +143,6 @@ class PerfumeDataset(Dataset):
                     [f"fashionstyle_{i+1}" for i in range(3)] + \
                     [f"prefercolor_{i+1}" for i in range(3)]:
             print(f"{col} value counts:\n{merged[col].value_counts()}\n")
-
 
         merged["note"] = merged["note"].astype(str)
 
