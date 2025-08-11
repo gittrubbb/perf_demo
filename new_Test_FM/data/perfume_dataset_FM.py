@@ -12,7 +12,7 @@ import numpy as np
 class PerfumeDataset(Dataset):
     def __init__(self, user_feat_path: str, note_path: str):
         
-        self.fixed_slots = { "purpose": 2, "fashionstyle": 3, "prefercolor": 3, "perfume_category" : 10 } 
+        self.fixed_slots = { "purpose": 2, "fashionstyle": 3, "prefercolor": 3, "perfume_category" : 8 } 
         PAD_TOKEN = "PAD"
         
         # 사용자/향조 데이터 불러오기
