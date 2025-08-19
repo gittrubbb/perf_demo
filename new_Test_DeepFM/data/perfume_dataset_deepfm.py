@@ -73,8 +73,60 @@ class PerfumeDataset(Dataset):
                 if note != PAD_TOKEN:
                     positive_rows.append({"user_id": row["user_id"], "note": note, "liked": 1})
         positive_df = pd.DataFrame(positive_rows)
+        
+        # 8/19 positive 수 줄이기 
+        # === (A) 현재 분포 확인 ===
+        from collections import Counter
+        cur_cnt = Counter(positive_df["note"])
+        print("[Before] positive count per note (top 30):", cur_cnt.most_common(30))
 
-        all_notes = set(positive_df["note"].unique()) - {PAD_TOKEN}
+        # === (B) 노트별 타깃 개수 설정 ===
+        # 주신 계획을 그대로 반영 (값이 애매하게 적힌 부분은 명시값 우선)
+        target_counts = {
+            "woody": 703,      # 852 -> 703 (–149)  *주신 -150 의도치 반영
+            "musk": 571,       # 720 -> 571 (–149)
+            "citrus": 565,     # 715 -> 565 (–150)
+            "aquatic": 520,    # 570 -> 520 (–50)
+            "green": 435,      # 485 -> 435 (–50)
+            "floral": 411,     # 461 -> 411 (–50)
+    # 아래는 변화 없음(그대로 두기) — 필요시 여기도 타깃값 채우면 됨
+    # "casual": 386, "light_floral": 351, "powdery": 345, "fruity": 310,
+    # "aromatic": 286, "cozy": 212, "white_floral": 197, "chypre": 194,
+    # "fougere": 176, "amber": 173, "gourmand": 123,
+        }
+
+        ALLOW_OVERSAMPLE = True   # oriental처럼 늘리고 싶은 클래스가 있을 때 True
+        RNG = np.random.default_rng(42)
+
+        # === (C) 노트별 다운/오버샘플 ===
+        kept_chunks = []    
+        all_notes = positive_df["note"].unique().tolist()
+
+        for note in all_notes:
+            df_n = positive_df[positive_df["note"] == note]
+            cur = len(df_n)
+            tgt = target_counts.get(note, cur)  # 타깃 미설정이면 기존 개수 유지
+
+            if tgt < cur:
+                idx = RNG.choice(df_n.index.values, size=tgt, replace=False)
+                kept = df_n.loc[idx]
+
+            else:
+                kept = df_n
+
+            kept_chunks.append(kept)
+
+        positive_df_bal = pd.concat(kept_chunks, ignore_index=True)
+
+# === (D) 사후 분포 확인 ===
+        new_cnt = Counter(positive_df_bal["note"])
+        print("[After ] positive count per note (top 30):", new_cnt.most_common(30))
+
+# 이후 파이프라인에서 positive_df 대신 positive_df_bal 사용
+# ex) all_df = pd.concat([positive_df_bal, negative_df], ignore_index=True)
+
+
+        all_notes = set(positive_df_bal["note"].unique()) - {PAD_TOKEN}
         
         
         negative_sample_ratio = 4
@@ -118,7 +170,7 @@ class PerfumeDataset(Dataset):
         negative_df = pd.DataFrame(negative_rows)
         '''
         # Positive + Negative 결합 
-        long_df = pd.concat([positive_df, negative_df], ignore_index=True)
+        long_df = pd.concat([positive_df_bal, negative_df], ignore_index=True)
         merged = pd.merge(df, long_df, on="user_id")
         
         # Fixed slot 구조로 feature 필드 전개 (flatten)

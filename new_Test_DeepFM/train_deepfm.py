@@ -109,7 +109,7 @@ def train_deepfm(data_path, embedding_dim, hidden_dims, dropout, epochs, batch_s
     df.sort_values("user_id", inplace=True)
     grouped = df.groupby("user_id")
     for i, (user_id, group) in enumerate(grouped):
-        if i >= 50:
+        if i >= 100:
             break
-        top_notes = group.sort_values("pred", ascending=False)["note"].head(3).tolist()
+        top_notes = group.sort_values("pred", ascending=False)["note"].head(2).tolist()
         print(f"User {user_id} → 추천 향조: {top_notes}")
