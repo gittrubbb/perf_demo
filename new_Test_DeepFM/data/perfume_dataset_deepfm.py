@@ -139,6 +139,7 @@ class PerfumeDataset(Dataset):
                 negative_rows.append({"user_id": uid, "note": note, "liked": 0})
         negative_df = pd.DataFrame(negative_rows)
         
+        
         '''
         # 향조별 등장 빈도 계산
         note_counter = Counter([note for row in df["perfume_category"] for note in row if note != PAD_TOKEN])
@@ -169,6 +170,8 @@ class PerfumeDataset(Dataset):
                 negative_rows.append({"user_id": uid, "note": note, "liked": 0})
         negative_df = pd.DataFrame(negative_rows)
         '''
+        
+        
         # Positive + Negative 결합 
         long_df = pd.concat([positive_df_bal, negative_df], ignore_index=True)
         merged = pd.merge(df, long_df, on="user_id")

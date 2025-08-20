@@ -113,3 +113,35 @@ def train_deepfm(data_path, embedding_dim, hidden_dims, dropout, epochs, batch_s
             break
         top_notes = group.sort_values("pred", ascending=False)["note"].head(2).tolist()
         print(f"User {user_id} → 추천 향조: {top_notes}")
+        
+    # === (추가) 평가용 DF 만들고 지표 계산 ===
+    from utils.metrics import build_eval_df_from_dataset_preds, compute_all_metrics  # 새 metrics.py
+
+# 1) 평가 DF 생성 (user_id, note, y_true, pred)
+    df_eval = build_eval_df_from_dataset_preds(
+    user_ids=dataset.user_ids,
+    note_indices=dataset.X["note"].to_numpy(),
+    y_true=dataset.y,                  # PerfumeDataset에서 만든 long 라벨(positive/negative)  :contentReference[oaicite:4]{index=4}
+    pred_probs=preds,
+    note_label_encoder=note_le,
+    )
+
+# 2) 지표 계산
+    report = compute_all_metrics(df_eval, ks=[1,2,3], threshold=0.5)
+
+    print("\n=== [Metrics] Macro/Micro (threshold=0.5) ===")
+    for k, v in report["classification_macro_micro"].items():
+        print(f"{k}: {v:.4f}" if isinstance(v, float) else f"{k}: {v}")
+
+    print("\n=== [Metrics] Ranking @K ===")
+    for k, v in report["ranking"].items():
+        print(f"{k}: {v:.4f}")
+
+    print("\n=== [Metrics] Diversity ===")
+    for k, v in report["diversity"].items():
+        print(f"{k}: {v:.4f}")
+
+    print("\n=== [Metrics] Per-Label (Top 10 by positives) ===")
+    per_label_df = report["classification_per_label"].sort_values("positives", ascending=False).head(10)
+    print(per_label_df.to_string(index=False))
+
