@@ -5,7 +5,7 @@
 4,20s,F,ESTP,"good_impression, date_or_social, formal_occasion, unique_style","street, modern, chic","pink, coral","citrus, floral, fruity, light_floral"
 5,40s,M,ESTJ,good_impression,"minimal, simple","beige, brown","citrus, musk, fougere"
 6,20s,M,INTJ,"self_satisfaction, special_event",casual,black,"citrus, aromatic"
-7,30s,F,ISFJ,self_satisfaction,"casual, minimal, simple, romantic, lovely",purple,"citrus, floral, woody, light_floral, white_floral"
+7,30s,F,ISFJ,self_satisfaction,"casual, minimal, simple, romantic, lovely",purple,"citrus, floral, woody, light_floral"
 8,30s,F,ISTJ,"mood_boost, special_event","casual, romantic, lovely, freestyle","pink, coral","citrus, floral, musk"
 9,50s,F,INTP,date_or_social,"classic, suit",red,citrus
 10,50s,F,ENTP,"good_impression, mood_boost, self_satisfaction, special_event",casual,"yellow, orange","floral, woody, musk, green"
@@ -29,18 +29,18 @@
 28,40s,M,ENTJ,good_impression,"classic, suit","beige, brown","musk, aquatic, light_floral"
 29,30s,M,ISFP,"good_impression, special_event","casual, freestyle",black,aromatic
 30,30s,M,NONE,self_satisfaction,"classic, suit",purple,woody
-31,40s,M,NONE,good_impression,casual,"beige, brown","musk, white_floral"
+31,40s,M,NONE,good_impression,casual,"beige, brown",musk
 32,50s,F,ISFP,"mood_boost, unique_style","casual, minimal, simple",black,"citrus, aquatic"
 33,40s,M,INTJ,"good_impression, mood_boost, self_satisfaction","modern, chic",black,"woody, aquatic"
 34,30s,F,ISFJ,"good_impression, self_satisfaction","casual, freestyle","green, mint","woody, green, aromatic"
-35,30s,M,INFJ,"good_impression, self_satisfaction","casual, minimal, simple","beige, brown","fruity, light_floral, white_floral"
+35,30s,M,INFJ,"good_impression, self_satisfaction","casual, minimal, simple","beige, brown","fruity, light_floral"
 36,20s,F,ISTJ,self_satisfaction,casual,black,musk
 37,20s,M,ISFP,"good_impression, mood_boost, self_satisfaction, formal_occasion","casual, classic, suit, freestyle",black,"citrus, musk, green"
 38,50s,M,INTJ,good_impression,"minimal, simple, sports",purple,aromatic
 39,40s,M,NONE,good_impression,casual,black,"woody, green"
 40,20s,F,ISTP,good_impression,street,"pink, coral","floral, woody"
-41,30s,F,INFJ,"good_impression, mood_boost, self_satisfaction","casual, romantic, lovely",black,"floral, musk, aquatic, fruity, light_floral, white_floral"
-42,30s,F,ISTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, romantic, lovely, modern, chic",white,"floral, aquatic, fruity, white_floral, casual"
+41,30s,F,INFJ,"good_impression, mood_boost, self_satisfaction","casual, romantic, lovely",black,"floral, musk, aquatic, fruity, light_floral"
+42,30s,F,ISTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, romantic, lovely, modern, chic",white,"floral, aquatic, fruity, casual"
 43,30s,M,ISTJ,"good_impression, mood_boost",casual,black,woody
 44,40s,M,ENTJ,"good_impression, mood_boost",casual,black,"woody, aromatic"
 45,50s,M,NONE,self_satisfaction,casual,gray,"woody, oriental, musk"
@@ -63,7 +63,7 @@
 62,50s,F,ISTP,"good_impression, self_satisfaction",freestyle,black,floral
 63,30s,F,ISTP,mood_boost,casual,white,woody
 64,30s,F,ENFP,mood_boost,"modern, chic",black,floral
-65,30s,F,INFP,"good_impression, self_satisfaction","casual, minimal, simple, vintage, freestyle",black,"citrus, floral, woody, aquatic, green, fruity, light_floral, white_floral"
+65,30s,F,INFP,"good_impression, self_satisfaction","casual, minimal, simple, vintage, freestyle",black,"citrus, floral, woody, aquatic, green, fruity, light_floral"
 66,30s,F,INFJ,"mood_boost, self_satisfaction","casual, modern, chic",purple,"musk, aquatic"
 67,40s,F,INFJ,"good_impression, mood_boost",street,"yellow, orange","musk, fruity"
 68,30s,M,INFJ,good_impression,"casual, vintage","green, mint","citrus, woody"
@@ -75,22 +75,22 @@
 74,20s,M,INTP,good_impression,"casual, freestyle",black,"fruity, casual"
 75,30s,F,ISTP,"good_impression, mood_boost","minimal, simple","yellow, orange","citrus, woody, aquatic, light_floral"
 76,30s,M,ISTJ,good_impression,"casual, minimal, simple",black,musk
-77,10s,M,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social",freestyle,black,"citrus, floral, musk, aromatic, fougere, white_floral, casual"
+77,10s,M,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social",freestyle,black,"citrus, floral, musk, aromatic, fougere, casual"
 78,20s,F,INFJ,"mood_boost, self_satisfaction",casual,white,"citrus, floral, green, fruity, aromatic, light_floral"
 79,20s,,NONE,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple",black,"floral, aquatic, light_floral"
 80,20s,M,ISFJ,"good_impression, date_or_social","casual, street",blue,"aromatic, fougere"
 81,30s,F,INFJ,good_impression,casual,"beige, brown",musk
 82,30s,F,INTJ,good_impression,"classic, suit, romantic, lovely",white,"floral, musk"
-83,20s,,ENTJ,"good_impression, mood_boost",freestyle,white,"musk, white_floral"
+83,20s,,ENTJ,"good_impression, mood_boost",freestyle,white,musk
 84,20s,F,ISTP,good_impression,casual,black,aquatic
 85,30s,F,INTJ,"good_impression, self_satisfaction","casual, minimal, simple","beige, brown","floral, woody, green, aromatic"
 86,30s,M,INTJ,"good_impression, mood_boost",street,"beige, brown",woody
 87,30s,F,ESFP,good_impression,freestyle,"yellow, orange",musk
 88,50s,M,NONE,"good_impression, mood_boost","casual, freestyle",black,"musk, aromatic"
 89,30s,F,ISFJ,good_impression,"classic, suit","pink, coral","citrus, aquatic, fruity"
-90,20s,F,ISTP,"mood_boost, self_satisfaction","casual, romantic, lovely",white,"citrus, floral, woody, musk, aromatic, fougere, light_floral, white_floral, casual"
+90,20s,F,ISTP,"mood_boost, self_satisfaction","casual, romantic, lovely",white,"citrus, floral, woody, musk, aromatic, fougere, light_floral, casual"
 91,20s,,ISFP,"good_impression, self_satisfaction, date_or_social, unique_style","minimal, simple, classic, suit, romantic, lovely, freestyle","beige, brown","citrus, woody, musk, aquatic, fruity, light_floral, casual"
-92,20s,M,INTJ,good_impression,"classic, suit, modern, chic","beige, brown","citrus, woody, white_floral"
+92,20s,M,INTJ,good_impression,"classic, suit, modern, chic","beige, brown","citrus, woody"
 93,40s,M,NONE,good_impression,freestyle,"beige, brown",aquatic
 94,30s,F,INTP,"good_impression, date_or_social","casual, minimal, simple",black,light_floral
 95,30s,M,ISTP,"mood_boost, date_or_social",casual,"beige, brown","citrus, musk"
@@ -112,17 +112,17 @@
 111,50s,M,INFJ,self_satisfaction,"casual, minimal, simple, freestyle",black,musk
 112,20s,F,ISTP,"mood_boost, self_satisfaction, formal_occasion, special_event","street, romantic, lovely, freestyle",black,"floral, green, fruity, light_floral"
 113,40s,M,INTJ,good_impression,"casual, classic, suit",blue,"floral, musk"
-114,40s,M,NONE,"good_impression, special_event, unique_style","minimal, simple, vintage","green, mint","floral, musk, white_floral"
+114,40s,M,NONE,"good_impression, special_event, unique_style","minimal, simple, vintage","green, mint","floral, musk"
 115,30s,F,INTJ,self_satisfaction,"casual, street, vintage, sports, freestyle",black,"floral, woody, musk, fruity, casual"
 116,20s,F,ISFP,"mood_boost, self_satisfaction","casual, minimal, simple","green, mint","citrus, woody, musk"
-117,30s,F,ENTJ,"mood_boost, formal_occasion","minimal, simple, sports",black,"musk, white_floral, casual"
+117,30s,F,ENTJ,"mood_boost, formal_occasion","minimal, simple, sports",black,"musk, casual"
 118,20s,M,ISTP,good_impression,casual,black,"woody, green"
 119,50s,M,NONE,good_impression,"minimal, simple","beige, brown","citrus, musk"
 120,40s,F,ISFP,self_satisfaction,casual,"beige, brown","citrus, musk, green"
 121,30s,M,INFJ,"good_impression, mood_boost, formal_occasion","casual, minimal, simple","green, mint","citrus, woody, oriental, fruity"
 122,10s,F,INTJ,"good_impression, self_satisfaction",freestyle,"beige, brown",citrus
 123,10s,F,ISTP,"good_impression, formal_occasion","casual, modern, chic",black,"floral, casual"
-124,30s,F,ENTJ,"good_impression, formal_occasion","casual, minimal, simple, classic, suit, romantic, lovely, modern, chic, freestyle",white,"citrus, musk, green, fruity, aromatic, light_floral, white_floral"
+124,30s,F,ENTJ,"good_impression, formal_occasion","casual, minimal, simple, classic, suit, romantic, lovely, modern, chic, freestyle",white,"citrus, musk, green, fruity, aromatic, light_floral"
 125,20s,F,INFP,"good_impression, mood_boost, self_satisfaction","casual, modern, chic",white,"woody, musk, casual"
 126,30s,F,ISTP,"good_impression, date_or_social",casual,purple,"citrus, woody, aromatic"
 127,40s,M,ESTJ,self_satisfaction,"minimal, simple",white,citrus
@@ -131,8 +131,8 @@
 130,30s,F,INFJ,self_satisfaction,"casual, modern, chic, freestyle","green, mint","citrus, aromatic, light_floral"
 131,50s,M,INTJ,"date_or_social, formal_occasion, special_event","casual, minimal, simple, vintage, sports, freestyle","beige, brown","woody, green, fougere"
 132,30s,F,ISFP,"mood_boost, self_satisfaction, date_or_social","casual, minimal, simple",purple,"woody, musk, aquatic"
-133,40s,F,ISFP,"mood_boost, self_satisfaction","casual, vintage, freestyle",black,"woody, musk, green, fruity, light_floral, white_floral, casual"
-134,30s,F,INTP,self_satisfaction,"casual, minimal, simple, classic, suit, modern, chic, freestyle",white,"floral, musk, fruity, light_floral, white_floral"
+133,40s,F,ISFP,"mood_boost, self_satisfaction","casual, vintage, freestyle",black,"woody, musk, green, fruity, light_floral, casual"
+134,30s,F,INTP,self_satisfaction,"casual, minimal, simple, classic, suit, modern, chic, freestyle",white,"floral, musk, fruity, light_floral"
 135,50s,M,NONE,good_impression,casual,"beige, brown",citrus
 136,30s,F,ENFP,"good_impression, mood_boost, unique_style","romantic, lovely, vintage","beige, brown","woody, oriental, green"
 137,30s,M,INTJ,"good_impression, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, classic, suit, freestyle",black,"musk, aquatic, aromatic, fougere, casual"
@@ -145,12 +145,12 @@
 144,20s,F,INFP,good_impression,"casual, minimal, simple",black,casual
 145,20s,M,INFP,good_impression,casual,"white, green, mint",aquatic
 146,30s,F,ENFJ,good_impression,"minimal, simple, romantic, lovely","white, beige, brown, purple","citrus, green, fruity, light_floral, casual"
-147,40s,F,ESTJ,"mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, street, romantic, lovely, freestyle",white,"citrus, light_floral, white_floral"
+147,40s,F,ESTJ,"mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, street, romantic, lovely, freestyle",white,"citrus, light_floral"
 148,20s,F,ISTP,"mood_boost, self_satisfaction","casual, street",black,floral
 149,30s,F,INFP,"good_impression, self_satisfaction","casual, classic, suit","white, black, beige, brown","light_floral, casual"
 150,40s,M,NONE,self_satisfaction,casual,white,green
 151,30s,M,ENFP,"good_impression, date_or_social","minimal, simple, classic, suit","black, blue, purple","woody, green"
-152,50s,F,ISTP,"good_impression, mood_boost, self_satisfaction","minimal, simple, modern, chic, freestyle","white, black, beige, brown","citrus, woody, green, aromatic, light_floral, white_floral"
+152,50s,F,ISTP,"good_impression, mood_boost, self_satisfaction","minimal, simple, modern, chic, freestyle","white, black, beige, brown","citrus, woody, green, aromatic, light_floral"
 153,30s,F,INTJ,good_impression,casual,"pink, coral, yellow, orange","citrus, floral"
 154,30s,M,ISTP,"mood_boost, date_or_social",casual,"white, black, blue","woody, aquatic"
 155,20s,F,INFJ,mood_boost,"casual, minimal, simple","beige, brown, blue, pink, coral","fruity, light_floral"
@@ -175,7 +175,7 @@
 174,30s,F,INFP,"good_impression, mood_boost","casual, romantic, lovely","beige, brown, pink, coral, yellow, orange","citrus, musk"
 175,50s,F,NONE,mood_boost,casual,"white, pink, coral",floral
 176,20s,F,ISFJ,special_event,"casual, minimal, simple","white, black, beige, brown",musk
-177,20s,F,ISFJ,good_impression,"minimal, simple, street","white, black, beige, brown","woody, musk, white_floral"
+177,20s,F,ISFJ,good_impression,"minimal, simple, street","white, black, beige, brown","woody, musk"
 178,20s,,ISTP,"mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event",vintage,blue,"floral, musk"
 179,20s,M,NONE,"mood_boost, self_satisfaction, unique_style","modern, chic","black, beige, brown","musk, aquatic, aromatic, casual"
 180,40s,M,INTJ,self_satisfaction,"minimal, simple, classic, suit","white, black",aromatic
@@ -186,19 +186,19 @@
 185,20s,F,NONE,mood_boost,freestyle,"white, black, beige, brown, blue",casual
 186,20s,M,ESTJ,"good_impression, mood_boost, self_satisfaction","minimal, simple",white,"aquatic, casual"
 187,30s,F,INFJ,good_impression,casual,blue,aquatic
-188,20s,F,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event","casual, romantic, lovely","white, beige, brown, pink, coral, green, mint","citrus, floral, aquatic, green, fruity, light_floral, white_floral, casual"
+188,20s,F,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event","casual, romantic, lovely","white, beige, brown, pink, coral, green, mint","citrus, floral, aquatic, green, fruity, light_floral, casual"
 189,50s,M,NONE,good_impression,"romantic, lovely",black,floral
 190,40s,M,INFJ,"good_impression, unique_style",casual,"beige, brown","musk, casual"
 191,20s,M,INFP,"good_impression, special_event","casual, modern, chic","black, blue, purple","citrus, musk"
 192,30s,M,NONE,"good_impression, special_event","casual, minimal, simple, freestyle","beige, brown","woody, musk, green, aromatic"
 193,40s,F,ISTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, sports, freestyle","white, black, beige, brown","citrus, woody, musk, aquatic, green, fruity, casual"
 194,30s,M,ESTJ,formal_occasion,"modern, chic","beige, brown","citrus, musk"
-195,40s,F,INFP,mood_boost,casual,"black, beige, brown","floral, white_floral"
+195,40s,F,INFP,mood_boost,casual,"black, beige, brown",floral
 196,30s,M,ISFP,good_impression,casual,black,"woody, musk"
 197,20s,F,INFP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, vintage","black, blue, green, mint","woody, musk, green, aromatic, casual"
 198,20s,F,INFJ,"mood_boost, self_satisfaction","casual, minimal, simple, romantic, lovely, modern, chic, freestyle","black, beige, brown, blue, pink, coral, purple, yellow, orange","citrus, floral, musk, fruity, light_floral"
 199,40s,F,NONE,"good_impression, self_satisfaction, special_event",casual,"black, beige, brown, blue",green
-200,30s,M,INTP,mood_boost,"casual, street, vintage","black, blue, pink, coral, green, mint, purple","aromatic, white_floral"
+200,30s,M,INTP,mood_boost,"casual, street, vintage","black, blue, pink, coral, green, mint, purple",aromatic
 201,30s,M,ENTJ,"good_impression, self_satisfaction, formal_occasion","casual, street, modern, chic",black,"floral, fruity"
 202,30s,F,ISFP,good_impression,"romantic, lovely","pink, coral",floral
 203,10s,M,ISTP,good_impression,casual,"white, black",woody
@@ -212,7 +212,7 @@
 211,50s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event","casual, minimal, simple, modern, chic","white, black, beige, brown, blue, pink, coral, green, mint","floral, woody, green, aromatic, casual"
 212,30s,F,NONE,good_impression,"minimal, simple","beige, brown",floral
 213,50s,M,NONE,"good_impression, self_satisfaction, date_or_social, formal_occasion, special_event","classic, suit","black, blue","citrus, green"
-214,20s,F,ISFP,self_satisfaction,"casual, freestyle","white, beige, brown, blue, pink, coral","light_floral, white_floral"
+214,20s,F,ISFP,self_satisfaction,"casual, freestyle","white, beige, brown, blue, pink, coral",light_floral
 215,30s,M,ISFP,date_or_social,"minimal, simple",white,aquatic
 216,20s,F,INTP,"good_impression, mood_boost, self_satisfaction","casual, street, sports","black, beige, brown, yellow, orange","woody, aquatic"
 217,40s,F,NONE,date_or_social,"romantic, lovely, vintage","beige, brown, green, mint",floral
@@ -243,7 +243,7 @@
 242,40s,F,NONE,date_or_social,"minimal, simple, modern, chic","beige, brown","floral, woody, green"
 243,30s,M,INFJ,mood_boost,casual,red,floral
 244,20s,F,ISFP,"good_impression, self_satisfaction","casual, minimal, simple, street, vintage, sports, freestyle","white, black, beige, brown, blue, purple","woody, musk, aquatic, fruity, aromatic, light_floral, casual"
-245,40s,M,INFJ,"good_impression, special_event","casual, street","white, black, beige, brown","woody, aquatic, white_floral"
+245,40s,M,INFJ,"good_impression, special_event","casual, street","white, black, beige, brown","woody, aquatic"
 246,30s,M,NONE,formal_occasion,"casual, classic, suit","black, beige, brown",woody
 247,30s,M,ESTJ,"good_impression, formal_occasion","classic, suit","blue, green, mint","woody, aquatic"
 248,20s,F,NONE,good_impression,casual,"blue, purple, yellow, orange","citrus, floral, woody, aquatic"
@@ -285,7 +285,7 @@
 284,30s,F,INFP,mood_boost,"minimal, simple, freestyle","white, beige, brown","floral, woody, oriental, green, aromatic"
 285,40s,M,ISTJ,"good_impression, mood_boost",casual,black,floral
 286,50s,M,NONE,good_impression,casual,"beige, brown",floral
-287,30s,M,ISTJ,self_satisfaction,"minimal, simple, classic, suit, modern, chic","white, black, blue, pink, coral","citrus, floral, woody, musk, green, fruity, aromatic, white_floral"
+287,30s,M,ISTJ,self_satisfaction,"minimal, simple, classic, suit, modern, chic","white, black, blue, pink, coral","citrus, floral, woody, musk, green, fruity, aromatic"
 288,30s,F,ESFJ,mood_boost,casual,white,"floral, musk, aquatic"
 289,40s,F,INFJ,"good_impression, mood_boost","modern, chic","beige, brown",woody
 290,30s,M,INTJ,"good_impression, mood_boost, self_satisfaction, special_event","casual, minimal, simple","white, black, beige, brown, green, mint","musk, aquatic, fougere"
@@ -301,7 +301,7 @@
 300,50s,M,NONE,"mood_boost, special_event","minimal, simple","white, green, mint","woody, green, aromatic"
 301,40s,F,INTJ,"mood_boost, date_or_social",casual,"beige, brown, green, mint","citrus, fruity, casual"
 302,20s,F,INTJ,"good_impression, self_satisfaction",casual,"white, black, blue","citrus, woody, musk, aquatic, aromatic"
-303,20s,F,ISTP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, street, classic, suit, modern, chic","white, black, beige, brown","floral, musk, aquatic, green, aromatic, light_floral, white_floral, casual"
+303,20s,F,ISTP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, street, classic, suit, modern, chic","white, black, beige, brown","floral, musk, aquatic, green, aromatic, light_floral, casual"
 304,30s,M,NONE,special_event,freestyle,black,aromatic
 305,30s,M,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, classic, suit","white, black, beige, brown","aquatic, casual"
 306,40s,M,ISFJ,good_impression,"minimal, simple","beige, brown, pink, coral, red, yellow, orange","floral, green, light_floral"
@@ -310,7 +310,7 @@
 309,30s,F,ESTJ,mood_boost,casual,"white, black",casual
 310,30s,F,ISFP,good_impression,casual,"white, black, beige, brown",musk
 311,30s,M,INFP,"good_impression, formal_occasion","casual, street, classic, suit","white, black, beige, brown, blue","citrus, woody, casual"
-312,40s,F,INTP,"good_impression, self_satisfaction, formal_occasion","casual, minimal, simple, classic, suit, modern, chic, freestyle","white, black, beige, brown","citrus, floral, woody, oriental, aquatic, green, fougere, light_floral, white_floral"
+312,40s,F,INTP,"good_impression, self_satisfaction, formal_occasion","casual, minimal, simple, classic, suit, modern, chic, freestyle","white, black, beige, brown","citrus, floral, woody, oriental, aquatic, green, fougere, light_floral"
 313,40s,M,NONE,mood_boost,"minimal, simple",black,"floral, musk"
 314,40s,F,INFP,"good_impression, formal_occasion, unique_style","minimal, simple, classic, suit, modern, chic","white, black","floral, musk, light_floral"
 315,20s,F,ISFJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, street, vintage, sports","white, black, beige, brown, blue, pink, coral, yellow, orange","citrus, fruity"
@@ -319,7 +319,7 @@
 318,10s,F,ISFP,"good_impression, mood_boost, self_satisfaction, unique_style","casual, modern, chic",black,citrus
 319,20s,F,ISFJ,"mood_boost, self_satisfaction","casual, minimal, simple, romantic, lovely","beige, brown","woody, aquatic"
 320,20s,F,ESTP,"good_impression, self_satisfaction, formal_occasion","casual, street, vintage","black, green, mint, purple","citrus, woody, musk, aquatic, fougere, casual"
-321,50s,M,NONE,self_satisfaction,"casual, sports, freestyle","white, black, blue","citrus, floral, woody, oriental, fruity, aromatic, fougere, light_floral, white_floral, casual"
+321,50s,M,NONE,self_satisfaction,"casual, sports, freestyle","white, black, blue","citrus, floral, woody, oriental, fruity, aromatic, fougere, light_floral, casual"
 322,10s,M,NONE,good_impression,freestyle,"white, black, beige, brown","aquatic, green, casual"
 323,20s,M,INTJ,"good_impression, mood_boost, date_or_social",street,"white, black, beige, brown, blue",woody
 324,40s,M,ENFJ,"good_impression, mood_boost, self_satisfaction",casual,"white, black, pink, coral, red",citrus
@@ -331,12 +331,12 @@
 330,30s,F,NONE,mood_boost,casual,"white, beige, brown",citrus
 331,20s,F,ISTP,"good_impression, mood_boost, self_satisfaction",casual,"white, black","woody, musk"
 332,20s,F,INTP,"good_impression, mood_boost, formal_occasion","casual, romantic, lovely","pink, coral","musk, aquatic"
-333,30s,F,INTP,mood_boost,"minimal, simple, romantic, lovely","white, beige, brown","woody, white_floral"
+333,30s,F,INTP,mood_boost,"minimal, simple, romantic, lovely","white, beige, brown",woody
 334,50s,M,NONE,"good_impression, mood_boost, self_satisfaction",casual,"beige, brown","citrus, floral, woody, oriental, musk, aquatic, green, fougere, oriental, casual"
 335,30s,F,INFP,mood_boost,"casual, romantic, lovely, vintage, freestyle","white, pink, coral, purple","floral, fruity"
-336,20s,F,ISFJ,"good_impression, mood_boost, self_satisfaction","minimal, simple, modern, chic","black, beige, brown","citrus, floral, musk, white_floral"
+336,20s,F,ISFJ,"good_impression, mood_boost, self_satisfaction","minimal, simple, modern, chic","black, beige, brown","citrus, floral, musk"
 337,50s,M,NONE,good_impression,casual,"white, black, blue","citrus, woody, green, fruity"
-338,40s,F,INFJ,"good_impression, mood_boost","casual, romantic, lovely, sports, modern, chic, freestyle","white, black, green, mint","citrus, floral, aquatic, green, fruity, light_floral, white_floral, casual"
+338,40s,F,INFJ,"good_impression, mood_boost","casual, romantic, lovely, sports, modern, chic, freestyle","white, black, green, mint","citrus, floral, aquatic, green, fruity, light_floral, casual"
 339,20s,F,NONE,"self_satisfaction, date_or_social","classic, suit, romantic, lovely, sports","white, black, blue, pink, coral, green, mint, purple","citrus, floral, woody, green, fruity, light_floral"
 340,20s,F,ISTJ,"good_impression, mood_boost",street,black,floral
 341,30s,F,ESTJ,"mood_boost, self_satisfaction",casual,white,"floral, musk, aquatic, light_floral"
@@ -358,7 +358,7 @@
 357,40s,F,NONE,special_event,"casual, minimal, simple","white, pink, coral, purple","citrus, light_floral"
 358,20s,M,INFP,"good_impression, formal_occasion",casual,"black, blue","floral, musk, fruity"
 359,30s,F,INTJ,"mood_boost, self_satisfaction",casual,"white, black",citrus
-360,40s,F,ISFJ,"good_impression, mood_boost, self_satisfaction",casual,"white, black, beige, brown, blue, pink, coral, red, green, mint, yellow, orange","citrus, green, fruity, white_floral"
+360,40s,F,ISFJ,"good_impression, mood_boost, self_satisfaction",casual,"white, black, beige, brown, blue, pink, coral, red, green, mint, yellow, orange","citrus, green, fruity"
 361,20s,F,NONE,"mood_boost, self_satisfaction",street,"beige, brown, green, mint",aquatic
 362,40s,M,INFP,"good_impression, date_or_social","romantic, lovely","white, pink, coral","woody, aquatic"
 363,30s,F,ISFJ,"mood_boost, self_satisfaction","casual, minimal, simple, freestyle",black,"woody, musk, aquatic, fruity, casual"
@@ -370,7 +370,7 @@
 369,50s,F,INFJ,good_impression,"minimal, simple",black,floral
 370,50s,F,NONE,self_satisfaction,"romantic, lovely","white, black","woody, aquatic"
 371,30s,M,NONE,good_impression,casual,black,woody
-372,30s,F,ISFJ,"mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, sports, modern, chic","white, beige, brown, pink, coral, green, mint","citrus, floral, aromatic, light_floral, white_floral"
+372,30s,F,ISFJ,"mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, sports, modern, chic","white, beige, brown, pink, coral, green, mint","citrus, floral, aromatic, light_floral"
 373,30s,,NONE,"mood_boost, self_satisfaction",freestyle,"black, beige, brown","floral, musk"
 374,20s,M,NONE,good_impression,"minimal, simple","white, black, blue","aromatic, fougere"
 375,30s,F,ESTJ,self_satisfaction,"casual, minimal, simple","white, beige, brown, pink, coral, yellow, orange",citrus
@@ -404,8 +404,8 @@
 403,10s,F,ISTJ,mood_boost,street,red,"woody, light_floral"
 404,40s,F,ISTP,"good_impression, self_satisfaction","minimal, simple","black, beige, brown","musk, light_floral"
 405,40s,M,ISTP,mood_boost,"minimal, simple","black, blue","citrus, aromatic"
-406,40s,F,ISFP,good_impression,"casual, romantic, lovely","beige, brown, pink, coral, yellow, orange","green, fruity, white_floral"
-407,30s,F,INTP,good_impression,"minimal, simple","black, beige, brown","floral, musk, light_floral, white_floral"
+406,40s,F,ISFP,good_impression,"casual, romantic, lovely","beige, brown, pink, coral, yellow, orange","green, fruity"
+407,30s,F,INTP,good_impression,"minimal, simple","black, beige, brown","floral, musk, light_floral"
 408,50s,M,INTJ,good_impression,"modern, chic","white, black, blue","woody, green, fougere"
 409,30s,F,ESFJ,"good_impression, self_satisfaction",casual,"black, blue",musk
 410,20s,F,ISFJ,"good_impression, self_satisfaction, date_or_social","minimal, simple, romantic, lovely","white, black, beige, brown","floral, musk"
@@ -436,20 +436,20 @@
 435,30s,F,INFP,"good_impression, special_event","minimal, simple, modern, chic","beige, brown, blue, pink, coral","musk, casual"
 436,10s,F,NONE,mood_boost,"minimal, simple",black,citrus
 437,50s,M,ENFP,good_impression,casual,"yellow, orange",musk
-438,30s,M,INTJ,"mood_boost, self_satisfaction","casual, minimal, simple, sports, modern, chic","white, black, beige, brown, blue, green, mint","citrus, woody, aquatic, green, fougere, white_floral, casual"
+438,30s,M,INTJ,"mood_boost, self_satisfaction","casual, minimal, simple, sports, modern, chic","white, black, beige, brown, blue, green, mint","citrus, woody, aquatic, green, fougere, casual"
 439,40s,M,NONE,self_satisfaction,casual,"white, black","aromatic, fougere"
-440,30s,F,ENFJ,"mood_boost, self_satisfaction","minimal, simple, romantic, lovely","black, beige, brown, pink, coral, purple","citrus, fruity, fougere, white_floral"
+440,30s,F,ENFJ,"mood_boost, self_satisfaction","minimal, simple, romantic, lovely","black, beige, brown, pink, coral, purple","citrus, fruity, fougere"
 441,20s,F,INTP,"good_impression, mood_boost",casual,white,"floral, woody, casual"
 442,10s,F,ESFJ,"good_impression, date_or_social","casual, romantic, lovely","white, blue, green, mint","floral, light_floral"
 443,40s,F,ENFJ,"good_impression, self_satisfaction","romantic, lovely","white, pink, coral, green, mint","woody, musk"
 444,40s,M,NONE,special_event,"minimal, simple, classic, suit","beige, brown","aquatic, casual"
 445,30s,M,ENTJ,formal_occasion,"classic, suit","white, black, beige, brown","citrus, green"
 446,50s,M,ESFJ,good_impression,"classic, suit","black, blue","musk, aromatic"
-447,40s,M,NONE,"mood_boost, self_satisfaction","casual, minimal, simple","white, black, blue, pink, coral","citrus, white_floral"
+447,40s,M,NONE,"mood_boost, self_satisfaction","casual, minimal, simple","white, black, blue, pink, coral",citrus
 448,30s,M,ISTJ,"good_impression, self_satisfaction, formal_occasion","classic, suit, freestyle","white, black","citrus, oriental"
-449,40s,M,INTJ,good_impression,"sports, modern, chic","black, beige, brown","white_floral, casual"
+449,40s,M,INTJ,good_impression,"sports, modern, chic","black, beige, brown",casual
 450,30s,M,ENTP,mood_boost,street,black,woody
-451,50s,F,ENFP,"mood_boost, special_event, unique_style","classic, suit, freestyle","white, beige, brown","floral, white_floral, casual"
+451,50s,F,ENFP,"mood_boost, special_event, unique_style","classic, suit, freestyle","white, beige, brown","floral, casual"
 452,30s,F,ISFJ,mood_boost,"casual, romantic, lovely, modern, chic","white, pink, coral, yellow, orange","citrus, light_floral"
 453,20s,F,INFJ,good_impression,casual,"black, beige, brown","floral, woody, musk, aquatic"
 454,50s,M,NONE,date_or_social,"classic, suit","beige, brown, blue","citrus, casual"
@@ -502,9 +502,9 @@
 501,10s,F,ISFP,good_impression,"minimal, simple","white, black, beige, brown",fruity
 502,10s,,INTP,good_impression,"casual, minimal, simple, vintage, freestyle","white, black, beige, brown, blue, pink, coral","woody, musk, aquatic, green, casual"
 503,30s,M,ESFJ,mood_boost,"casual, minimal, simple, modern, chic","white, black, beige, brown","citrus, woody, musk"
-504,20s,F,ISTJ,"good_impression, mood_boost","casual, minimal, simple, street, romantic, lovely","white, black, beige, brown, pink, coral, purple","citrus, floral, fruity, light_floral, white_floral"
+504,20s,F,ISTJ,"good_impression, mood_boost","casual, minimal, simple, street, romantic, lovely","white, black, beige, brown, pink, coral, purple","citrus, floral, fruity, light_floral"
 505,20s,M,ESFJ,date_or_social,casual,black,fruity
-506,30s,F,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, street, freestyle","white, beige, brown, blue, green, mint, yellow, orange","citrus, floral, musk, aquatic, green, fruity, aromatic, fougere, light_floral, white_floral, casual"
+506,30s,F,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, street, freestyle","white, beige, brown, blue, green, mint, yellow, orange","citrus, floral, musk, aquatic, green, fruity, aromatic, fougere, light_floral, casual"
 507,40s,M,NONE,good_impression,casual,white,citrus
 508,20s,F,ISTJ,"mood_boost, self_satisfaction",casual,"white, black, beige, brown","floral, woody, musk, casual"
 509,40s,M,INFP,"good_impression, self_satisfaction",casual,"black, beige, brown",fruity
@@ -523,16 +523,16 @@
 522,20s,F,INTJ,"self_satisfaction, date_or_social",casual,black,"woody, musk"
 523,50s,M,NONE,good_impression,casual,"beige, brown",aquatic
 524,50s,F,NONE,mood_boost,casual,"beige, brown",citrus
-525,30s,F,ISTJ,"mood_boost, self_satisfaction","casual, minimal, simple, freestyle","white, black, beige, brown","citrus, floral, musk, green, fruity, aromatic, light_floral, white_floral, casual"
-526,20s,F,ESFJ,"mood_boost, self_satisfaction","casual, street, vintage, modern, chic","white, black","floral, musk, aquatic, fruity, light_floral, white_floral"
-527,30s,M,ISTJ,"mood_boost, self_satisfaction","classic, suit",white,"woody, white_floral"
+525,30s,F,ISTJ,"mood_boost, self_satisfaction","casual, minimal, simple, freestyle","white, black, beige, brown","citrus, floral, musk, green, fruity, aromatic, light_floral, casual"
+526,20s,F,ESFJ,"mood_boost, self_satisfaction","casual, street, vintage, modern, chic","white, black","floral, musk, aquatic, fruity, light_floral"
+527,30s,M,ISTJ,"mood_boost, self_satisfaction","classic, suit",white,woody
 528,30s,F,ISFP,"good_impression, mood_boost, date_or_social","street, vintage, freestyle","white, black, red","green, aromatic"
-529,40s,F,ISFJ,self_satisfaction,"casual, minimal, simple, modern, chic, freestyle","white, beige, brown, blue","citrus, green, white_floral, casual"
+529,40s,F,ISFJ,self_satisfaction,"casual, minimal, simple, modern, chic, freestyle","white, beige, brown, blue","citrus, green, casual"
 530,30s,F,ISFJ,"good_impression, mood_boost",casual,white,musk
 531,50s,M,NONE,"good_impression, self_satisfaction",casual,"beige, brown, blue","woody, green, aromatic"
 532,20s,M,ISFP,"date_or_social, special_event",casual,black,fruity
 533,20s,F,INFP,"mood_boost, self_satisfaction","casual, street",black,"citrus, woody, green, light_floral, casual"
-534,20s,,ENTP,"mood_boost, self_satisfaction, unique_style","casual, freestyle",black,"citrus, floral, woody, aquatic, green, fruity, light_floral, white_floral, casual"
+534,20s,,ENTP,"mood_boost, self_satisfaction, unique_style","casual, freestyle",black,"citrus, floral, woody, aquatic, green, fruity, light_floral, casual"
 535,40s,M,INFJ,good_impression,"classic, suit",black,"musk, aromatic"
 536,30s,M,ENTJ,"mood_boost, self_satisfaction","casual, street","black, blue","citrus, woody, musk, fruity"
 537,20s,F,INTJ,mood_boost,casual,"white, black, beige, brown, red",musk
@@ -546,14 +546,14 @@
 545,30s,F,INFJ,"mood_boost, self_satisfaction",freestyle,"white, purple","floral, light_floral"
 546,20s,F,ISFJ,"good_impression, formal_occasion","casual, romantic, lovely, modern, chic, freestyle","white, pink, coral, yellow, orange","musk, aquatic"
 547,20s,F,ESTJ,mood_boost,casual,"yellow, orange",citrus
-548,20s,F,INFP,"mood_boost, self_satisfaction","casual, romantic, lovely, freestyle","white, black, beige, brown, pink, coral, red, yellow, orange","floral, musk, fruity, aromatic, light_floral, white_floral"
+548,20s,F,INFP,"mood_boost, self_satisfaction","casual, romantic, lovely, freestyle","white, black, beige, brown, pink, coral, red, yellow, orange","floral, musk, fruity, aromatic, light_floral"
 549,50s,M,NONE,good_impression,"minimal, simple, classic, suit","beige, brown, green, mint",woody
 550,40s,F,ENFJ,"good_impression, formal_occasion","minimal, simple, modern, chic","beige, brown, blue, purple","citrus, woody, aquatic, fougere, casual"
 551,50s,F,NONE,mood_boost,casual,"white, black",green
 552,40s,M,ESTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style","casual, modern, chic","white, black, blue","aquatic, fougere, casual"
 553,20s,F,ISFJ,self_satisfaction,casual,"white, black",musk
 554,50s,M,NONE,"good_impression, self_satisfaction",casual,"black, blue","woody, aromatic"
-555,40s,F,ISFJ,"good_impression, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, modern, chic, freestyle","black, blue, pink, coral, green, mint","citrus, light_floral, white_floral"
+555,40s,F,ISFJ,"good_impression, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, modern, chic, freestyle","black, blue, pink, coral, green, mint","citrus, light_floral"
 556,50s,M,NONE,self_satisfaction,casual,"white, black",floral
 557,40s,M,ISTP,mood_boost,casual,black,citrus
 558,50s,M,NONE,good_impression,"casual, modern, chic","black, beige, brown","floral, woody, fougere"
@@ -580,7 +580,7 @@
 579,30s,F,INFP,mood_boost,street,"white, black","woody, aromatic"
 580,20s,F,ISFJ,"good_impression, self_satisfaction",freestyle,"white, black",musk
 581,20s,F,ENTP,"mood_boost, self_satisfaction, special_event","minimal, simple, modern, chic","white, black","citrus, woody, green"
-582,30s,F,ISFP,"good_impression, date_or_social, special_event","casual, romantic, lovely","white, black, beige, brown","musk, white_floral"
+582,30s,F,ISFP,"good_impression, date_or_social, special_event","casual, romantic, lovely","white, black, beige, brown",musk
 583,20s,F,ESFJ,"good_impression, date_or_social, unique_style","minimal, simple","white, black, beige, brown, pink, coral",floral
 584,30s,F,ENTP,"good_impression, mood_boost, self_satisfaction","casual, romantic, lovely","black, pink, coral, purple","citrus, floral, green, fruity"
 585,30s,F,ISTJ,"good_impression, self_satisfaction","casual, minimal, simple, romantic, lovely","white, blue, pink, coral","citrus, musk"
@@ -594,7 +594,7 @@
 593,10s,M,ISFP,formal_occasion,casual,"white, black","citrus, musk"
 594,40s,F,INTP,self_satisfaction,casual,"white, black","floral, woody, musk, aquatic, green, aromatic, casual"
 595,30s,F,INTJ,"good_impression, mood_boost, date_or_social, special_event","casual, classic, suit","white, black, beige, brown","floral, aromatic"
-596,20s,F,INFP,"self_satisfaction, date_or_social, formal_occasion, special_event","casual, minimal, simple","white, black, blue, pink, coral, green, mint, purple","floral, woody, musk, aquatic, green, fruity, aromatic, fougere, light_floral, white_floral, casual"
+596,20s,F,INFP,"self_satisfaction, date_or_social, formal_occasion, special_event","casual, minimal, simple","white, black, blue, pink, coral, green, mint, purple","floral, woody, musk, aquatic, green, fruity, aromatic, fougere, light_floral, casual"
 597,20s,F,INFP,"good_impression, formal_occasion",casual,"yellow, orange","woody, green, casual"
 598,20s,F,INFP,"good_impression, special_event","casual, minimal, simple, modern, chic","white, black, beige, brown, purple","woody, musk, aquatic"
 599,10s,F,INFJ,good_impression,"minimal, simple",blue,citrus
@@ -613,7 +613,7 @@
 612,30s,M,NONE,"good_impression, date_or_social","casual, vintage","black, blue","aquatic, casual"
 613,10s,M,INTP,"good_impression, mood_boost",casual,"white, black","woody, aquatic"
 614,20s,M,INFJ,self_satisfaction,street,"black, red, purple","citrus, floral, oriental"
-615,20s,F,ESTJ,formal_occasion,"casual, classic, suit, romantic, lovely","white, black, beige, brown, pink, coral","musk, light_floral, white_floral"
+615,20s,F,ESTJ,formal_occasion,"casual, classic, suit, romantic, lovely","white, black, beige, brown, pink, coral","musk, light_floral"
 616,30s,M,ISFJ,"mood_boost, self_satisfaction",casual,"black, beige, brown, blue","citrus, woody, fruity"
 617,40s,M,NONE,"good_impression, self_satisfaction",casual,black,"musk, fruity, light_floral"
 618,10s,,NONE,"good_impression, mood_boost, self_satisfaction",freestyle,"white, black, blue, yellow, orange","floral, woody, aquatic, green, aromatic, fougere, light_floral, casual"
@@ -647,7 +647,7 @@
 646,50s,F,NONE,formal_occasion,casual,"beige, brown","woody, musk, aquatic"
 647,20s,M,INTJ,self_satisfaction,"classic, suit",black,woody
 648,20s,F,NONE,"good_impression, mood_boost, unique_style","minimal, simple, modern, chic","white, black","woody, musk"
-649,20s,F,INTP,"mood_boost, self_satisfaction","casual, minimal, simple, romantic, lovely","white, beige, brown, green, mint, yellow, orange","citrus, floral, green, fruity, light_floral, white_floral"
+649,20s,F,INTP,"mood_boost, self_satisfaction","casual, minimal, simple, romantic, lovely","white, beige, brown, green, mint, yellow, orange","citrus, floral, green, fruity, light_floral"
 650,20s,F,ISFP,"mood_boost, self_satisfaction","minimal, simple","white, black","floral, aquatic, fruity, light_floral, casual"
 651,40s,M,ISTJ,good_impression,"minimal, simple, classic, suit","black, green, mint",woody
 652,40s,M,NONE,"good_impression, formal_occasion","casual, classic, suit","black, beige, brown","musk, casual"
@@ -661,7 +661,7 @@
 660,20s,F,ISTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event","casual, minimal, simple, freestyle","white, black",aquatic
 661,50s,M,NONE,formal_occasion,casual,black,"woody, musk"
 662,30s,M,ESTP,"date_or_social, formal_occasion","street, classic, suit, sports","black, beige, brown","citrus, aromatic"
-663,30s,F,ENTJ,"good_impression, mood_boost, special_event","minimal, simple, romantic, lovely","white, beige, brown, pink, coral","citrus, floral, white_floral"
+663,30s,F,ENTJ,"good_impression, mood_boost, special_event","minimal, simple, romantic, lovely","white, beige, brown, pink, coral","citrus, floral"
 664,10s,F,NONE,good_impression,"casual, minimal, simple","green, mint","musk, aquatic"
 665,30s,F,NONE,mood_boost,street,"pink, coral",woody
 666,20s,M,ISFP,good_impression,casual,black,green
@@ -679,7 +679,7 @@
 678,20s,M,INFJ,self_satisfaction,"casual, street, modern, chic",black,"woody, green, aromatic, fougere, casual"
 679,40s,F,ISTJ,"mood_boost, self_satisfaction","minimal, simple, romantic, lovely","black, beige, brown","woody, fruity, light_floral"
 680,40s,M,ISTJ,mood_boost,"casual, minimal, simple","black, beige, brown","musk, casual"
-681,40s,M,INTJ,mood_boost,street,"beige, brown","citrus, white_floral"
+681,40s,M,INTJ,mood_boost,street,"beige, brown",citrus
 682,20s,M,ISTP,"good_impression, date_or_social","minimal, simple","white, black, beige, brown",casual
 683,30s,M,ESFP,self_satisfaction,"casual, minimal, simple","white, beige, brown, blue, pink, coral, green, mint","citrus, woody"
 684,50s,M,NONE,good_impression,"casual, classic, suit","green, mint, purple","woody, green"
@@ -701,7 +701,7 @@
 700,30s,F,ISFJ,"good_impression, self_satisfaction","casual, street","white, black, beige, brown","floral, woody"
 701,20s,F,INFP,"good_impression, formal_occasion","casual, minimal, simple, freestyle","white, black, beige, brown","citrus, floral, woody, musk, aquatic, green, aromatic, fougere, light_floral, casual"
 702,40s,M,NONE,"good_impression, mood_boost",casual,"white, black, beige, brown","citrus, musk, light_floral"
-703,20s,F,ISTJ,"good_impression, mood_boost, self_satisfaction","classic, suit, romantic, lovely, modern, chic","white, black, beige, brown, pink, coral","floral, musk, aquatic, fruity, light_floral, white_floral, casual"
+703,20s,F,ISTJ,"good_impression, mood_boost, self_satisfaction","classic, suit, romantic, lovely, modern, chic","white, black, beige, brown, pink, coral","floral, musk, aquatic, fruity, light_floral, casual"
 704,30s,F,INFJ,mood_boost,casual,"pink, coral",citrus
 705,40s,M,INFJ,mood_boost,street,black,floral
 706,50s,F,NONE,mood_boost,"casual, modern, chic, freestyle","black, blue","citrus, green, aromatic"
@@ -711,7 +711,7 @@
 710,40s,M,INTP,"mood_boost, self_satisfaction","casual, minimal, simple, sports","beige, brown","woody, green"
 711,30s,F,ESTJ,"mood_boost, self_satisfaction","casual, minimal, simple, street","black, beige, brown","woody, green, aromatic"
 712,40s,M,ENTJ,good_impression,casual,"white, black, red","woody, musk"
-713,30s,F,ENFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","minimal, simple, romantic, lovely, modern, chic, freestyle","white, black, blue, yellow, orange","citrus, floral, woody, oriental, aquatic, green, fruity, aromatic, fougere, light_floral, white_floral, casual"
+713,30s,F,ENFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","minimal, simple, romantic, lovely, modern, chic, freestyle","white, black, blue, yellow, orange","citrus, floral, woody, oriental, aquatic, green, fruity, aromatic, fougere, light_floral, casual"
 714,30s,F,ISFP,mood_boost,casual,"white, blue, purple","citrus, casual"
 715,40s,M,NONE,"self_satisfaction, date_or_social, special_event","casual, freestyle","white, black, beige, brown, blue","citrus, musk, aromatic"
 716,40s,M,NONE,"good_impression, mood_boost, self_satisfaction","casual, street, modern, chic","white, black, beige, brown, blue, pink, coral, green, mint","woody, musk, aquatic"
@@ -723,7 +723,7 @@
 722,20s,F,INFJ,good_impression,casual,"black, green, mint","citrus, woody, musk, aromatic, light_floral"
 723,40s,M,NONE,good_impression,casual,"black, blue",woody
 724,30s,M,INTJ,good_impression,"casual, minimal, simple","black, beige, brown, blue, purple","citrus, woody, musk, aquatic"
-725,40s,F,INFP,good_impression,"modern, chic",black,"aromatic, light_floral, white_floral"
+725,40s,F,INFP,good_impression,"modern, chic",black,"aromatic, light_floral"
 726,40s,,INFP,"mood_boost, date_or_social","minimal, simple, classic, suit, romantic, lovely, freestyle","white, black, beige, brown, blue, pink, coral, yellow, orange","citrus, musk, fruity, aromatic, casual"
 727,20s,F,ISTJ,good_impression,"casual, minimal, simple","white, black, beige, brown",floral
 728,20s,F,INFP,good_impression,"classic, suit, modern, chic","white, black","fruity, casual"
@@ -731,8 +731,8 @@
 730,40s,F,ESTP,"good_impression, mood_boost, self_satisfaction, formal_occasion, special_event","casual, street, vintage, sports, freestyle","white, black, beige, brown, blue, green, mint, purple","citrus, woody, aquatic, green, aromatic, light_floral"
 731,40s,M,NONE,special_event,sports,black,woody
 732,30s,F,ISTJ,"mood_boost, self_satisfaction, formal_occasion, special_event","casual, classic, suit, sports","white, black, blue","woody, aquatic, green, aromatic, fougere, light_floral"
-733,40s,F,ENFP,"good_impression, mood_boost, self_satisfaction, unique_style","casual, classic, suit, romantic, lovely, modern, chic","white, black, blue, pink, coral, purple","fruity, aromatic, light_floral, white_floral"
-734,40s,F,ENTP,"good_impression, self_satisfaction","minimal, simple","white, green, mint, yellow, orange","citrus, floral, fruity, light_floral, white_floral"
+733,40s,F,ENFP,"good_impression, mood_boost, self_satisfaction, unique_style","casual, classic, suit, romantic, lovely, modern, chic","white, black, blue, pink, coral, purple","fruity, aromatic, light_floral"
+734,40s,F,ENTP,"good_impression, self_satisfaction","minimal, simple","white, green, mint, yellow, orange","citrus, floral, fruity, light_floral"
 735,30s,M,ENTJ,good_impression,"minimal, simple","beige, brown, blue","citrus, floral, light_floral"
 736,20s,M,ISFJ,self_satisfaction,casual,"white, black",musk
 737,30s,F,ESFJ,date_or_social,"modern, chic","black, pink, coral, red","woody, fougere"
@@ -744,7 +744,7 @@
 743,30s,M,ISTJ,good_impression,casual,black,woody
 744,40s,F,ISTP,good_impression,"classic, suit","pink, coral",floral
 745,50s,F,NONE,"mood_boost, special_event","casual, minimal, simple","white, black, beige, brown, blue","woody, light_floral"
-746,20s,M,INFP,self_satisfaction,casual,blue,"citrus, floral, woody, oriental, musk, aquatic, green, aromatic, white_floral"
+746,20s,M,INFP,self_satisfaction,casual,blue,"citrus, floral, woody, oriental, musk, aquatic, green, aromatic"
 747,20s,F,ISFP,"good_impression, self_satisfaction","casual, minimal, simple","white, black","floral, musk"
 748,20s,F,INFP,good_impression,"casual, sports, modern, chic","black, yellow, orange","citrus, aquatic, fruity"
 749,40s,F,INTP,mood_boost,"casual, minimal, simple",black,woody
@@ -756,11 +756,11 @@
 755,40s,M,ISTP,"good_impression, mood_boost",casual,"white, black, beige, brown","woody, musk, green, aromatic"
 756,30s,M,ISTP,"good_impression, date_or_social","casual, minimal, simple, classic, suit","black, beige, brown","citrus, casual"
 757,30s,F,ESFJ,"good_impression, self_satisfaction, date_or_social",casual,"white, black, beige, brown","citrus, musk"
-758,30s,F,INFP,self_satisfaction,"casual, minimal, simple","white, black","floral, white_floral"
+758,30s,F,INFP,self_satisfaction,"casual, minimal, simple","white, black",floral
 759,30s,M,NONE,good_impression,"casual, sports, freestyle","white, black, blue, green, mint",woody
 760,20s,M,ENTJ,"good_impression, date_or_social, unique_style","casual, modern, chic","black, blue, green, mint","citrus, woody"
 761,10s,M,ISTP,good_impression,"minimal, simple","white, black",floral
-762,20s,F,ENTJ,"good_impression, date_or_social, special_event","casual, romantic, lovely, vintage, modern, chic","white, black","floral, musk, light_floral, white_floral"
+762,20s,F,ENTJ,"good_impression, date_or_social, special_event","casual, romantic, lovely, vintage, modern, chic","white, black","floral, musk, light_floral"
 763,40s,F,ENTJ,"good_impression, mood_boost","modern, chic","white, black, beige, brown","floral, aquatic"
 764,40s,M,INTP,"good_impression, self_satisfaction","casual, vintage","white, black, beige, brown","citrus, woody"
 765,30s,M,ENTP,"good_impression, mood_boost","casual, classic, suit, modern, chic","black, beige, brown, blue","woody, oriental, green, aromatic"
@@ -775,18 +775,18 @@
 774,20s,M,ISTP,good_impression,"casual, minimal, simple","white, black, gray",woody
 775,50s,F,INTJ,"mood_boost, self_satisfaction","minimal, simple","green, mint","green, aromatic, light_floral"
 776,20s,F,ISTP,"good_impression, date_or_social","minimal, simple, romantic, lovely","white, pink, coral, green, mint","citrus, woody"
-777,30s,F,ISFP,"good_impression, self_satisfaction, date_or_social","casual, street","white, green, mint","citrus, white_floral"
+777,30s,F,ISFP,"good_impression, self_satisfaction, date_or_social","casual, street","white, green, mint",citrus
 778,40s,F,ENFJ,"good_impression, mood_boost","classic, suit, romantic, lovely","white, black","woody, light_floral"
 779,20s,M,ISTP,date_or_social,casual,"black, beige, brown","woody, aquatic, casual"
 780,30s,F,ISFP,self_satisfaction,"romantic, lovely","yellow, orange",citrus
 781,20s,F,INTP,"mood_boost, self_satisfaction, date_or_social",casual,"white, black, beige, brown, green, mint","woody, aquatic, green, aromatic, light_floral, casual"
 782,30s,F,ISFJ,"good_impression, self_satisfaction","minimal, simple",purple,"citrus, oriental, green, aromatic"
-783,30s,F,ISFP,"good_impression, date_or_social, formal_occasion","casual, minimal, simple, freestyle","white, black, pink, coral, purple","floral, musk, light_floral, white_floral, casual"
+783,30s,F,ISFP,"good_impression, date_or_social, formal_occasion","casual, minimal, simple, freestyle","white, black, pink, coral, purple","floral, musk, light_floral, casual"
 784,30s,F,ISFP,"mood_boost, self_satisfaction",casual,"white, black, pink, coral, purple","musk, light_floral, casual"
 785,50s,M,istp,good_impression,casual,"white, beige, brown, red","woody, green, fruity, light_floral"
-786,40s,F,ISTJ,"good_impression, mood_boost, date_or_social","classic, suit, modern, chic","black, beige, brown","citrus, floral, woody, aromatic, white_floral"
+786,40s,F,ISTJ,"good_impression, mood_boost, date_or_social","classic, suit, modern, chic","black, beige, brown","citrus, floral, woody, aromatic"
 787,50s,M,NONE,good_impression,casual,"beige, brown",green
-788,40s,M,ISFJ,"date_or_social, unique_style","casual, classic, suit, freestyle",white,white_floral
+788,40s,M,ISFJ,"date_or_social, unique_style","casual, classic, suit, freestyle",white,light_floral
 789,30s,M,ISFJ,good_impression,casual,"white, black, blue","floral, green, casual"
 790,50s,M,INFJ,"good_impression, mood_boost","classic, suit, romantic, lovely","beige, brown",woody
 791,40s,M,ENTJ,"good_impression, self_satisfaction, formal_occasion, special_event","classic, suit","black, blue, yellow, orange","musk, casual"
@@ -795,9 +795,9 @@
 794,30s,M,ISTJ,good_impression,"casual, minimal, simple","white, black, beige, brown",woody
 795,20s,,INTP,"mood_boost, self_satisfaction","minimal, simple, modern, chic","white, blue, green, mint","citrus, woody, oriental, oriental"
 796,30s,F,INFP,self_satisfaction,casual,"white, black",casual
-797,40s,F,INFJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, romantic, lovely","white, green, mint","fougere, white_floral"
+797,40s,F,INFJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, romantic, lovely","white, green, mint",fougere
 798,30s,F,ISFJ,"mood_boost, self_satisfaction","casual, minimal, simple","white, blue","floral, musk"
-799,20s,F,ESFJ,"mood_boost, date_or_social","romantic, lovely","white, pink, coral","floral, fruity, light_floral, white_floral"
+799,20s,F,ESFJ,"mood_boost, date_or_social","romantic, lovely","white, pink, coral","floral, fruity, light_floral"
 800,20s,F,INFP,good_impression,"romantic, lovely, freestyle","white, black",floral
 801,50s,F,NONE,good_impression,"minimal, simple, sports","black, blue","citrus, light_floral"
 802,30s,M,INFP,good_impression,"minimal, simple",white,citrus
@@ -807,7 +807,7 @@
 806,20s,F,ISTP,"good_impression, mood_boost, unique_style",casual,black,"woody, oriental, green"
 807,20s,F,NONE,mood_boost,casual,white,"citrus, woody, aquatic, green"
 808,30s,F,NONE,self_satisfaction,street,purple,floral
-809,20s,F,ISFJ,self_satisfaction,casual,"white, black, beige, brown, blue, pink, coral, green, mint, yellow, orange","citrus, aquatic, green, aromatic, white_floral, casual"
+809,20s,F,ISFJ,self_satisfaction,casual,"white, black, beige, brown, blue, pink, coral, green, mint, yellow, orange","citrus, aquatic, green, aromatic, casual"
 810,40s,M,ESTJ,"good_impression, mood_boost, formal_occasion, special_event","casual, minimal, simple","white, black, beige, brown","floral, green, aromatic"
 811,40s,F,NONE,"self_satisfaction, date_or_social",casual,black,aquatic
 812,20s,F,ISTP,"good_impression, date_or_social","classic, suit","white, black, pink, coral","floral, aquatic"
@@ -816,7 +816,7 @@
 815,50s,M,NONE,good_impression,casual,blue,woody
 816,20s,M,NONE,unique_style,"minimal, simple",white,musk
 817,20s,F,NONE,"good_impression, self_satisfaction","casual, romantic, lovely","white, beige, brown",aquatic
-818,40s,F,INTJ,mood_boost,freestyle,"pink, coral, green, mint, purple","citrus, floral, aromatic, white_floral"
+818,40s,F,INTJ,mood_boost,freestyle,"pink, coral, green, mint, purple","citrus, floral, aromatic"
 819,40s,M,NONE,"good_impression, date_or_social, special_event","classic, suit",black,woody
 820,30s,F,INTJ,"mood_boost, date_or_social, unique_style","casual, minimal, simple, freestyle","white, black, green, mint, purple","citrus, floral, green, aromatic"
 821,30s,F,NONE,mood_boost,"minimal, simple","green, mint",citrus
@@ -843,7 +843,7 @@
 842,20s,F,ESFJ,"mood_boost, self_satisfaction, date_or_social","casual, romantic, lovely, modern, chic","white, pink, coral, yellow, orange","floral, musk"
 843,30s,F,INFP,mood_boost,casual,"blue, green, mint",green
 844,40s,F,INFJ,"mood_boost, self_satisfaction, formal_occasion","minimal, simple, classic, suit","beige, brown, pink, coral","floral, woody, aquatic, aromatic"
-845,50s,F,NONE,"mood_boost, self_satisfaction","casual, sports, modern, chic","white, black, pink, coral, green, mint","floral, woody, musk, aquatic, light_floral, white_floral, casual"
+845,50s,F,NONE,"mood_boost, self_satisfaction","casual, sports, modern, chic","white, black, pink, coral, green, mint","floral, woody, musk, aquatic, light_floral, casual"
 846,30s,M,ENTJ,good_impression,casual,"beige, brown",green
 847,30s,F,ENTJ,self_satisfaction,"classic, suit","beige, brown",woody
 848,20s,M,ENFP,self_satisfaction,casual,black,"floral, woody"
@@ -871,9 +871,9 @@
 870,40s,M,INTP,good_impression,casual,black,"citrus, floral"
 871,20s,F,INFP,good_impression,"minimal, simple","white, beige, brown, pink, coral","woody, musk, aquatic, green, casual"
 872,20s,F,INTJ,"good_impression, self_satisfaction, date_or_social",freestyle,"white, beige, brown, pink, coral","floral, musk, green, casual"
-873,50s,F,ESFJ,"mood_boost, special_event",casual,"white, black, beige, brown","floral, white_floral"
+873,50s,F,ESFJ,"mood_boost, special_event",casual,"white, black, beige, brown",floral
 874,30s,F,ESTP,"mood_boost, self_satisfaction, unique_style","casual, modern, chic","white, black, beige, brown","floral, musk"
-875,10s,F,ENFP,self_satisfaction,"casual, sports","white, black, pink, coral","floral, musk, green, fruity, light_floral, white_floral"
+875,10s,F,ENFP,self_satisfaction,"casual, sports","white, black, pink, coral","floral, musk, green, fruity, light_floral"
 876,40s,M,ISFP,"good_impression, formal_occasion",casual,black,"woody, aquatic"
 877,30s,F,ESTP,"good_impression, self_satisfaction","casual, freestyle","white, beige, brown, pink, coral",citrus
 878,40s,F,INTP,"good_impression, mood_boost","casual, minimal, simple, modern, chic","white, black, beige, brown","citrus, woody, light_floral, casual"
@@ -891,7 +891,7 @@
 890,30s,F,INFJ,"mood_boost, date_or_social, special_event",casual,black,"citrus, fruity"
 891,30s,M,ISTJ,good_impression,"minimal, simple","white, black","woody, musk"
 892,30s,F,ISFJ,mood_boost,"casual, minimal, simple","beige, brown","floral, aquatic"
-893,40s,F,INFP,"mood_boost, self_satisfaction","modern, chic","white, blue, green, mint","citrus, musk, fruity, aromatic, white_floral"
+893,40s,F,INFP,"mood_boost, self_satisfaction","modern, chic","white, blue, green, mint","citrus, musk, fruity, aromatic"
 894,50s,M,NONE,"good_impression, date_or_social",street,"pink, coral","woody, aromatic"
 895,40s,F,NONE,"mood_boost, unique_style","minimal, simple, modern, chic","black, beige, brown","woody, musk"
 896,30s,M,ISFJ,"good_impression, mood_boost","classic, suit","beige, brown",oriental
@@ -899,7 +899,7 @@
 898,40s,M,ENTJ,"good_impression, mood_boost, formal_occasion, special_event",casual,"white, black","aquatic, fougere"
 899,10s,F,ISFP,"mood_boost, self_satisfaction","casual, freestyle","white, black","musk, fruity, aromatic, light_floral, casual"
 900,20s,F,ISFP,good_impression,"minimal, simple","white, blue",woody
-901,40s,M,ISTJ,"good_impression, self_satisfaction",casual,"white, black","floral, oriental, musk, white_floral"
+901,40s,M,ISTJ,"good_impression, self_satisfaction",casual,"white, black","floral, oriental, musk"
 902,30s,F,INFP,mood_boost,casual,blue,"woody, musk, aquatic, green, aromatic"
 903,40s,F,ISTJ,self_satisfaction,"casual, freestyle","white, pink, coral, purple",citrus
 904,20s,F,ISFP,"good_impression, mood_boost, special_event","casual, modern, chic, freestyle",black,"citrus, woody, aquatic, fruity"
@@ -971,10 +971,10 @@
 970,20s,F,ESTJ,"good_impression, mood_boost, date_or_social","romantic, lovely, freestyle","white, black, pink, coral","floral, musk"
 971,40s,M,ESTP,"good_impression, date_or_social","casual, minimal, simple","white, beige, brown","woody, green"
 972,30s,F,NONE,"date_or_social, special_event","casual, romantic, lovely","pink, coral, yellow, orange","floral, aromatic"
-973,30s,F,ESFJ,self_satisfaction,"minimal, simple, freestyle","white, black, beige, brown","floral, musk, aromatic, white_floral"
+973,30s,F,ESFJ,self_satisfaction,"minimal, simple, freestyle","white, black, beige, brown","floral, musk, aromatic"
 974,40s,M,NONE,self_satisfaction,freestyle,"white, beige, brown","oriental, green, aromatic, casual"
 975,40s,M,INFJ,mood_boost,"street, classic, suit, romantic, lovely","beige, brown, pink, coral, red, green, mint",floral
-976,10s,F,INTJ,"good_impression, mood_boost, self_satisfaction","classic, suit, sports","white, black, beige, brown, blue","floral, green, light_floral, white_floral, casual"
+976,10s,F,INTJ,"good_impression, mood_boost, self_satisfaction","classic, suit, sports","white, black, beige, brown, blue","floral, green, light_floral, casual"
 977,40s,M,ENFJ,self_satisfaction,"casual, classic, suit","white, beige, brown",fougere
 978,30s,F,ENTP,self_satisfaction,"casual, minimal, simple, vintage, sports, freestyle","white, black, beige, brown","woody, oriental, green, aromatic"
 979,30s,M,ENFJ,formal_occasion,"classic, suit",blue,woody
@@ -1005,17 +1005,17 @@
 1004,30s,F,ISFP,formal_occasion,freestyle,black,"citrus, fruity, aquatic"
 1005,30s,M,INFP,good_impression,casual,"white, black","aquatic, fougere"
 1006,40s,M,ISTJ,"date_or_social, formal_occasion",casual,"white, black","green, woody"
-1007,30s,F,ISTJ,"good_impression, mood_boost","minimal, simple",black,"white_floral, musk"
+1007,30s,F,ISTJ,"good_impression, mood_boost","minimal, simple",black,musk
 1008,50s,M,ENFJ,date_or_social,casual,"white, black",aquatic
 1009,30s,M,ISTJ,"date_or_social, special_event","casual, minimal, simple, classic, suit","white, black, beige, brown","citrus, woody, casual"
 1010,40s,M,INTJ,self_satisfaction,"street, sports","blue, pink, coral","fruity, light_floral"
 1011,50s,M,ISTJ,good_impression,casual,blue,"floral, aromatic"
 1012,40s,M,ISTJ,good_impression,casual,"white, black","woody, aromatic, casual"
-1013,40s,F,ENFP,"good_impression, mood_boost","classic, suit","white, beige, brown","white_floral, musk"
+1013,40s,F,ENFP,"good_impression, mood_boost","classic, suit","white, beige, brown",musk
 1014,40s,M,ISTP,self_satisfaction,"street, vintage","beige, brown, blue","citrus, fruity"
 1015,20s,M,INTJ,good_impression,street,"white, black","aquatic, green, woody, aromatic, casual"
 1016,40s,M,ESFJ,"good_impression, mood_boost, self_satisfaction","minimal, simple, classic, suit, freestyle","white, black, beige, brown","citrus, floral, aquatic, woody"
-1017,30s,F,ESTP,"mood_boost, self_satisfaction, date_or_social","casual, classic, suit, romantic, lovely","pink, coral, purple","fruity, floral, white_floral, light_floral"
+1017,30s,F,ESTP,"mood_boost, self_satisfaction, date_or_social","casual, classic, suit, romantic, lovely","pink, coral, purple","fruity, floral, light_floral"
 1018,40s,M,ISTJ,"good_impression, formal_occasion","casual, classic, suit","white, black, yellow, orange","aquatic, green, musk, woody, aromatic, casual"
 1019,30s,F,ESTP,mood_boost,"minimal, simple, romantic, lovely","white, black","citrus, light_floral, woody"
 1020,40s,M,ENTP,good_impression,casual,black,musk
@@ -1034,17 +1034,17 @@
 1033,40s,M,ISFJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, classic, suit, modern, chic","white, black, beige, brown",aquatic
 1034,40s,M,INTP,good_impression,casual,"white, pink, coral","aquatic, green"
 1035,40s,M,ISTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","minimal, simple, freestyle","white, black, beige, brown, blue","citrus, oriental, green, woody, casual"
-1036,30s,F,ENTJ,"good_impression, mood_boost, self_satisfaction","minimal, simple, freestyle","black, beige, brown","floral, white_floral, light_floral, musk"
-1037,30s,F,ESFJ,self_satisfaction,"classic, suit, freestyle","white, beige, brown, blue","floral, white_floral, light_floral, musk"
-1038,30s,F,ESFJ,"mood_boost, self_satisfaction","casual, classic, suit","white, beige, brown","white_floral, woody"
+1036,30s,F,ENTJ,"good_impression, mood_boost, self_satisfaction","minimal, simple, freestyle","black, beige, brown","floral, light_floral, musk"
+1037,30s,F,ESFJ,self_satisfaction,"classic, suit, freestyle","white, beige, brown, blue","floral, light_floral, musk"
+1038,30s,F,ESFJ,"mood_boost, self_satisfaction","casual, classic, suit","white, beige, brown",woody
 1039,30s,F,INTJ,"good_impression, mood_boost","casual, minimal, simple","white, black","citrus, woody"
 1040,30s,M,ESTJ,mood_boost,casual,"black, beige, brown, blue","aquatic, woody"
 1041,40s,M,INFJ,"good_impression, mood_boost, self_satisfaction, formal_occasion, unique_style","casual, classic, suit","white, black, blue, pink, coral","aquatic, green, casual"
 1042,30s,M,INTJ,"mood_boost, special_event","casual, modern, chic","white, black, beige, brown",casual
 1043,30s,F,ESFJ,"good_impression, mood_boost","casual, classic, suit","black, beige, brown","citrus, musk"
-1044,30s,M,INFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","casual, freestyle","black, beige, brown","white_floral, aquatic, green, musk, fougere, woody, aromatic, casual"
+1044,30s,M,INFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","casual, freestyle","black, beige, brown","aquatic, green, musk, fougere, woody, aromatic, casual"
 1045,50s,M,ENFP,"mood_boost, self_satisfaction, special_event","street, vintage","blue, red, green, mint, yellow, orange","floral, aquatic, casual"
-1046,30s,F,INFJ,"good_impression, date_or_social, special_event","minimal, simple, classic, suit","white, black, beige, brown, red","white_floral, musk, casual"
+1046,30s,F,INFJ,"good_impression, date_or_social, special_event","minimal, simple, classic, suit","white, black, beige, brown, red","musk, casual"
 1047,30s,F,ISTP,"mood_boost, formal_occasion","casual, minimal, simple, street, vintage, sports, modern, chic, freestyle","white, beige, brown","aquatic, green, light_floral, fougere, woody"
 1048,50s,M,ENFP,"good_impression, formal_occasion","casual, classic, suit","white, black, beige, brown","aquatic, musk, woody, aromatic"
 1049,50s,M,INTJ,self_satisfaction,"casual, classic, suit","white, black","citrus, green"
@@ -1064,10 +1064,10 @@
 1063,40s,M,ESTJ,"good_impression, mood_boost, self_satisfaction","casual, street, romantic, lovely","white, black, beige, brown","citrus, floral, aquatic"
 1064,40s,M,ENTJ,"good_impression, mood_boost, self_satisfaction","classic, suit, freestyle","beige, brown","floral, green, musk, fougere, woody"
 1065,30s,M,ENFJ,"good_impression, mood_boost","casual, sports, freestyle","black, blue, green, mint","green, light_floral, fougere, woody"
-1066,30s,M,ESTJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, classic, suit","white, black, beige, brown, blue","citrus, fruity, floral, white_floral, light_floral, woody"
+1066,30s,M,ESTJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, classic, suit","white, black, beige, brown, blue","citrus, fruity, floral, light_floral, woody"
 1067,40s,M,ISTJ,self_satisfaction,casual,black,"aquatic, green"
 1068,30s,F,ESFJ,"self_satisfaction, formal_occasion",freestyle,"beige, brown, pink, coral, green, mint",citrus
-1069,40s,M,ISTJ,"mood_boost, self_satisfaction","casual, sports","black, beige, brown","white_floral, light_floral, musk, aromatic"
+1069,40s,M,ISTJ,"mood_boost, self_satisfaction","casual, sports","black, beige, brown","light_floral, musk, aromatic"
 1070,40s,M,ESFJ,"good_impression, self_satisfaction, formal_occasion, special_event","casual, minimal, simple","black, beige, brown","citrus, woody, casual"
 1071,30s,F,INTJ,"good_impression, self_satisfaction",casual,"white, beige, brown, blue, pink, coral, red, green, mint, purple","fruity, aquatic, musk"
 1072,40s,F,ISFJ,mood_boost,"modern, chic","white, black","citrus, musk"
@@ -1078,9 +1078,9 @@
 1077,50s,M,ISTJ,"good_impression, special_event","casual, minimal, simple","white, black, beige, brown","green, casual"
 1078,30s,M,ESFP,"self_satisfaction, date_or_social","classic, suit",black,musk
 1079,40s,M,ESTJ,"mood_boost, date_or_social, formal_occasion","casual, minimal, simple, sports","white, black","citrus, green, musk, woody"
-1080,20s,F,ISFJ,self_satisfaction,"minimal, simple","white, black, blue","floral, white_floral, aquatic, green, light_floral, musk"
+1080,20s,F,ISFJ,self_satisfaction,"minimal, simple","white, black, blue","floral, aquatic, green, light_floral, musk"
 1081,30s,M,ESFP,"self_satisfaction, date_or_social","street, classic, suit","beige, brown","floral, aquatic"
-1082,30s,M,ENFJ,"good_impression, self_satisfaction, date_or_social, formal_occasion","casual, classic, suit, modern, chic","white, black, blue, purple","citrus, white_floral, green, musk, woody, casual"
+1082,30s,M,ENFJ,"good_impression, self_satisfaction, date_or_social, formal_occasion","casual, classic, suit, modern, chic","white, black, blue, purple","citrus, green, musk, woody, casual"
 1083,30s,M,ISFJ,"good_impression, mood_boost",casual,blue,"citrus, fruity, light_floral, musk, fougere"
 1084,40s,M,ISTJ,"good_impression, formal_occasion","casual, street, classic, suit","black, beige, brown",musk
 1085,30s,F,ESFP,good_impression,casual,white,aquatic
@@ -1088,7 +1088,7 @@
 1087,40s,M,ENTJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","black, beige, brown, blue","musk, fougere, woody"
 1088,40s,M,INTJ,date_or_social,casual,"white, black",musk
 1089,40s,M,ISTJ,good_impression,"minimal, simple","beige, brown",aquatic
-1090,30s,F,ESFJ,mood_boost,"minimal, simple, classic, suit",white,"citrus, fruity, floral, white_floral"
+1090,30s,F,ESFJ,mood_boost,"minimal, simple, classic, suit",white,"citrus, fruity, floral"
 1091,40s,M,ISTP,good_impression,"casual, classic, suit","white, black, blue","citrus, aquatic"
 1092,40s,M,ENTP,self_satisfaction,casual,"white, black, beige, brown","musk, woody"
 1093,40s,M,INTJ,special_event,"casual, minimal, simple","white, black, beige, brown, blue",musk
@@ -1105,7 +1105,7 @@
 1104,40s,M,ESTJ,self_satisfaction,"classic, suit","black, beige, brown","green, woody"
 1105,30s,M,INFP,"good_impression, self_satisfaction",casual,"black, blue","green, musk, woody"
 1106,30s,M,NONE,"mood_boost, special_event",casual,"white, black, beige, brown, blue","citrus, musk, woody"
-1107,30s,F,ESTJ,"mood_boost, self_satisfaction",casual,black,"floral, white_floral, light_floral"
+1107,30s,F,ESTJ,"mood_boost, self_satisfaction",casual,black,"floral, light_floral"
 1108,20s,F,ISTJ,mood_boost,"classic, suit, modern, chic",black,"oriental, woody"
 1109,30s,M,ISTJ,special_event,casual,"white, black",green
 1110,40s,M,ESTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","classic, suit, sports, modern, chic, freestyle","black, blue, pink, coral, green, mint, yellow, orange","musk, woody"
@@ -1114,10 +1114,10 @@
 1113,50s,M,INFP,self_satisfaction,"casual, freestyle","black, beige, brown","floral, green"
 1114,30s,F,ESTJ,self_satisfaction,"classic, suit",purple,musk
 1115,50s,M,INTJ,"mood_boost, self_satisfaction","casual, minimal, simple, classic, suit","black, beige, brown, blue","aquatic, green, woody, casual"
-1116,30s,F,ISTJ,"self_satisfaction, formal_occasion","minimal, simple, classic, suit, modern, chic","white, black","white_floral, green, light_floral"
+1116,30s,F,ISTJ,"self_satisfaction, formal_occasion","minimal, simple, classic, suit, modern, chic","white, black","green, light_floral"
 1117,30s,M,INFJ,"good_impression, date_or_social","casual, freestyle",black,casual
 1118,40s,M,INTJ,"good_impression, formal_occasion","casual, classic, suit","white, black","floral, green"
-1119,30s,F,INFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event, unique_style","casual, romantic, lovely, vintage","white, black, beige, brown, blue","fruity, floral, white_floral, aquatic, green, light_floral, musk, woody, aromatic, casual"
+1119,30s,F,INFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event, unique_style","casual, romantic, lovely, vintage","white, black, beige, brown, blue","fruity, floral, aquatic, green, light_floral, musk, woody, aromatic, casual"
 1120,20s,M,ISFJ,"good_impression, date_or_social, special_event","minimal, simple","white, black, beige, brown, green, mint","green, woody"
 1121,40s,M,ESTJ,good_impression,"casual, classic, suit","white, black, beige, brown",musk
 1122,40s,M,NONE,good_impression,"casual, sports","white, black","woody, casual"
@@ -1147,11 +1147,11 @@
 1146,30s,F,ENFJ,"good_impression, self_satisfaction","minimal, simple, freestyle","black, beige, brown, red","aquatic, green, light_floral, musk, oriental, woody, casual"
 1147,30s,F,ISTJ,"good_impression, self_satisfaction, date_or_social",freestyle,"white, black, blue","citrus, musk"
 1148,20s,M,INTJ,"good_impression, mood_boost, date_or_social","casual, vintage","blue, red, green, mint",citrus
-1149,20s,M,ESTJ,"good_impression, self_satisfaction","casual, minimal, simple, street, classic, suit","white, black, blue, pink, coral, green, mint, yellow, orange","citrus, fruity, white_floral, musk, oriental"
+1149,20s,M,ESTJ,"good_impression, self_satisfaction","casual, minimal, simple, street, classic, suit","white, black, blue, pink, coral, green, mint, yellow, orange","citrus, fruity, musk, oriental"
 1150,40s,M,ISTJ,good_impression,"casual, classic, suit","white, black, beige, brown, pink, coral","musk, woody"
 1151,30s,F,ESFJ,"good_impression, mood_boost","casual, classic, suit","white, black, beige, brown","aquatic, green, light_floral, musk, woody"
 1152,30s,M,ESFJ,good_impression,casual,white,woody
-1153,20s,F,ENTP,mood_boost,"casual, classic, suit, romantic, lovely","white, beige, brown, pink, coral","fruity, floral, white_floral"
+1153,20s,F,ENTP,mood_boost,"casual, classic, suit, romantic, lovely","white, beige, brown, pink, coral","fruity, floral"
 1154,30s,M,ISTP,self_satisfaction,"minimal, simple",black,"fougere, woody"
 1155,30s,M,ENTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, classic, suit, vintage, freestyle","black, beige, brown, blue","citrus, floral, aquatic, green, woody, aromatic"
 1156,30s,M,ENFP,"good_impression, formal_occasion","minimal, simple","black, beige, brown","citrus, aquatic"
@@ -1164,7 +1164,7 @@
 1163,30s,F,ESFJ,"good_impression, mood_boost, self_satisfaction, unique_style","minimal, simple, modern, chic","white, black, green, mint",floral
 1164,40s,M,ENTP,"mood_boost, self_satisfaction","casual, sports, modern, chic, freestyle","black, green, mint, yellow, orange","musk, woody"
 1165,20s,F,ISTJ,unique_style,freestyle,white,"green, musk, woody"
-1166,20s,F,ESTJ,"good_impression, date_or_social, special_event","casual, minimal, simple, modern, chic","white, black, blue, purple","white_floral, musk, woody, casual"
+1166,20s,F,ESTJ,"good_impression, date_or_social, special_event","casual, minimal, simple, modern, chic","white, black, blue, purple","musk, woody, casual"
 1167,20s,F,ESFJ,"good_impression, mood_boost, date_or_social, special_event, unique_style","casual, classic, suit, modern, chic","white, black, beige, brown",light_floral
 1168,20s,M,ISFJ,"good_impression, self_satisfaction, formal_occasion","casual, minimal, simple","white, black, beige, brown","aquatic, musk"
 1169,30s,M,ISTJ,"good_impression, date_or_social, special_event","casual, minimal, simple, sports","white, black","citrus, oriental, woody"
@@ -1179,7 +1179,7 @@
 1178,40s,M,ISFP,"good_impression, mood_boost","casual, freestyle","black, beige, brown","aquatic, musk, woody"
 1179,20s,F,INFP,"good_impression, date_or_social","casual, minimal, simple","white, blue, green, mint","aquatic, green, light_floral, aromatic"
 1180,30s,F,ENFP,"mood_boost, self_satisfaction, date_or_social","casual, classic, suit","white, black, pink, coral","fruity, floral, aquatic, musk"
-1181,30s,F,ISTJ,"mood_boost, date_or_social","casual, street, modern, chic","white, pink, coral, yellow, orange","citrus, white_floral"
+1181,30s,F,ISTJ,"mood_boost, date_or_social","casual, street, modern, chic","white, pink, coral, yellow, orange",citrus
 1182,30s,M,ENTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style","classic, suit, modern, chic","white, black, beige, brown, blue, green, mint","aquatic, fougere, woody"
 1183,20s,F,ESFJ,"self_satisfaction, date_or_social, unique_style","casual, minimal, simple","white, beige, brown, yellow, orange","citrus, fruity, woody"
 1184,40s,M,ENFJ,"good_impression, mood_boost, self_satisfaction, unique_style","classic, suit, modern, chic",black,"light_floral, woody, aromatic"
@@ -1193,13 +1193,13 @@
 1192,20s,F,ISFJ,"mood_boost, self_satisfaction, unique_style",freestyle,"white, black, blue, green, mint","green, light_floral, aromatic, casual"
 1193,40s,M,NONE,formal_occasion,"classic, suit",black,citrus
 1194,30s,F,ISTJ,self_satisfaction,"casual, romantic, lovely","white, pink, coral","citrus, aquatic, light_floral"
-1195,30s,F,INTJ,"mood_boost, self_satisfaction","casual, minimal, simple, vintage, freestyle","black, beige, brown, green, mint","floral, white_floral, aquatic, green, light_floral, aromatic"
+1195,30s,F,INTJ,"mood_boost, self_satisfaction","casual, minimal, simple, vintage, freestyle","black, beige, brown, green, mint","floral, aquatic, green, light_floral, aromatic"
 1196,30s,M,ISTP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, modern, chic","white, black, beige, brown, blue","citrus, oriental, musk, oriental, woody"
 1197,40s,M,ISTP,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","minimal, simple, classic, suit, modern, chic",black,"aquatic, fougere, woody"
 1198,40s,M,ESFJ,good_impression,casual,black,woody
 1199,30s,M,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, minimal, simple","white, black, beige, brown, blue, green, mint","aquatic, musk, woody"
 1200,30s,M,ENFJ,"mood_boost, self_satisfaction","classic, suit","black, beige, brown",fougere
-1201,20s,F,INTP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, classic, suit, modern, chic","white, beige, brown","citrus, fruity, floral, white_floral, light_floral"
+1201,20s,F,INTP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, classic, suit, modern, chic","white, beige, brown","citrus, fruity, floral, light_floral"
 1202,40s,M,INTJ,"good_impression, date_or_social, formal_occasion","casual, sports","white, black, beige, brown, green, mint","green, fougere, woody"
 1203,20s,F,ISTJ,good_impression,"casual, street, classic, suit","white, beige, brown, pink, coral","fruity, aquatic, woody"
 1204,20s,F,ISTJ,"mood_boost, self_satisfaction, unique_style","casual, freestyle","white, beige, brown","citrus, green, woody"
@@ -1210,11 +1210,11 @@
 1209,40s,M,INTJ,date_or_social,sports,blue,"citrus, aquatic"
 1210,30s,M,ESFJ,good_impression,"casual, minimal, simple, classic, suit","white, black, beige, brown","citrus, green, musk, woody, casual"
 1211,20s,M,ESFP,"good_impression, mood_boost, date_or_social","minimal, simple","white, black, beige, brown","aquatic, woody"
-1212,30s,F,ISTP,"good_impression, mood_boost, self_satisfaction, unique_style","casual, classic, suit","white, black","citrus, white_floral, green, woody, aromatic"
+1212,30s,F,ISTP,"good_impression, mood_boost, self_satisfaction, unique_style","casual, classic, suit","white, black","citrus, green, woody, aromatic"
 1213,30s,F,ENFJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","white, black, blue","citrus, aquatic, green, musk, woody"
 1214,40s,F,ESTP,"good_impression, date_or_social, formal_occasion, special_event","casual, minimal, simple, modern, chic","white, black","citrus, aquatic, green, woody, aromatic"
 1215,20s,M,ESTJ,"good_impression, date_or_social, special_event","casual, minimal, simple","white, black, beige, brown","citrus, aquatic, musk, woody, casual"
-1216,40s,F,NONE,"good_impression, mood_boost, self_satisfaction","classic, suit, freestyle","white, black, blue","citrus, fruity, white_floral, aquatic, light_floral"
+1216,40s,F,NONE,"good_impression, mood_boost, self_satisfaction","classic, suit, freestyle","white, black, blue","citrus, fruity, aquatic, light_floral"
 1217,30s,F,ESFP,"good_impression, mood_boost","classic, suit","white, beige, brown",woody
 1218,30s,F,ISFJ,mood_boost,street,"beige, brown","citrus, casual"
 1219,30s,F,ENFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style","casual, minimal, simple, street, modern, chic","white, black, blue, pink, coral, green, mint","aquatic, green, musk, woody"
@@ -1222,7 +1222,7 @@
 1221,30s,F,ESTP,"good_impression, self_satisfaction",casual,"white, black","citrus, fruity"
 1222,30s,F,ISFJ,"mood_boost, date_or_social","casual, minimal, simple, sports, modern, chic, freestyle","black, beige, brown","light_floral, musk, woody"
 1223,20s,F,INFJ,"good_impression, mood_boost, self_satisfaction","casual, classic, suit, freestyle","beige, brown, purple","aquatic, green, light_floral, casual"
-1224,50s,F,ISTJ,"good_impression, mood_boost, unique_style","minimal, simple","white, black, beige, brown","citrus, fruity, floral, white_floral, aquatic, light_floral, woody, aromatic, casual"
+1224,50s,F,ISTJ,"good_impression, mood_boost, unique_style","minimal, simple","white, black, beige, brown","citrus, fruity, floral, aquatic, light_floral, woody, aromatic, casual"
 1225,30s,M,ENTP,"good_impression, self_satisfaction","casual, classic, suit, vintage","black, green, mint","citrus, fruity, woody"
 1226,20s,F,ESTJ,"self_satisfaction, date_or_social",casual,white,"citrus, fruity, floral, light_floral, musk"
 1227,30s,M,ISTJ,"good_impression, self_satisfaction, formal_occasion","classic, suit, vintage","beige, brown","green, musk, woody"
@@ -1232,7 +1232,7 @@
 1231,20s,M,ISFP,"good_impression, self_satisfaction, date_or_social","casual, romantic, lovely, modern, chic","white, black, beige, brown, green, mint","citrus, fruity, aquatic"
 1232,20s,F,ISFJ,"good_impression, mood_boost, self_satisfaction","casual, classic, suit","white, black, green, mint","oriental, green, musk, oriental, woody"
 1233,20s,F,ESTJ,"mood_boost, self_satisfaction",casual,"white, black","aquatic, musk, woody"
-1234,40s,F,ENFJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, minimal, simple, freestyle","white, black, beige, brown, green, mint","white_floral, aquatic, musk, fougere"
+1234,40s,F,ENFJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, minimal, simple, freestyle","white, black, beige, brown, green, mint","aquatic, musk, fougere"
 1235,30s,F,INFJ,"good_impression, self_satisfaction","modern, chic","white, black, beige, brown, blue","floral, green"
 1236,30s,M,ENFP,"good_impression, formal_occasion, unique_style","minimal, simple, modern, chic","black, beige, brown","citrus, musk"
 1237,30s,F,INFJ,"self_satisfaction, unique_style","minimal, simple, modern, chic","white, black","citrus, green, woody"
@@ -1241,15 +1241,15 @@
 1240,20s,F,ISTJ,"good_impression, mood_boost, self_satisfaction",casual,white,"aquatic, light_floral, woody, casual"
 1241,40s,M,ENFJ,formal_occasion,freestyle,blue,
 1242,40s,M,ENFJ,"mood_boost, self_satisfaction, date_or_social, formal_occasion","street, classic, suit, romantic, lovely, sports","beige, brown, pink, coral, purple","fruity, light_floral, fougere"
-1243,40s,M,NONE,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","black, blue","white_floral, green, light_floral, musk"
-1244,30s,F,ESFP,"mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style",freestyle,"white, black, beige, brown, pink, coral","fruity, floral, white_floral, aquatic, light_floral, musk, casual"
+1243,40s,M,NONE,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","black, blue","green, light_floral, musk"
+1244,30s,F,ESFP,"mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style",freestyle,"white, black, beige, brown, pink, coral","fruity, floral, aquatic, light_floral, musk, casual"
 1245,40s,F,ISFJ,formal_occasion,freestyle,black,"citrus, aquatic, musk"
 1246,30s,M,ENFJ,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, minimal, simple, freestyle","white, black, yellow, orange","citrus, musk, fougere, woody"
 1247,30s,M,INFJ,"good_impression, mood_boost","casual, classic, suit, vintage","white, yellow, orange",woody
 1248,20s,M,ISTJ,"good_impression, formal_occasion","casual, minimal, simple","white, black, blue","aquatic, green, casual"
 1249,40s,F,ENFP,"good_impression, mood_boost","casual, minimal, simple, street","white, black, beige, brown","aquatic, musk, woody, aromatic"
 1250,40s,M,ENTP,"good_impression, mood_boost","classic, suit","black, beige, brown, blue","floral, light_floral"
-1251,20s,F,ENFP,mood_boost,"casual, minimal, simple","white, black","floral, white_floral, aquatic, green, light_floral"
+1251,20s,F,ENFP,mood_boost,"casual, minimal, simple","white, black","floral, aquatic, green, light_floral"
 1252,50s,M,INTP,"good_impression, self_satisfaction, date_or_social","casual, classic, suit","white, black, blue","citrus, floral, woody"
 1253,30s,F,ENTP,good_impression,"classic, suit, romantic, lovely","white, beige, brown",citrus
 1254,40s,M,NONE,good_impression,"casual, minimal, simple, classic, suit","white, black, beige, brown","aquatic, woody"
@@ -1258,19 +1258,19 @@
 1257,40s,F,ENFJ,unique_style,"romantic, lovely","white, black, pink, coral, green, mint, purple",light_floral
 1258,50s,M,NONE,good_impression,casual,"beige, brown",musk
 1259,40s,M,ISTJ,good_impression,casual,"white, black, blue","musk, woody"
-1260,40s,M,ESTJ,"good_impression, mood_boost","casual, classic, suit, modern, chic","white, black, beige, brown","white_floral, aquatic, musk"
+1260,40s,M,ESTJ,"good_impression, mood_boost","casual, classic, suit, modern, chic","white, black, beige, brown","aquatic, musk"
 1261,20s,M,INTJ,"self_satisfaction, unique_style","casual, minimal, simple","white, black, yellow, orange","citrus, aquatic, woody"
 1262,30s,M,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","casual, minimal, simple, modern, chic","white, black, blue","citrus, green, woody"
 1263,30s,M,ISFP,"good_impression, date_or_social",casual,"white, black","citrus, musk, woody"
-1264,40s,F,ESFJ,"good_impression, self_satisfaction","minimal, simple, classic, suit, romantic, lovely","white, black, green, mint","fruity, floral, white_floral, woody"
+1264,40s,F,ESFJ,"good_impression, self_satisfaction","minimal, simple, classic, suit, romantic, lovely","white, black, green, mint","fruity, floral, woody"
 1265,30s,M,ISTP,good_impression,"classic, suit","black, blue",light_floral
 1266,30s,M,ESFJ,"good_impression, date_or_social, special_event","casual, street, classic, suit, sports","white, black, beige, brown, blue","floral, aquatic, green, musk, woody"
 1267,30s,F,INFP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, street",black,"citrus, oriental, aquatic, green, light_floral, musk, aromatic, casual"
 1268,50s,M,ESTJ,"good_impression, date_or_social","classic, suit",blue,aquatic
-1269,30s,M,INFP,good_impression,casual,black,white_floral
+1269,30s,M,INFP,good_impression,casual,black,light_floral
 1270,30s,F,ESTJ,"good_impression, mood_boost, date_or_social, special_event, unique_style","minimal, simple, classic, suit, modern, chic","white, blue, pink, coral, green, mint, yellow, orange","citrus, floral, woody"
 1271,30s,F,ESFJ,"mood_boost, self_satisfaction","casual, romantic, lovely","white, black, beige, brown, pink, coral","musk, casual"
-1272,30s,F,ENFP,"mood_boost, self_satisfaction",casual,"white, pink, coral","floral, white_floral"
+1272,30s,F,ENFP,"mood_boost, self_satisfaction",casual,"white, pink, coral",floral
 1273,40s,F,INTP,"mood_boost, self_satisfaction",casual,"black, beige, brown","citrus, green, light_floral"
 1274,40s,M,INTJ,good_impression,"classic, suit",black,fougere
 1275,30s,M,ENFJ,"good_impression, self_satisfaction, unique_style",casual,"beige, brown, blue",citrus
@@ -1288,7 +1288,7 @@
 1287,40s,M,ISFJ,"good_impression, self_satisfaction","casual, minimal, simple, classic, suit","white, black, green, mint","citrus, light_floral, oriental"
 1288,20s,M,ESTP,"good_impression, self_satisfaction",freestyle,"white, black, beige, brown, blue","citrus, green, musk, woody"
 1289,30s,F,ENFP,"self_satisfaction, date_or_social","romantic, lovely","white, pink, coral","fruity, floral, aquatic"
-1290,30s,F,ISFJ,"good_impression, self_satisfaction","casual, minimal, simple","white, black, yellow, orange","white_floral, aquatic, green, light_floral"
+1290,30s,F,ISFJ,"good_impression, self_satisfaction","casual, minimal, simple","white, black, yellow, orange","aquatic, green, light_floral"
 1291,40s,F,ENFJ,good_impression,"classic, suit","white, black","citrus, light_floral"
 1292,30s,F,ISTJ,"mood_boost, self_satisfaction, date_or_social",casual,"white, black, blue","green, woody"
 1293,40s,M,INTJ,"good_impression, self_satisfaction","casual, modern, chic","white, blue","aquatic, musk"
@@ -1314,9 +1314,9 @@
 1313,20s,F,ISTJ,"good_impression, self_satisfaction",casual,"white, black, beige, brown","citrus, aquatic, green"
 1314,30s,F,ESFP,"good_impression, mood_boost, unique_style","casual, modern, chic","black, beige, brown, blue, purple","green, woody"
 1315,30s,F,ISTP,"mood_boost, self_satisfaction, unique_style",casual,"white, beige, brown, pink, coral, purple","fruity, light_floral, casual"
-1316,30s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, classic, suit, sports","white, beige, brown, pink, coral, green, mint","citrus, white_floral, green, fougere, woody, aromatic"
+1316,30s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, classic, suit, sports","white, beige, brown, pink, coral, green, mint","citrus, green, fougere, woody, aromatic"
 1317,30s,M,ESFP,good_impression,casual,"white, black",woody
-1318,20s,F,ENTP,"good_impression, self_satisfaction, date_or_social","romantic, lovely","white, black, blue","citrus, floral, white_floral, musk"
+1318,20s,F,ENTP,"good_impression, self_satisfaction, date_or_social","romantic, lovely","white, black, blue","citrus, floral, musk"
 1319,30s,F,ISFJ,"good_impression, mood_boost, date_or_social, formal_occasion","minimal, simple, romantic, lovely, modern, chic","white, black, beige, brown, blue, pink, coral, green, mint","citrus, aquatic, green, musk, oriental, woody, casual"
 1320,40s,F,ENTJ,"good_impression, self_satisfaction, unique_style","classic, suit, modern, chic","white, black, beige, brown, blue, pink, coral, green, mint","fougere, woody"
 1321,30s,M,ISFP,"good_impression, mood_boost, date_or_social, special_event","casual, minimal, simple","white, black, green, mint","citrus, aquatic, woody"
@@ -1332,7 +1332,7 @@
 1331,30s,F,ISFP,"good_impression, self_satisfaction","casual, minimal, simple, modern, chic","white, black, beige, brown","citrus, fougere, woody"
 1332,40s,M,NONE,good_impression,casual,white,casual
 1333,30s,M,ESTJ,"good_impression, self_satisfaction, unique_style","casual, classic, suit",black,"musk, woody"
-1334,20s,F,ENTJ,self_satisfaction,casual,"white, pink, coral",white_floral
+1334,20s,F,ENTJ,self_satisfaction,casual,"white, pink, coral",light_floral
 1335,40s,F,INFJ,good_impression,"casual, classic, suit","white, black","citrus, aquatic, woody, casual"
 1336,20s,F,INFP,"mood_boost, date_or_social","casual, minimal, simple","white, black, blue","light_floral, casual"
 1337,30s,M,ISTJ,self_satisfaction,"classic, suit","beige, brown, pink, coral, green, mint","green, light_floral, woody"
@@ -1350,7 +1350,7 @@
 1349,30s,F,ESFJ,"good_impression, mood_boost, self_satisfaction","casual, freestyle","white, blue, green, mint","citrus, floral, aquatic, green, light_floral, woody, aromatic, casual"
 1350,40s,M,ENFP,formal_occasion,casual,"white, black, beige, brown","aquatic, green, woody, aromatic"
 1351,30s,M,ISTJ,"good_impression, date_or_social, unique_style","casual, minimal, simple, sports, freestyle","white, black, beige, brown, green, mint","green, woody, casual"
-1352,30s,F,ISTP,"mood_boost, self_satisfaction, date_or_social, unique_style","casual, romantic, lovely, modern, chic, freestyle","white, black, beige, brown","citrus, fruity, floral, white_floral, green, light_floral, musk, woody, aromatic, casual"
+1352,30s,F,ISTP,"mood_boost, self_satisfaction, date_or_social, unique_style","casual, romantic, lovely, modern, chic, freestyle","white, black, beige, brown","citrus, fruity, floral, green, light_floral, musk, woody, aromatic, casual"
 1353,30s,M,ENTP,"good_impression, self_satisfaction, unique_style","street, classic, suit, sports","white, black, blue","citrus, green"
 1354,40s,F,ENTJ,"mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style","casual, minimal, simple, classic, suit, freestyle","white, black, purple","citrus, floral, oriental, green, woody"
 1355,40s,M,ISTJ,formal_occasion,"casual, classic, suit","white, black, beige, brown","musk, woody"
@@ -1358,15 +1358,15 @@
 1357,40s,M,NONE,good_impression,casual,black,"aquatic, musk"
 1358,30s,M,ESTJ,"good_impression, mood_boost, self_satisfaction","minimal, simple, classic, suit, modern, chic","black, beige, brown, blue","citrus, fruity, aquatic, fougere"
 1359,20s,F,ENFP,"good_impression, mood_boost, self_satisfaction","minimal, simple, romantic, lovely","pink, coral",musk
-1360,30s,M,NONE,"good_impression, mood_boost, self_satisfaction","casual, freestyle","black, blue","citrus, white_floral, woody"
+1360,30s,M,NONE,"good_impression, mood_boost, self_satisfaction","casual, freestyle","black, blue","citrus, woody"
 1361,20s,M,ENTP,"good_impression, self_satisfaction, date_or_social","casual, street","beige, brown, green, mint",woody
-1362,30s,F,ENFJ,self_satisfaction,"casual, minimal, simple, romantic, lovely","white, black, beige, brown, blue, pink, coral, red, green, mint, purple, yellow, orange","fruity, floral, white_floral, aquatic, green, light_floral, woody, aromatic"
+1362,30s,F,ENFJ,self_satisfaction,"casual, minimal, simple, romantic, lovely","white, black, beige, brown, blue, pink, coral, red, green, mint, purple, yellow, orange","fruity, floral, aquatic, green, light_floral, woody, aromatic"
 1363,20s,M,ISFJ,good_impression,"casual, minimal, simple, classic, suit","white, black, beige, brown","citrus, aquatic, green"
 1364,20s,M,ESTJ,"good_impression, self_satisfaction, date_or_social, formal_occasion, special_event","minimal, simple","white, black, blue","citrus, aquatic, musk, woody"
 1365,20s,F,ISTP,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, minimal, simple, romantic, lovely, modern, chic, freestyle","white, black, beige, brown, green, mint","citrus, fruity, oriental, green, light_floral, oriental, woody, aromatic"
 1366,30s,F,ISTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, modern, chic, freestyle","white, black, beige, brown","citrus, fruity, floral, light_floral"
 1367,30s,M,ISTP,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","casual, sports","white, black, beige, brown","citrus, green, woody"
-1368,20s,F,INFP,"good_impression, mood_boost, special_event","casual, classic, suit, romantic, lovely, freestyle","white, black, beige, brown, yellow, orange","white_floral, aquatic, green, musk, woody"
+1368,20s,F,INFP,"good_impression, mood_boost, special_event","casual, classic, suit, romantic, lovely, freestyle","white, black, beige, brown, yellow, orange","aquatic, green, musk, woody"
 1369,30s,M,NONE,"good_impression, self_satisfaction",casual,black,"fruity, oriental, woody, aromatic"
 1370,40s,F,INTJ,"mood_boost, self_satisfaction",casual,black,"aquatic, musk"
 1371,30s,F,ENTP,"good_impression, date_or_social","classic, suit, romantic, lovely","white, black, beige, brown","citrus, woody, aromatic"
@@ -1377,17 +1377,17 @@
 1376,30s,F,INFJ,"good_impression, mood_boost, unique_style","casual, classic, suit, romantic, lovely","white, beige, brown, blue, pink, coral, red","citrus, fruity, floral, aquatic, green, casual"
 1377,40s,M,ENTP,"self_satisfaction, date_or_social, formal_occasion","casual, street, sports","beige, brown","musk, fougere, woody"
 1378,30s,M,ESTJ,"good_impression, mood_boost, self_satisfaction","casual, classic, suit, romantic, lovely, vintage","white, black, beige, brown","citrus, oriental, aquatic, woody"
-1379,30s,F,ENTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event, unique_style","casual, modern, chic","black, blue, green, mint, purple","white_floral, light_floral"
+1379,30s,F,ENTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event, unique_style","casual, modern, chic","black, blue, green, mint, purple",light_floral
 1380,30s,F,ENFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, street, vintage, sports, modern, chic, freestyle","white, black, beige, brown, red, green, mint","aquatic, green, musk, woody, aromatic, casual"
 1381,40s,F,INFJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, minimal, simple, freestyle","black, beige, brown, blue, green, mint","citrus, fruity, green, light_floral"
-1382,30s,M,ISTJ,"good_impression, formal_occasion","casual, classic, suit","black, beige, brown","citrus, white_floral, oriental, woody"
+1382,30s,M,ISTJ,"good_impression, formal_occasion","casual, classic, suit","black, beige, brown","citrus, oriental, woody"
 1383,40s,F,ENFJ,"good_impression, formal_occasion","casual, classic, suit","white, black, pink, coral","citrus, floral, musk, woody"
 1384,40s,F,ENFP,unique_style,"classic, suit","white, black, beige, brown",light_floral
 1385,30s,M,ENTP,"good_impression, self_satisfaction, unique_style","classic, suit","white, gray","citrus, oriental, green, musk, casual"
 1386,30s,M,NONE,"mood_boost, self_satisfaction","casual, minimal, simple, freestyle","black, beige, brown, blue","fruity, musk, woody"
 1387,40s,M,INFP,good_impression,casual,"beige, brown","aquatic, musk, casual"
 1388,30s,M,ISTJ,self_satisfaction,"casual, street","white, black, beige, brown",musk
-1389,40s,F,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, romantic, lovely, sports, modern, chic","white, black, beige, brown, blue, pink, coral, green, mint","fruity, floral, white_floral, aquatic, light_floral, musk"
+1389,40s,F,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, romantic, lovely, sports, modern, chic","white, black, beige, brown, blue, pink, coral, green, mint","fruity, floral, aquatic, light_floral, musk"
 1390,30s,F,ISTJ,"good_impression, mood_boost, self_satisfaction",casual,"white, beige, brown","citrus, musk, woody"
 1391,40s,M,NONE,"good_impression, formal_occasion","minimal, simple",black,"aquatic, musk"
 1392,30s,F,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, romantic, lovely, sports, modern, chic","white, black, pink, coral","floral, musk, woody, aromatic"
@@ -1395,28 +1395,28 @@
 1394,30s,F,ISTJ,"good_impression, mood_boost","casual, romantic, lovely, modern, chic","black, blue, pink, coral","citrus, fruity, floral, aquatic, light_floral"
 1395,40s,M,INFJ,"good_impression, formal_occasion","classic, suit","white, black, beige, brown","aquatic, fougere"
 1396,30s,F,ISFJ,"date_or_social, formal_occasion","casual, minimal, simple, modern, chic","white, black, beige, brown","aquatic, green, casual"
-1397,30s,F,ISFJ,"mood_boost, self_satisfaction, date_or_social","minimal, simple, romantic, lovely, freestyle","white, black, beige, brown, red","floral, white_floral, light_floral, musk, woody, aromatic"
+1397,30s,F,ISFJ,"mood_boost, self_satisfaction, date_or_social","minimal, simple, romantic, lovely, freestyle","white, black, beige, brown, red","floral, light_floral, musk, woody, aromatic"
 1398,30s,M,ENFP,"self_satisfaction, date_or_social","classic, suit","black, beige, brown","floral, woody"
 1399,20s,M,ESFJ,"good_impression, mood_boost","minimal, simple",black,"aquatic, green, woody"
 1400,30s,F,ISTJ,"mood_boost, self_satisfaction, date_or_social",casual,"white, black","light_floral, musk, woody"
 1401,30s,M,ESTP,good_impression,sports,black,citrus
 1402,40s,M,INFJ,formal_occasion,"casual, street, sports, freestyle",black,"musk, woody"
-1403,30s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, minimal, simple, freestyle","white, black","citrus, fruity, white_floral, light_floral, musk, fougere, woody, aromatic"
+1403,30s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, minimal, simple, freestyle","white, black","citrus, fruity, light_floral, musk, fougere, woody, aromatic"
 1404,20s,F,ENFP,"good_impression, self_satisfaction","casual, freestyle",white,"light_floral, musk"
 1405,30s,M,ENFJ,"good_impression, formal_occasion","casual, classic, suit","white, beige, brown","aquatic, woody, casual"
 1406,20s,M,ESTJ,good_impression,"casual, minimal, simple","white, black, beige, brown","aquatic, fougere"
 1407,20s,F,ISFP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","white, black, beige, brown, blue, pink, coral, yellow, orange","light_floral, musk, woody"
 1408,30s,M,ESTJ,"good_impression, mood_boost, formal_occasion",casual,"white, beige, brown","aquatic, musk"
 1409,30s,M,ENFJ,"mood_boost, self_satisfaction","casual, minimal, simple","black, beige, brown","floral, oriental, fougere, oriental, woody"
-1410,40s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, minimal, simple, street, sports","white, black, beige, brown, blue, pink, coral","citrus, fruity, white_floral, aquatic, green, light_floral, musk"
+1410,40s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, minimal, simple, street, sports","white, black, beige, brown, blue, pink, coral","citrus, fruity, aquatic, green, light_floral, musk"
 1411,40s,M,ENFJ,good_impression,"classic, suit","black, beige, brown, blue","aquatic, fougere, woody"
 1412,20s,M,ISFP,formal_occasion,casual,"white, black","citrus, musk"
 1413,40s,M,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, freestyle",,"citrus, fruity, oriental, aquatic, green, musk, woody, casual"
 1414,50s,F,NONE,good_impression,casual,"black, blue",light_floral
 1415,30s,F,INFJ,"good_impression, self_satisfaction","casual, minimal, simple","black, blue","floral, light_floral, oriental, woody"
 1416,40s,M,INTP,good_impression,casual,"white, black, beige, brown","floral, musk"
-1417,30s,F,ESFJ,"good_impression, self_satisfaction, unique_style","classic, suit, romantic, lovely","black, pink, coral","white_floral, green, aromatic"
-1418,30s,F,ESFP,"mood_boost, self_satisfaction, unique_style","casual, minimal, simple, street, romantic, lovely, sports, freestyle","white, beige, brown, blue, pink, coral, green, mint, gray","citrus, floral, white_floral, green, musk, woody, aromatic, casual"
+1417,30s,F,ESFJ,"good_impression, self_satisfaction, unique_style","classic, suit, romantic, lovely","black, pink, coral","green, aromatic"
+1418,30s,F,ESFP,"mood_boost, self_satisfaction, unique_style","casual, minimal, simple, street, romantic, lovely, sports, freestyle","white, beige, brown, blue, pink, coral, green, mint, gray","citrus, floral, green, musk, woody, aromatic, casual"
 1419,50s,F,ENFP,date_or_social,casual,"white, blue",floral
 1420,20s,F,ESFP,"good_impression, self_satisfaction","casual, romantic, lovely, freestyle","white, blue, pink, coral","floral, aquatic, light_floral, musk"
 1421,40s,F,ENTP,"good_impression, mood_boost",freestyle,"white, black, beige, brown","musk, woody"
@@ -1436,11 +1436,11 @@
 1435,20s,F,ISTJ,"good_impression, unique_style","casual, minimal, simple","white, black, pink, coral","fruity, woody"
 1436,30s,F,ESFP,"good_impression, self_satisfaction","minimal, simple, modern, chic","white, black, red, green, mint","citrus, fruity, casual"
 1437,30s,M,ISTJ,good_impression,casual,black,"aquatic, woody"
-1438,30s,F,INFJ,"good_impression, mood_boost, self_satisfaction, date_or_social","minimal, simple, classic, suit, romantic, lovely","white, black, blue","floral, white_floral, light_floral, aromatic, casual"
+1438,30s,F,INFJ,"good_impression, mood_boost, self_satisfaction, date_or_social","minimal, simple, classic, suit, romantic, lovely","white, black, blue","floral, light_floral, aromatic, casual"
 1439,20s,M,ENTP,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","casual, minimal, simple, modern, chic, freestyle","black, beige, brown, blue, pink, coral, green, mint","fruity, green, musk, fougere, woody"
 1440,30s,F,ENFP,formal_occasion,"casual, sports, freestyle","white, black, beige, brown, pink, coral, green, mint, purple, yellow, orange",woody
-1441,30s,M,ESTJ,"good_impression, self_satisfaction",casual,"black, beige, brown","citrus, white_floral, green, woody, aromatic, casual"
-1442,40s,F,INTP,"good_impression, mood_boost, self_satisfaction","classic, suit, modern, chic, freestyle","white, black, beige, brown","citrus, white_floral, green, fougere, woody"
+1441,30s,M,ESTJ,"good_impression, self_satisfaction",casual,"black, beige, brown","citrus, green, woody, aromatic, casual"
+1442,40s,F,INTP,"good_impression, mood_boost, self_satisfaction","classic, suit, modern, chic, freestyle","white, black, beige, brown","citrus, green, fougere, woody"
 1443,40s,M,ENFJ,"good_impression, self_satisfaction, unique_style","casual, freestyle","white, black, beige, brown",aquatic
 1444,30s,M,ESTJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","white, beige, brown, green, mint","citrus, oriental, musk, fougere, woody, aromatic"
 1445,30s,M,ENFJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, classic, suit","white, black, beige, brown, blue","citrus, aquatic, musk, oriental, woody, casual"
@@ -1465,15 +1465,15 @@
 1464,40s,F,ESTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","minimal, simple, classic, suit, modern, chic","white, beige, brown, blue, pink, coral, red, green, mint, purple, yellow, orange","citrus, green, light_floral, fougere, oriental, woody"
 1465,20s,F,ENFP,"good_impression, mood_boost, date_or_social, formal_occasion","casual, minimal, simple, romantic, lovely","white, black","floral, aquatic, light_floral, casual"
 1466,30s,F,ISFP,"good_impression, self_satisfaction","casual, sports, freestyle","white, black, beige, brown","citrus, aquatic"
-1467,30s,M,ISTJ,self_satisfaction,casual,"white, black, pink, coral","fruity, floral, white_floral"
-1468,30s,M,ENTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, classic, suit","white, beige, brown, purple","white_floral, musk, woody, casual"
+1467,30s,M,ISTJ,self_satisfaction,casual,"white, black, pink, coral","fruity, floral"
+1468,30s,M,ENTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion","casual, classic, suit","white, beige, brown, purple","musk, woody, casual"
 1469,30s,F,INFP,"mood_boost, self_satisfaction","classic, suit, romantic, lovely","white, black, green, mint","citrus, green, musk"
 1470,30s,M,INFJ,"good_impression, self_satisfaction, unique_style",sports,"white, black, beige, brown",musk
 1471,40s,M,ESTJ,good_impression,casual,"black, beige, brown, blue","musk, woody"
 1472,30s,M,ENTP,"good_impression, self_satisfaction","casual, freestyle","beige, brown",woody
-1473,30s,F,ENFJ,"good_impression, mood_boost","romantic, lovely","white, black, beige, brown, pink, coral","floral, white_floral, light_floral, woody"
+1473,30s,F,ENFJ,"good_impression, mood_boost","romantic, lovely","white, black, beige, brown, pink, coral","floral, light_floral, woody"
 1474,30s,M,ESFP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, classic, suit, modern, chic, freestyle","white, black, beige, brown","citrus, fruity, floral, aquatic, green, light_floral, musk, fougere, aromatic"
-1475,30s,F,ISFJ,"good_impression, unique_style","casual, sports","white, black, purple","white_floral, light_floral, woody"
+1475,30s,F,ISFJ,"good_impression, unique_style","casual, sports","white, black, purple","light_floral, woody"
 1476,20s,M,ISFJ,good_impression,"casual, minimal, simple, classic, suit","white, black, beige, brown","citrus, floral, aquatic, woody, aromatic"
 1477,30s,M,ENFJ,"good_impression, self_satisfaction, unique_style","casual, classic, suit","white, beige, brown","citrus, woody"
 1478,30s,M,ENTJ,self_satisfaction,"casual, minimal, simple, modern, chic","black, beige, brown","citrus, floral, oriental, woody"
@@ -1496,7 +1496,7 @@
 1495,30s,M,ISTJ,"good_impression, self_satisfaction",casual,black,"green, musk, oriental, woody"
 1496,30s,F,INFP,"mood_boost, self_satisfaction",casual,"white, pink, coral","citrus, fruity, floral"
 1497,30s,F,INTP,"good_impression, unique_style","casual, minimal, simple","white, beige, brown","musk, aromatic"
-1498,30s,F,ESTJ,"good_impression, mood_boost, date_or_social","minimal, simple, classic, suit, modern, chic","white, black, blue, pink, coral","floral, white_floral, light_floral"
+1498,30s,F,ESTJ,"good_impression, mood_boost, date_or_social","minimal, simple, classic, suit, modern, chic","white, black, blue, pink, coral","floral, light_floral"
 1499,40s,M,NONE,good_impression,"casual, sports",black,"aquatic, musk, fougere, woody"
 1500,30s,M,ISTP,"good_impression, date_or_social","casual, minimal, simple, modern, chic","white, black, blue","aquatic, musk"
 1501,20s,M,ESFJ,"good_impression, mood_boost, date_or_social, formal_occasion","casual, minimal, simple","white, black, beige, brown","citrus, oriental, green, woody"
@@ -1504,18 +1504,18 @@
 1503,20s,F,ISFJ,"mood_boost, self_satisfaction","minimal, simple","white, black, beige, brown, blue","musk, woody"
 1504,20s,M,ENFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style","minimal, simple","white, black, beige, brown, blue","citrus, musk, woody"
 1505,20s,F,INTP,"mood_boost, unique_style","casual, minimal, simple","black, beige, brown","green, fougere, oriental"
-1506,20s,F,ENFP,"good_impression, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, classic, suit, vintage","black, blue","floral, white_floral, aquatic, green, light_floral, musk, woody"
+1506,20s,F,ENFP,"good_impression, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, classic, suit, vintage","black, blue","floral, aquatic, green, light_floral, musk, woody"
 1507,30s,F,INFJ,"mood_boost, self_satisfaction, date_or_social, unique_style","minimal, simple, freestyle","black, beige, brown","oriental, green, oriental, woody, aromatic"
 1508,20s,F,ISTJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, freestyle","white, pink, coral","fruity, floral, light_floral"
-1509,30s,F,INFP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","white, black, beige, brown, blue","floral, white_floral, aquatic, green, light_floral"
+1509,30s,F,INFP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","white, black, beige, brown, blue","floral, aquatic, green, light_floral"
 1510,20s,F,INTJ,"good_impression, mood_boost, self_satisfaction, formal_occasion","casual, minimal, simple","white, black, blue","citrus, fruity, floral, light_floral, aromatic"
 1511,20s,F,ISFP,"mood_boost, self_satisfaction","casual, minimal, simple, street","blue, pink, coral","citrus, fruity"
 1512,30s,M,ESFJ,"good_impression, date_or_social, formal_occasion","casual, minimal, simple, classic, suit","beige, brown, red",musk
 1513,30s,M,ESTJ,date_or_social,"casual, minimal, simple","white, black","fruity, musk"
-1514,20s,F,INFJ,self_satisfaction,"casual, minimal, simple, modern, chic","white, black, blue","citrus, white_floral, light_floral, musk, fougere, woody, aromatic, casual"
+1514,20s,F,INFJ,self_satisfaction,"casual, minimal, simple, modern, chic","white, black, blue","citrus, light_floral, musk, fougere, woody, aromatic, casual"
 1515,30s,M,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, minimal, simple, classic, suit, romantic, lovely, sports, freestyle","white, black, beige, brown, blue, pink, coral, red, green, mint","citrus, aquatic, green, light_floral, musk, fougere, woody, aromatic, casual"
-1516,30s,M,ISTJ,date_or_social,"casual, classic, suit","white, black, beige, brown","citrus, white_floral, woody, aromatic"
-1517,30s,M,ENFJ,"good_impression, self_satisfaction, date_or_social, formal_occasion","street, classic, suit, sports","black, pink, coral, green, mint","citrus, white_floral, light_floral, fougere, oriental, casual"
+1516,30s,M,ISTJ,date_or_social,"casual, classic, suit","white, black, beige, brown","citrus, woody, aromatic"
+1517,30s,M,ENFJ,"good_impression, self_satisfaction, date_or_social, formal_occasion","street, classic, suit, sports","black, pink, coral, green, mint","citrus, light_floral, fougere, oriental, casual"
 1518,30s,M,ENFP,"good_impression, mood_boost","casual, minimal, simple, street, freestyle","black, beige, brown, red","floral, oriental, woody"
 1519,40s,M,ISFJ,"good_impression, self_satisfaction","casual, classic, suit","white, black","aquatic, woody, casual"
 1520,40s,M,INTJ,good_impression,"classic, suit","black, beige, brown",casual
@@ -1533,7 +1533,7 @@
 1532,30s,M,ENTP,"good_impression, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, street, romantic, lovely",gray,"citrus, fruity, musk, fougere, woody"
 1533,40s,F,NONE,formal_occasion,"casual, classic, suit, sports, modern, chic","white, green, mint, purple","citrus, green, musk, woody"
 1534,40s,M,ENFP,"good_impression, date_or_social, formal_occasion","casual, classic, suit","white, beige, brown, blue","aquatic, musk, oriental, aromatic"
-1535,30s,F,ISFP,"mood_boost, self_satisfaction","casual, minimal, simple, freestyle","white, beige, brown, yellow, orange","citrus, white_floral, light_floral, casual"
+1535,30s,F,ISFP,"mood_boost, self_satisfaction","casual, minimal, simple, freestyle","white, beige, brown, yellow, orange","citrus, light_floral, casual"
 1536,30s,F,ENFP,"good_impression, mood_boost, date_or_social, formal_occasion","casual, romantic, lovely","white, pink, coral, yellow, orange","citrus, fruity, floral, light_floral, musk"
 1537,20s,M,ENFJ,good_impression,"classic, suit",blue,citrus
 1538,40s,F,ENFP,"good_impression, formal_occasion, unique_style","minimal, simple, classic, suit, modern, chic","white, black, blue, red","light_floral, musk"
@@ -1544,12 +1544,12 @@
 1543,30s,F,INFJ,self_satisfaction,"minimal, simple","white, blue","citrus, musk"
 1544,40s,F,ISTP,"good_impression, mood_boost, self_satisfaction","casual, romantic, lovely, modern, chic, freestyle","white, black, green, mint","green, musk, woody"
 1545,30s,M,ENTP,"good_impression, mood_boost","casual, classic, suit","white, blue","citrus, musk, casual"
-1546,30s,F,ESFJ,"good_impression, mood_boost, self_satisfaction","casual, classic, suit, romantic, lovely","white, beige, brown, pink, coral, green, mint","white_floral, musk"
+1546,30s,F,ESFJ,"good_impression, mood_boost, self_satisfaction","casual, classic, suit, romantic, lovely","white, beige, brown, pink, coral, green, mint",musk
 1547,30s,F,ISTP,self_satisfaction,"casual, minimal, simple, street","white, black, beige, brown","citrus, oriental, green, woody"
 1548,30s,M,ESTP,"good_impression, mood_boost",casual,"white, black",musk
 1549,30s,F,ISTJ,good_impression,"casual, romantic, lovely","black, pink, coral","citrus, fruity"
 1550,30s,F,ISTJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, street, modern, chic","white, black, beige, brown","citrus, aquatic, green, musk, woody"
-1551,20s,F,ENTP,self_satisfaction,"minimal, simple, romantic, lovely","white, black, blue, pink, coral, purple","floral, white_floral, musk, woody"
+1551,20s,F,ENTP,self_satisfaction,"minimal, simple, romantic, lovely","white, black, blue, pink, coral, purple","floral, musk, woody"
 1552,30s,F,ESFJ,mood_boost,"casual, minimal, simple, classic, suit, romantic, lovely","white, black, beige, brown, blue","citrus, fruity, floral, musk, woody"
 1553,20s,M,ENTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","minimal, simple, classic, suit",black,"citrus, oriental, woody"
 1554,30s,M,ISTJ,"mood_boost, self_satisfaction, date_or_social","casual, classic, suit","white, black, beige, brown","citrus, aquatic, musk, woody"
@@ -1568,29 +1568,29 @@
 1567,40s,M,ESTJ,"good_impression, self_satisfaction, unique_style","classic, suit, modern, chic, freestyle","white, black, beige, brown","citrus, aquatic, casual"
 1568,20s,F,ISTP,"good_impression, mood_boost, date_or_social","casual, minimal, simple, romantic, lovely, modern, chic","white, black, blue","citrus, aquatic, green, woody, aromatic"
 1569,40s,M,INTP,"good_impression, mood_boost","casual, minimal, simple","white, black, beige, brown, blue","light_floral, fougere, woody, aromatic"
-1570,20s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, romantic, lovely","white, pink, coral, yellow, orange","citrus, fruity, floral, white_floral, oriental, aquatic, green, light_floral, musk, fougere, woody, aromatic"
+1570,20s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, romantic, lovely","white, pink, coral, yellow, orange","citrus, fruity, floral, oriental, aquatic, green, light_floral, musk, fougere, woody, aromatic"
 1571,40s,M,ISTJ,"good_impression, date_or_social","casual, freestyle","white, black, blue, green, mint","green, musk"
-1572,20s,F,ENFP,"good_impression, mood_boost, self_satisfaction","casual, sports","white, black, beige, brown","citrus, fruity, floral, white_floral, woody, aromatic"
+1572,20s,F,ENFP,"good_impression, mood_boost, self_satisfaction","casual, sports","white, black, beige, brown","citrus, fruity, floral, woody, aromatic"
 1573,30s,F,ENTP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, sports","white, beige, brown, blue, green, mint","fruity, floral, green, musk, aromatic, casual"
 1574,20s,F,INFJ,"good_impression, mood_boost, self_satisfaction","classic, suit","white, black, beige, brown, pink, coral","fruity, floral"
 1575,30s,M,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style",casual,"black, beige, brown","oriental, woody"
 1576,40s,F,ESFP,"good_impression, mood_boost","casual, minimal, simple","white, beige, brown","citrus, fruity, floral, light_floral, musk, woody, casual"
 1577,40s,M,ENFP,"good_impression, mood_boost, self_satisfaction, unique_style",casual,"white, pink, coral, red","floral, green, light_floral"
 1578,30s,M,INTJ,good_impression,casual,red,woody
-1579,40s,F,ENTJ,"good_impression, self_satisfaction","classic, suit, romantic, lovely, modern, chic","black, blue",white_floral
+1579,40s,F,ENTJ,"good_impression, self_satisfaction","classic, suit, romantic, lovely, modern, chic","black, blue",light_floral
 1580,30s,F,ESFJ,"good_impression, mood_boost, unique_style","casual, romantic, lovely","white, pink, coral, purple","citrus, fruity, floral, casual"
 1581,40s,M,INFP,mood_boost,"street, classic, suit",black,"oriental, oriental, woody"
-1582,40s,F,ESTP,"self_satisfaction, formal_occasion","classic, suit, modern, chic","black, beige, brown, pink, coral","floral, white_floral"
+1582,40s,F,ESTP,"self_satisfaction, formal_occasion","classic, suit, modern, chic","black, beige, brown, pink, coral",floral
 1583,40s,F,INFP,mood_boost,"classic, suit",black,musk
-1584,30s,F,ESTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","classic, suit, romantic, lovely","blue, green, mint, purple, yellow, orange","fruity, floral, white_floral, green, light_floral, musk, aromatic"
-1585,30s,M,ENFP,"good_impression, mood_boost",casual,"white, black, blue, pink, coral, green, mint","floral, white_floral, woody"
+1584,30s,F,ESTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","classic, suit, romantic, lovely","blue, green, mint, purple, yellow, orange","fruity, floral, green, light_floral, musk, aromatic"
+1585,30s,M,ENFP,"good_impression, mood_boost",casual,"white, black, blue, pink, coral, green, mint","floral, woody"
 1586,30s,M,ENTP,"good_impression, mood_boost, date_or_social","casual, street, vintage","white, black","aquatic, musk"
 1587,20s,F,ESTP,self_satisfaction,"casual, minimal, simple","white, pink, coral","floral, light_floral"
 1588,30s,M,ISTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, classic, suit, freestyle",black,"oriental, woody, casual"
 1589,40s,M,ISTJ,"good_impression, date_or_social","casual, minimal, simple","white, blue","fruity, fougere"
 1590,30s,M,INFJ,"good_impression, self_satisfaction","casual, minimal, simple","black, beige, brown","citrus, musk"
 1591,20s,M,ESTJ,"good_impression, formal_occasion","casual, classic, suit","white, black","citrus, aquatic"
-1592,30s,F,ISTJ,self_satisfaction,freestyle,"white, black, beige, brown, red","fruity, white_floral, green, musk"
+1592,30s,F,ISTJ,self_satisfaction,freestyle,"white, black, beige, brown, red","fruity, green, musk"
 1593,40s,M,ENTJ,self_satisfaction,casual,"beige, brown",woody
 1594,40s,M,NONE,"good_impression, self_satisfaction, date_or_social, special_event","casual, classic, suit, freestyle","white, black, beige, brown","oriental, woody, aromatic"
 1595,40s,F,ESTJ,"mood_boost, self_satisfaction","minimal, simple, romantic, lovely","beige, brown","floral, musk"
@@ -1610,7 +1610,7 @@
 1609,30s,F,ESTJ,"self_satisfaction, formal_occasion","casual, classic, suit, modern, chic, freestyle","white, black, blue, purple","citrus, fruity, woody"
 1610,30s,M,ISTJ,"good_impression, mood_boost, date_or_social","casual, romantic, lovely, modern, chic, freestyle","white, black, blue, purple","musk, casual"
 1611,20s,F,ESTP,mood_boost,"romantic, lovely","white, pink, coral","floral, aquatic"
-1612,30s,F,ESFJ,"good_impression, self_satisfaction, date_or_social","classic, suit, romantic, lovely","white, black, pink, coral, purple","white_floral, musk, oriental, woody"
+1612,30s,F,ESFJ,"good_impression, self_satisfaction, date_or_social","classic, suit, romantic, lovely","white, black, pink, coral, purple","musk, oriental, woody"
 1613,40s,M,NONE,self_satisfaction,"casual, freestyle","black, red","musk, casual"
 1614,30s,F,ESTP,"good_impression, mood_boost","casual, minimal, simple, modern, chic","white, pink, coral, yellow, orange","citrus, aquatic, green, light_floral"
 1615,30s,F,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, minimal, simple, street","white, pink, coral, green, mint","fruity, floral, green"
@@ -1629,7 +1629,7 @@
 1628,30s,F,ISFJ,"good_impression, self_satisfaction, formal_occasion, unique_style","minimal, simple, romantic, lovely","white, black, pink, coral","floral, aquatic, light_floral, woody, aromatic, casual"
 1629,40s,M,ENFP,good_impression,casual,"black, blue","citrus, green, aromatic"
 1630,40s,M,INFJ,"good_impression, self_satisfaction","classic, suit, modern, chic",black,"musk, woody"
-1631,20s,F,ISTP,"mood_boost, self_satisfaction",casual,"white, beige, brown, pink, coral","citrus, white_floral, aquatic, light_floral, musk, woody"
+1631,20s,F,ISTP,"mood_boost, self_satisfaction",casual,"white, beige, brown, pink, coral","citrus, aquatic, light_floral, musk, woody"
 1632,40s,M,INFJ,mood_boost,"casual, classic, suit","white, beige, brown",woody
 1633,30s,M,ENTJ,good_impression,"casual, classic, suit, vintage",black,"oriental, woody"
 1634,30s,F,ESFJ,"mood_boost, self_satisfaction","minimal, simple","white, beige, brown, yellow, orange","woody, aromatic"
@@ -1641,15 +1641,15 @@
 1640,30s,M,INTJ,"good_impression, date_or_social, unique_style","casual, modern, chic","white, black, beige, brown, blue, green, mint","citrus, light_floral, musk, casual"
 1641,20s,M,INFP,"good_impression, self_satisfaction, formal_occasion","casual, minimal, simple, street, vintage","white, black, green, mint","citrus, green, musk, fougere, woody"
 1642,40s,M,ESFP,good_impression,casual,white,citrus
-1643,20s,F,ESFP,"good_impression, mood_boost, self_satisfaction","romantic, lovely, freestyle","white, black","white_floral, musk"
+1643,20s,F,ESFP,"good_impression, mood_boost, self_satisfaction","romantic, lovely, freestyle","white, black",musk
 1644,30s,F,ESTJ,"mood_boost, formal_occasion, special_event, unique_style","casual, street, romantic, lovely, vintage, freestyle","white, black, beige, brown, pink, coral",aromatic
 1645,30s,M,ISFJ,"good_impression, self_satisfaction","casual, classic, suit",black,"light_floral, woody"
 1646,30s,M,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, minimal, simple","white, black, beige, brown, blue","citrus, aquatic, musk, casual"
 1647,40s,M,ISTJ,"good_impression, self_satisfaction","casual, minimal, simple","white, black","citrus, musk"
-1648,30s,F,ISFP,"good_impression, date_or_social, formal_occasion","casual, classic, suit","white, black, beige, brown","floral, white_floral, light_floral"
+1648,30s,F,ISFP,"good_impression, date_or_social, formal_occasion","casual, classic, suit","white, black, beige, brown","floral, light_floral"
 1649,40s,F,ISTJ,formal_occasion,"minimal, simple",red,"floral, musk"
 1650,40s,M,ESFP,"good_impression, mood_boost","classic, suit",white,"citrus, aquatic"
-1651,40s,F,ESTJ,"mood_boost, self_satisfaction","casual, minimal, simple","black, beige, brown, purple","floral, white_floral, aquatic, green, woody"
+1651,40s,F,ESTJ,"mood_boost, self_satisfaction","casual, minimal, simple","black, beige, brown, purple","floral, aquatic, green, woody"
 1652,20s,F,ESTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, classic, suit, modern, chic","white, black, red",woody
 1653,40s,F,INFJ,self_satisfaction,"casual, classic, suit, freestyle","white, black, blue","citrus, musk, aromatic"
 1654,30s,M,ISTJ,good_impression,"minimal, simple","black, blue","citrus, fruity, floral"
@@ -1661,7 +1661,7 @@
 1660,30s,M,ISTJ,"good_impression, mood_boost","casual, minimal, simple, sports",white,"musk, woody, casual"
 1661,50s,M,NONE,"good_impression, self_satisfaction","casual, classic, suit","black, blue","fougere, woody, aromatic"
 1662,20s,F,INFP,"good_impression, mood_boost, self_satisfaction, unique_style","casual, minimal, simple, street, freestyle","white, black, beige, brown","citrus, oriental, aquatic, green, light_floral, musk, oriental, woody, casual"
-1663,40s,M,ENTJ,good_impression,casual,"white, black, blue","white_floral, green, aromatic"
+1663,40s,M,ENTJ,good_impression,casual,"white, black, blue","green, aromatic"
 1664,30s,F,INTJ,"good_impression, mood_boost, self_satisfaction, formal_occasion","casual, minimal, simple, classic, suit","white, black, beige, brown","citrus, floral, aquatic, green, musk, aromatic, casual"
 1665,30s,M,ESTP,"good_impression, self_satisfaction, date_or_social, formal_occasion","casual, minimal, simple, freestyle","black, beige, brown","citrus, aquatic, musk, woody"
 1666,30s,M,ESTJ,"good_impression, self_satisfaction","casual, classic, suit","white, black, beige, brown","woody, casual"
@@ -1698,14 +1698,14 @@
 1697,20s,F,ISTJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","white, black","citrus, casual"
 1698,50s,M,INFJ,self_satisfaction,"classic, suit",blue,"floral, musk"
 1699,30s,M,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, classic, suit, modern, chic","white, black, beige, brown","musk, woody"
-1700,30s,F,INFP,"good_impression, mood_boost, date_or_social, special_event, unique_style","casual, classic, suit, romantic, lovely, modern, chic","white, beige, brown, green, mint, yellow, orange","citrus, white_floral, aquatic, green, woody, aromatic"
+1700,30s,F,INFP,"good_impression, mood_boost, date_or_social, special_event, unique_style","casual, classic, suit, romantic, lovely, modern, chic","white, beige, brown, green, mint, yellow, orange","citrus, aquatic, green, woody, aromatic"
 1701,20s,F,ISFJ,"good_impression, mood_boost, date_or_social",casual,"white, beige, brown, green, mint, yellow, orange","fruity, woody"
-1702,20s,F,ESTP,"good_impression, mood_boost, self_satisfaction, formal_occasion","casual, minimal, simple, classic, suit","black, blue, green, mint","citrus, floral, white_floral, musk"
+1702,20s,F,ESTP,"good_impression, mood_boost, self_satisfaction, formal_occasion","casual, minimal, simple, classic, suit","black, blue, green, mint","citrus, floral, musk"
 1703,40s,F,INFP,mood_boost,"classic, suit, romantic, lovely","white, black",oriental
 1704,30s,M,ISTJ,"good_impression, self_satisfaction","casual, classic, suit","white, blue, red","citrus, green, musk"
 1705,40s,M,NONE,"mood_boost, self_satisfaction","casual, classic, suit, sports, freestyle","black, red, green, mint, purple",woody
 1706,40s,F,ESFJ,"good_impression, mood_boost","minimal, simple",black,"citrus, woody"
-1707,40s,M,ENTP,"good_impression, self_satisfaction","classic, suit",black,"floral, white_floral, oriental"
+1707,40s,M,ENTP,"good_impression, self_satisfaction","classic, suit",black,"floral, oriental"
 1708,40s,M,INTJ,"good_impression, date_or_social, special_event",casual,"white, green, mint",aquatic
 1709,30s,F,ENFP,"good_impression, self_satisfaction",casual,"white, black, blue, green, mint, purple","fougere, woody, aromatic"
 1710,40s,M,ISTP,"good_impression, mood_boost","modern, chic","black, beige, brown, blue","aquatic, musk, woody"
@@ -1722,7 +1722,7 @@
 1721,30s,F,INFJ,"mood_boost, self_satisfaction, unique_style","casual, minimal, simple","blue, red","citrus, floral, light_floral"
 1722,30s,M,ESTJ,"good_impression, mood_boost, self_satisfaction, special_event","casual, minimal, simple, modern, chic","white, beige, brown, blue",aquatic
 1723,40s,M,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event","casual, classic, suit, romantic, lovely","black, blue","citrus, green, casual"
-1724,30s,F,ISFP,"good_impression, self_satisfaction","casual, minimal, simple","white, black, beige, brown, blue","citrus, fruity, floral, white_floral, aquatic, green, light_floral, musk, casual"
+1724,30s,F,ISFP,"good_impression, self_satisfaction","casual, minimal, simple","white, black, beige, brown, blue","citrus, fruity, floral, aquatic, green, light_floral, musk, casual"
 1725,30s,M,INFJ,"good_impression, self_satisfaction","casual, modern, chic","white, black, beige, brown, blue","citrus, aquatic, green, musk, woody"
 1726,30s,F,ESTJ,"mood_boost, self_satisfaction","casual, minimal, simple","beige, brown","aquatic, green, woody"
 1727,40s,M,ESFJ,"good_impression, date_or_social","casual, classic, suit, freestyle","black, red","green, musk, fougere"
@@ -1737,20 +1737,20 @@
 1736,20s,M,ENTJ,self_satisfaction,casual,"white, blue","citrus, fruity, green"
 1737,40s,F,ESFJ,good_impression,"classic, suit, modern, chic","white, black, beige, brown","aquatic, aromatic"
 1738,30s,F,ESTP,"good_impression, mood_boost, self_satisfaction, date_or_social","classic, suit, modern, chic","white, black, beige, brown, blue","citrus, aquatic, green, light_floral, musk, fougere"
-1739,30s,M,ESFJ,"good_impression, date_or_social, special_event","casual, minimal, simple","white, black, beige, brown, blue, green, mint, yellow, orange","citrus, fruity, floral, white_floral, oriental, aquatic, green, light_floral, musk, fougere, oriental, woody, aromatic, casual"
-1740,20s,F,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event","casual, classic, suit, romantic, lovely","white, pink, coral, yellow, orange","citrus, floral, white_floral, light_floral, woody, aromatic"
+1739,30s,M,ESFJ,"good_impression, date_or_social, special_event","casual, minimal, simple","white, black, beige, brown, blue, green, mint, yellow, orange","citrus, fruity, floral, oriental, aquatic, green, light_floral, musk, fougere, oriental, woody, aromatic, casual"
+1740,20s,F,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event","casual, classic, suit, romantic, lovely","white, pink, coral, yellow, orange","citrus, floral, light_floral, woody, aromatic"
 1741,30s,F,INFP,"good_impression, mood_boost","modern, chic","blue, green, mint","aquatic, green, woody"
 1742,50s,M,NONE,good_impression,casual,black,aquatic
 1743,20s,F,ESFJ,"mood_boost, date_or_social, formal_occasion","romantic, lovely","beige, brown, blue, purple","aquatic, musk"
 1744,40s,M,ENTP,"self_satisfaction, formal_occasion","street, sports","blue, green, mint","oriental, woody"
 1745,30s,M,ISFJ,"date_or_social, formal_occasion","casual, modern, chic","beige, brown, blue, green, mint","aquatic, light_floral, musk"
 1746,40s,M,ISFP,good_impression,casual,"white, black, blue","citrus, aquatic, casual"
-1747,40s,F,ESTJ,"mood_boost, special_event","minimal, simple, classic, suit","black, beige, brown","white_floral, musk"
+1747,40s,F,ESTJ,"mood_boost, special_event","minimal, simple, classic, suit","black, beige, brown",musk
 1748,20s,M,ISTJ,self_satisfaction,casual,"black, blue",musk
 1749,30s,F,ISFP,"good_impression, mood_boost, self_satisfaction","minimal, simple, romantic, lovely","white, beige, brown","woody, casual"
 1750,30s,F,ISFJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, romantic, lovely","white, black, beige, brown","citrus, musk"
-1751,40s,M,ENTP,"mood_boost, self_satisfaction","classic, suit","black, blue","white_floral, light_floral, musk"
-1752,40s,F,INFP,"self_satisfaction, formal_occasion, unique_style","minimal, simple, modern, chic","black, beige, brown","floral, white_floral, musk"
+1751,40s,M,ENTP,"mood_boost, self_satisfaction","classic, suit","black, blue","light_floral, musk"
+1752,40s,F,INFP,"self_satisfaction, formal_occasion, unique_style","minimal, simple, modern, chic","black, beige, brown","floral, musk"
 1753,30s,F,ESFJ,"good_impression, mood_boost, self_satisfaction, unique_style",casual,"beige, brown, green, mint","citrus, green, aromatic"
 1754,30s,M,ESTP,"good_impression, mood_boost","casual, street","white, black, blue, green, mint","aquatic, green, woody"
 1755,20s,M,ESTJ,"good_impression, self_satisfaction, date_or_social","minimal, simple, classic, suit","white, black, beige, brown","citrus, aquatic, woody"
@@ -1761,8 +1761,8 @@
 1760,30s,M,ENFJ,good_impression,casual,"white, black, beige, brown","citrus, light_floral, woody"
 1761,30s,M,ISTJ,date_or_social,"minimal, simple",black,"aquatic, woody"
 1762,20s,M,ESTP,good_impression,casual,"white, black, beige, brown, blue",musk
-1763,40s,F,ESTJ,"good_impression, formal_occasion, special_event","casual, minimal, simple, modern, chic, freestyle","white, black, beige, brown, blue, pink, coral","floral, white_floral, green, casual"
-1764,20s,F,ESFJ,"self_satisfaction, date_or_social, special_event","casual, minimal, simple","white, black, blue","floral, white_floral, green, light_floral"
+1763,40s,F,ESTJ,"good_impression, formal_occasion, special_event","casual, minimal, simple, modern, chic, freestyle","white, black, beige, brown, blue, pink, coral","floral, green, casual"
+1764,20s,F,ESFJ,"self_satisfaction, date_or_social, special_event","casual, minimal, simple","white, black, blue","floral, green, light_floral"
 1765,20s,M,INTP,"good_impression, unique_style","minimal, simple, freestyle","white, black, blue","green, oriental, woody"
 1766,30s,M,INFP,self_satisfaction,"casual, minimal, simple","white, black","floral, aquatic, green, musk, woody"
 1767,20s,F,ESTP,self_satisfaction,"minimal, simple, modern, chic, freestyle","white, black, pink, coral, green, mint","floral, green, woody"
@@ -1775,7 +1775,7 @@
 1774,30s,M,ENFP,"good_impression, mood_boost, self_satisfaction, unique_style","casual, street, sports, freestyle","white, black, beige, brown","green, light_floral, musk, fougere, oriental, woody, casual"
 1775,20s,M,ISFJ,"mood_boost, self_satisfaction",casual,black,"woody, aromatic"
 1776,20s,F,ISFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event","classic, suit, romantic, lovely","white, beige, brown, pink, coral","floral, fougere, woody"
-1777,30s,F,ENFJ,"good_impression, date_or_social, formal_occasion, unique_style","minimal, simple, classic, suit","white, black, beige, brown, blue","citrus, fruity, floral, white_floral, light_floral, casual"
+1777,30s,F,ENFJ,"good_impression, date_or_social, formal_occasion, unique_style","minimal, simple, classic, suit","white, black, beige, brown, blue","citrus, fruity, floral, light_floral, casual"
 1778,30s,M,ISFJ,"good_impression, self_satisfaction, unique_style","casual, street, sports",black,"aquatic, green, musk, woody, casual"
 1779,30s,F,INTP,mood_boost,"casual, minimal, simple, classic, suit, romantic, lovely","white, black, blue, red, green, mint","citrus, green, light_floral, fougere, woody, aromatic"
 1780,40s,M,ESFJ,"mood_boost, date_or_social","classic, suit","black, beige, brown","aquatic, light_floral"
@@ -1793,14 +1793,14 @@
 1792,30s,F,ESTJ,"good_impression, mood_boost, self_satisfaction","modern, chic, freestyle","white, black, pink, coral","green, musk"
 1793,40s,M,INFP,"good_impression, mood_boost, self_satisfaction, date_or_social, unique_style","casual, street, sports, modern, chic, freestyle","white, black, beige, brown, green, mint","citrus, aquatic, musk, oriental, woody, casual"
 1794,20s,F,ISFJ,good_impression,"romantic, lovely","white, black, beige, brown, pink, coral, green, mint",citrus
-1795,20s,F,ENFJ,"good_impression, date_or_social","minimal, simple, classic, suit, romantic, lovely","white, black, beige, brown, pink, coral","fruity, floral, white_floral, light_floral, casual"
+1795,20s,F,ENFJ,"good_impression, date_or_social","minimal, simple, classic, suit, romantic, lovely","white, black, beige, brown, pink, coral","fruity, floral, light_floral, casual"
 1796,20s,M,INFJ,formal_occasion,casual,"black, beige, brown","fruity, floral"
 1797,40s,M,ENTJ,"self_satisfaction, formal_occasion","casual, classic, suit","black, blue, purple","citrus, musk"
 1798,30s,M,ISTP,"good_impression, special_event",casual,"white, black, beige, brown, blue, red","citrus, floral, musk, aromatic, casual"
-1799,20s,F,ESTP,"self_satisfaction, date_or_social, unique_style","casual, romantic, lovely, freestyle","white, black, yellow, orange","citrus, fruity, floral, white_floral, green, light_floral"
+1799,20s,F,ESTP,"self_satisfaction, date_or_social, unique_style","casual, romantic, lovely, freestyle","white, black, yellow, orange","citrus, fruity, floral, green, light_floral"
 1800,40s,M,ISFJ,good_impression,casual,"white, black",citrus
 1801,40s,M,ISTJ,"good_impression, self_satisfaction, unique_style","casual, minimal, simple","white, black, beige, brown","aquatic, musk, woody, casual"
-1802,20s,F,ESTJ,"mood_boost, self_satisfaction, date_or_social, special_event","casual, minimal, simple, freestyle","white, beige, brown","citrus, white_floral, green, light_floral"
+1802,20s,F,ESTJ,"mood_boost, self_satisfaction, date_or_social, special_event","casual, minimal, simple, freestyle","white, beige, brown","citrus, green, light_floral"
 1803,20s,M,ENFP,"mood_boost, self_satisfaction","casual, minimal, simple, street",black,woody
 1804,30s,M,ISTJ,"good_impression, mood_boost, formal_occasion","casual, minimal, simple, sports","white, black, beige, brown","musk, woody, casual"
 1805,40s,F,NONE,mood_boost,freestyle,"beige, brown, blue, pink, coral, green, mint","floral, aquatic, casual"
@@ -1812,22 +1812,22 @@
 1811,30s,M,ENTJ,"good_impression, mood_boost",casual,"white, black","green, woody"
 1812,30s,M,INTP,"good_impression, mood_boost, date_or_social",casual,"white, black, beige, brown","floral, musk, aromatic"
 1813,20s,F,INFJ,good_impression,"vintage, freestyle","beige, brown, blue, yellow, orange","fruity, oriental, light_floral, fougere, oriental, woody, aromatic"
-1814,30s,F,ESTJ,"mood_boost, self_satisfaction, date_or_social","casual, minimal, simple","white, pink, coral, red","floral, white_floral, musk, woody"
-1815,20s,F,ESTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, romantic, lovely, vintage","white, black, blue, pink, coral","citrus, floral, white_floral, aquatic, green, light_floral, musk, oriental, woody, aromatic"
+1814,30s,F,ESTJ,"mood_boost, self_satisfaction, date_or_social","casual, minimal, simple","white, pink, coral, red","floral, musk, woody"
+1815,20s,F,ESTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style","casual, minimal, simple, romantic, lovely, vintage","white, black, blue, pink, coral","citrus, floral, aquatic, green, light_floral, musk, oriental, woody, aromatic"
 1816,20s,M,ISTP,"good_impression, mood_boost, self_satisfaction","casual, modern, chic, freestyle","white, beige, brown, blue, purple","floral, woody"
 1817,30s,F,ESTJ,"good_impression, mood_boost, self_satisfaction, formal_occasion, unique_style","casual, classic, suit, modern, chic, freestyle","white, black, green, mint","citrus, musk, woody"
 1818,30s,M,INTJ,"good_impression, date_or_social","casual, minimal, simple","white, black, beige, brown, green, mint","citrus, oriental, aquatic, oriental, woody"
 1819,30s,M,ESFJ,"good_impression, self_satisfaction","casual, classic, suit, freestyle","white, black, blue, red","green, musk, woody"
 1820,40s,M,ESTJ,"good_impression, mood_boost, self_satisfaction","classic, suit, sports, modern, chic","white, black","fruity, oriental, oriental"
-1821,30s,F,ENFJ,"good_impression, mood_boost, self_satisfaction","casual, romantic, lovely","beige, brown, blue, pink, coral, green, mint, purple, yellow, orange","citrus, fruity, floral, white_floral"
+1821,30s,F,ENFJ,"good_impression, mood_boost, self_satisfaction","casual, romantic, lovely","beige, brown, blue, pink, coral, green, mint, purple, yellow, orange","citrus, fruity, floral"
 1822,20s,F,ISFP,"mood_boost, self_satisfaction, formal_occasion","casual, minimal, simple, vintage, sports, modern, chic, freestyle","white, black, beige, brown","citrus, green, woody"
 1823,40s,M,NONE,good_impression,"casual, classic, suit","white, black, blue, green, mint",citrus
 1824,20s,M,INTP,"good_impression, formal_occasion","modern, chic","white, black, beige, brown, blue","woody, casual"
 1825,30s,M,ENFJ,"good_impression, mood_boost, self_satisfaction",casual,"white, black, beige, brown, blue, green, mint",musk
 1826,20s,F,ESTJ,"mood_boost, date_or_social","casual, romantic, lovely","white, black","fruity, aquatic, musk, oriental, woody"
 1827,40s,M,NONE,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, street, modern, chic","black, beige, brown","oriental, aquatic, woody, casual"
-1828,30s,M,ISFP,"good_impression, mood_boost, self_satisfaction","casual, street, sports","white, black, blue, red","citrus, floral, white_floral, aquatic, green, light_floral, musk, woody"
-1829,40s,M,ENTJ,good_impression,casual,"white, black, blue, purple","citrus, white_floral, musk, woody"
+1828,30s,M,ISFP,"good_impression, mood_boost, self_satisfaction","casual, street, sports","white, black, blue, red","citrus, floral, aquatic, green, light_floral, musk, woody"
+1829,40s,M,ENTJ,good_impression,casual,"white, black, blue, purple","citrus, musk, woody"
 1830,30s,F,ESFJ,"good_impression, self_satisfaction","minimal, simple","white, black, beige, brown","citrus, fruity"
 1831,30s,F,INFP,"mood_boost, self_satisfaction","casual, minimal, simple, sports","black, pink, coral, green, mint","citrus, fruity, aquatic"
 1832,40s,F,ESFP,good_impression,"casual, classic, suit","white, black","citrus, floral, musk, woody"
@@ -1847,16 +1847,16 @@
 1846,20s,F,ESFP,"good_impression, self_satisfaction","casual, street, sports","white, black, blue","light_floral, woody, aromatic, casual"
 1847,20s,F,ISTJ,"good_impression, mood_boost, self_satisfaction","minimal, simple, classic, suit, modern, chic, freestyle","white, black, blue, red, purple","green, musk, woody"
 1848,20s,F,ISFP,"good_impression, mood_boost, self_satisfaction, unique_style",freestyle,"black, beige, brown","musk, woody"
-1849,30s,F,ESFP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style",casual,"white, black, beige, brown","citrus, fruity, floral, white_floral, aquatic, musk"
+1849,30s,F,ESFP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event, unique_style",casual,"white, black, beige, brown","citrus, fruity, floral, aquatic, musk"
 1850,30s,M,ISTJ,"good_impression, mood_boost","casual, street","white, black","floral, aquatic"
 1851,20s,M,ENTJ,"good_impression, date_or_social, formal_occasion, special_event","casual, street","white, black, beige, brown, blue, green, mint","aquatic, green"
-1852,40s,F,ENFP,"good_impression, formal_occasion","casual, minimal, simple","black, blue, green, mint","citrus, white_floral"
+1852,40s,F,ENFP,"good_impression, formal_occasion","casual, minimal, simple","black, blue, green, mint",citrus
 1853,30s,M,ISFP,"good_impression, special_event","casual, classic, suit, modern, chic","white, black, beige, brown","aquatic, musk, fougere, woody, casual"
 1854,30s,M,ESTJ,good_impression,"casual, classic, suit","black, green, mint, purple","oriental, aquatic, musk"
 1855,20s,F,ISTP,"mood_boost, self_satisfaction",casual,"white, beige, brown",casual
 1856,20s,M,INTJ,"good_impression, self_satisfaction, unique_style",freestyle,"black, red",musk
 1857,30s,M,ISTP,"mood_boost, self_satisfaction","classic, suit","white, beige, brown, blue","citrus, green, woody"
-1858,20s,F,ISTJ,self_satisfaction,"casual, freestyle","white, black, beige, brown","white_floral, musk, oriental, woody"
+1858,20s,F,ISTJ,self_satisfaction,"casual, freestyle","white, black, beige, brown","musk, oriental, woody"
 1859,40s,F,ISFP,"mood_boost, self_satisfaction","casual, vintage, freestyle","red, green, mint, yellow, orange","citrus, green, woody"
 1860,20s,F,INTP,"good_impression, self_satisfaction",freestyle,white,"aquatic, green, light_floral, woody"
 1861,20s,F,ISFP,"mood_boost, self_satisfaction, date_or_social",casual,"white, black, blue, green, mint, purple","aquatic, green, musk, fougere, woody, casual"
@@ -1865,23 +1865,23 @@
 1864,30s,M,ISTJ,date_or_social,"casual, classic, suit","black, beige, brown","oriental, woody"
 1865,30s,M,ESFJ,"mood_boost, self_satisfaction",casual,"white, black","oriental, woody"
 1866,30s,F,ISTJ,"mood_boost, formal_occasion",freestyle,"white, beige, brown, blue, pink, coral","citrus, light_floral, woody"
-1867,30s,M,ISFP,"good_impression, date_or_social","casual, minimal, simple","white, black, beige, brown","white_floral, green, woody"
+1867,30s,M,ISFP,"good_impression, date_or_social","casual, minimal, simple","white, black, beige, brown","green, woody"
 1868,30s,M,ESFJ,"good_impression, self_satisfaction","minimal, simple","black, beige, brown",casual
 1869,30s,F,INFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion",freestyle,"beige, brown, pink, coral, red, green, mint, purple, yellow, orange","citrus, green, woody, aromatic"
-1870,30s,F,INFP,"good_impression, mood_boost, self_satisfaction, formal_occasion, unique_style","minimal, simple, classic, suit, romantic, lovely, modern, chic","white, black, beige, brown","fruity, floral, white_floral, aquatic, light_floral"
+1870,30s,F,INFP,"good_impression, mood_boost, self_satisfaction, formal_occasion, unique_style","minimal, simple, classic, suit, romantic, lovely, modern, chic","white, black, beige, brown","fruity, floral, aquatic, light_floral"
 1871,20s,M,ESFJ,good_impression,casual,"green, mint","citrus, aquatic, musk"
 1872,30s,F,INFP,"good_impression, mood_boost","casual, minimal, simple, street","white, pink, coral, green, mint, purple","woody, casual"
 1873,30s,F,INFP,good_impression,"casual, minimal, simple, sports","white, black","fougere, woody, casual"
 1874,40s,F,ENFP,"good_impression, mood_boost, self_satisfaction, unique_style","classic, suit, modern, chic, freestyle","black, beige, brown, blue","citrus, green, light_floral, aromatic, casual"
 1875,40s,F,ESTJ,"date_or_social, formal_occasion, special_event","minimal, simple, classic, suit","white, beige, brown, pink, coral","citrus, fruity, light_floral"
-1876,30s,F,ISFP,"good_impression, self_satisfaction","casual, classic, suit, romantic, lovely","white, black, beige, brown","fruity, floral, white_floral, aquatic, light_floral, casual"
+1876,30s,F,ISFP,"good_impression, self_satisfaction","casual, classic, suit, romantic, lovely","white, black, beige, brown","fruity, floral, aquatic, light_floral, casual"
 1877,30s,M,ESFJ,"good_impression, date_or_social","casual, classic, suit","white, black",musk
-1878,40s,M,INTJ,"good_impression, mood_boost","minimal, simple, classic, suit","white, black","white_floral, light_floral"
-1879,40s,F,INTJ,good_impression,"minimal, simple","white, black","fruity, white_floral"
+1878,40s,M,INTJ,"good_impression, mood_boost","minimal, simple, classic, suit","white, black",light_floral
+1879,40s,F,INTJ,good_impression,"minimal, simple","white, black",fruity
 1880,30s,M,INTJ,"good_impression, self_satisfaction, date_or_social","casual, minimal, simple, modern, chic","white, black, beige, brown, blue","citrus, fruity, aquatic, woody"
 1881,30s,F,ISFP,"mood_boost, self_satisfaction","minimal, simple, romantic, lovely, modern, chic","beige, brown, yellow, orange","citrus, fruity, floral"
 1882,30s,M,INTP,formal_occasion,"minimal, simple, classic, suit","green, mint","green, oriental, woody"
-1883,40s,F,NONE,"mood_boost, self_satisfaction","classic, suit, modern, chic","beige, brown, blue, green, mint","citrus, floral, white_floral, light_floral"
+1883,40s,F,NONE,"mood_boost, self_satisfaction","classic, suit, modern, chic","beige, brown, blue, green, mint","citrus, floral, light_floral"
 1884,40s,M,ENFP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, street, classic, suit, sports","white, beige, brown, blue","citrus, oriental, aquatic, green, musk"
 1885,30s,M,INTP,good_impression,"classic, suit","black, beige, brown",fougere
 1886,20s,F,ISTP,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, street","black, beige, brown, blue","oriental, musk, woody"
@@ -1895,10 +1895,10 @@
 1894,30s,F,ISTP,"good_impression, mood_boost, self_satisfaction","casual, vintage, sports, modern, chic","white, black, blue, purple","aquatic, green, musk, woody, casual"
 1895,20s,F,ISFJ,"mood_boost, self_satisfaction","casual, classic, suit, freestyle","white, black, beige, brown, blue","aquatic, musk, casual"
 1896,30s,M,ISTJ,"good_impression, self_satisfaction","minimal, simple, street","white, black, blue","citrus, green, musk"
-1897,30s,F,ESTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event","casual, classic, suit, romantic, lovely, modern, chic","white, beige, brown, green, mint, purple, yellow, orange","citrus, floral, white_floral, aquatic, light_floral, aromatic, casual"
+1897,30s,F,ESTJ,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, special_event","casual, classic, suit, romantic, lovely, modern, chic","white, beige, brown, green, mint, purple, yellow, orange","citrus, floral, aquatic, light_floral, aromatic, casual"
 1898,40s,M,NONE,good_impression,casual,"white, black",musk
 1899,40s,M,ENFJ,"good_impression, self_satisfaction, unique_style","casual, sports","white, black, beige, brown","floral, musk"
-1900,30s,M,ESTP,self_satisfaction,"casual, street, classic, suit","white, black, yellow, orange","citrus, white_floral, musk"
+1900,30s,M,ESTP,self_satisfaction,"casual, street, classic, suit","white, black, yellow, orange","citrus, musk"
 1901,30s,M,ENTJ,self_satisfaction,casual,"white, beige, brown, blue","aquatic, green"
 1902,20s,F,ISTP,"mood_boost, date_or_social","casual, street",black,"citrus, aquatic, light_floral, musk"
 1903,30s,M,INTJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, minimal, simple, street, sports, freestyle","white, black, red","citrus, fruity, aquatic, green, oriental"
@@ -1911,11 +1911,11 @@
 1910,20s,F,ISTJ,"good_impression, self_satisfaction, date_or_social, formal_occasion, unique_style","casual, minimal, simple, romantic, lovely","white, black, blue, pink, coral","citrus, fruity, aquatic, musk, woody"
 1911,20s,M,INFJ,mood_boost,casual,white,citrus
 1912,30s,M,ESTP,good_impression,casual,"white, black, green, mint","citrus, green, musk"
-1913,30s,M,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event","casual, classic, suit","white, black, beige, brown","citrus, floral, white_floral, musk, fougere, aromatic"
+1913,30s,M,ESFJ,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event","casual, classic, suit","white, black, beige, brown","citrus, floral, musk, fougere, aromatic"
 1914,40s,M,ISTJ,good_impression,"casual, classic, suit","white, beige, brown, blue","fruity, aquatic, green, musk, woody"
 1915,30s,M,ESFJ,"good_impression, self_satisfaction, formal_occasion","casual, classic, suit","white, black, blue, green, mint","aquatic, musk, casual"
 1916,20s,F,ENTJ,"good_impression, mood_boost, self_satisfaction, date_or_social","casual, romantic, lovely, modern, chic","black, pink, coral","floral, woody, casual"
-1917,40s,F,ESFP,"mood_boost, self_satisfaction","minimal, simple, classic, suit","white, black, beige, brown","fruity, floral, white_floral, light_floral, aromatic"
+1917,40s,F,ESFP,"mood_boost, self_satisfaction","minimal, simple, classic, suit","white, black, beige, brown","fruity, floral, light_floral, aromatic"
 1918,40s,M,ESFJ,"good_impression, date_or_social","casual, classic, suit","white, black","aquatic, musk"
 1919,40s,M,INTP,self_satisfaction,casual,"white, beige, brown, green, mint",woody
 1920,30s,F,ESFJ,"good_impression, mood_boost, self_satisfaction","casual, classic, suit","white, black, beige, brown","green, woody"
@@ -1930,7 +1930,7 @@
 1929,20s,F,ESTJ,"good_impression, self_satisfaction","casual, classic, suit","white, black","floral, green, woody, aromatic"
 1930,30s,M,ESFJ,"good_impression, self_satisfaction","casual, modern, chic","black, beige, brown, blue, green, mint","citrus, musk"
 1931,20s,M,NONE,"good_impression, mood_boost, self_satisfaction","casual, street, classic, suit, sports, freestyle",black,"aquatic, casual"
-1932,30s,F,ISFP,"good_impression, self_satisfaction","minimal, simple, classic, suit, freestyle","black, beige, brown, green, mint","white_floral, musk, woody"
+1932,30s,F,ISFP,"good_impression, self_satisfaction","minimal, simple, classic, suit, freestyle","black, beige, brown, green, mint","musk, woody"
 1933,30s,F,INFJ,"good_impression, self_satisfaction, date_or_social","casual, minimal, simple, classic, suit","white, black, beige, brown, pink, coral, yellow, orange","citrus, floral, aromatic"
 1934,30s,M,NONE,"good_impression, self_satisfaction","casual, classic, suit, modern, chic, freestyle","black, beige, brown, blue","citrus, aquatic, oriental, casual"
 1935,40s,M,ESTJ,"good_impression, formal_occasion","casual, classic, suit","white, black, beige, brown","citrus, musk"
@@ -1942,8 +1942,8 @@
 1941,30s,F,ISTJ,self_satisfaction,"casual, freestyle","white, black, blue, green, mint","citrus, green, fougere, woody"
 1942,20s,M,ENTJ,"good_impression, mood_boost, date_or_social, formal_occasion","casual, minimal, simple, street, classic, suit, modern, chic","white, black, beige, brown, blue, red","citrus, oriental, musk, oriental, woody, casual"
 1943,30s,M,ESTP,"good_impression, self_satisfaction, date_or_social","minimal, simple, modern, chic","white, black","citrus, musk, woody"
-1944,30s,F,ESFP,"mood_boost, self_satisfaction, formal_occasion","casual, minimal, simple, modern, chic, freestyle","white, blue, pink, coral","white_floral, aquatic, green, woody, casual"
-1945,30s,M,ENFP,"good_impression, date_or_social, formal_occasion, unique_style","casual, minimal, simple, modern, chic, freestyle","white, beige, brown, green, mint, yellow, orange","citrus, fruity, floral, white_floral, oriental, light_floral, fougere, oriental, aromatic"
+1944,30s,F,ESFP,"mood_boost, self_satisfaction, formal_occasion","casual, minimal, simple, modern, chic, freestyle","white, blue, pink, coral","aquatic, green, woody, casual"
+1945,30s,M,ENFP,"good_impression, date_or_social, formal_occasion, unique_style","casual, minimal, simple, modern, chic, freestyle","white, beige, brown, green, mint, yellow, orange","citrus, fruity, floral, oriental, light_floral, fougere, oriental, aromatic"
 1946,30s,M,ESFJ,"good_impression, mood_boost, self_satisfaction","minimal, simple","white, black, beige, brown, blue, green, mint","citrus, fruity, aquatic, green, woody"
 1947,40s,M,ESTJ,self_satisfaction,"vintage, sports","white, black","musk, woody"
 1948,40s,M,NONE,"good_impression, mood_boost, date_or_social, formal_occasion",casual,"white, blue","floral, aquatic, green, musk, casual"
@@ -1955,8 +1955,8 @@
 1954,30s,F,ISTJ,"good_impression, mood_boost, self_satisfaction, formal_occasion","casual, minimal, simple, classic, suit","black, beige, brown, blue, green, mint","citrus, green, light_floral, woody"
 1955,30s,M,ISTJ,self_satisfaction,"romantic, lovely","pink, coral",citrus
 1956,30s,F,ESTJ,"good_impression, mood_boost, self_satisfaction","minimal, simple, classic, suit, romantic, lovely, modern, chic","white, blue","aquatic, musk, casual"
-1957,20s,F,ISTJ,"mood_boost, self_satisfaction",casual,"white, pink, coral","white_floral, musk"
-1958,30s,F,INTJ,"good_impression, mood_boost, self_satisfaction, formal_occasion, unique_style","classic, suit, romantic, lovely","white, black, beige, brown, purple","floral, white_floral, light_floral, woody, aromatic, casual"
+1957,20s,F,ISTJ,"mood_boost, self_satisfaction",casual,"white, pink, coral",musk
+1958,30s,F,INTJ,"good_impression, mood_boost, self_satisfaction, formal_occasion, unique_style","classic, suit, romantic, lovely","white, black, beige, brown, purple","floral, light_floral, woody, aromatic, casual"
 1959,30s,F,ENFP,"self_satisfaction, date_or_social, formal_occasion",freestyle,"white, black, beige, brown, blue","citrus, fruity, floral, aquatic, light_floral, casual"
 1960,30s,F,ENTJ,"mood_boost, self_satisfaction",casual,"white, black, pink, coral","light_floral, musk, oriental, casual"
 1961,30s,M,INFP,"good_impression, self_satisfaction","casual, classic, suit","white, black, beige, brown","musk, oriental, woody"
@@ -1965,13 +1965,13 @@
 1964,30s,F,ISTJ,"mood_boost, self_satisfaction, date_or_social","casual, romantic, lovely","white, black, beige, brown, pink, coral","citrus, light_floral, casual"
 1965,20s,F,ENFP,"mood_boost, self_satisfaction","casual, street, vintage","white, black","musk, casual"
 1966,30s,M,INFP,self_satisfaction,"street, freestyle",black,woody
-1967,30s,F,ISFP,"good_impression, self_satisfaction, unique_style","casual, classic, suit","white, black, beige, brown","white_floral, musk, woody, aromatic"
+1967,30s,F,ISFP,"good_impression, self_satisfaction, unique_style","casual, classic, suit","white, black, beige, brown","musk, woody, aromatic"
 1968,30s,F,ENFJ,"good_impression, formal_occasion","casual, modern, chic","black, blue","citrus, musk, casual"
 1969,20s,F,ENTP,"mood_boost, self_satisfaction","casual, romantic, lovely, vintage, modern, chic","white, blue, pink, coral","green, light_floral, woody"
 1970,20s,F,ENTJ,"mood_boost, self_satisfaction","minimal, simple, classic, suit",black,"fruity, aquatic, green"
 1971,30s,M,ESFJ,date_or_social,casual,"black, blue",casual
 1972,30s,M,ESTP,"good_impression, mood_boost, self_satisfaction","casual, vintage, freestyle","white, black, blue","citrus, floral, aquatic, fougere"
-1973,20s,F,ENTP,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event","casual, minimal, simple, classic, suit, romantic, lovely","white, black, beige, brown, blue, red, green, mint, yellow, orange","citrus, floral, white_floral, light_floral, musk, woody, casual"
+1973,20s,F,ENTP,"good_impression, mood_boost, self_satisfaction, date_or_social, special_event","casual, minimal, simple, classic, suit, romantic, lovely","white, black, beige, brown, blue, red, green, mint, yellow, orange","citrus, floral, light_floral, musk, woody, casual"
 1974,30s,F,ESTJ,"good_impression, self_satisfaction, unique_style","casual, romantic, lovely","white, black, blue","floral, casual"
 1975,30s,F,ENTP,"mood_boost, self_satisfaction, date_or_social",freestyle,"beige, brown, green, mint","oriental, musk, oriental, woody"
 1976,30s,F,ISTJ,"good_impression, mood_boost, self_satisfaction, unique_style","casual, minimal, simple, modern, chic, freestyle","white, black, beige, brown, pink, coral, yellow, orange","citrus, aquatic, green, light_floral, woody, aromatic, casual"
@@ -1992,11 +1992,11 @@
 1991,20s,F,ISTP,"mood_boost, self_satisfaction","casual, minimal, simple","blue, green, mint","aquatic, woody"
 1992,30s,M,ISTP,"good_impression, formal_occasion","classic, suit","black, beige, brown","aquatic, musk, casual"
 1993,20s,F,ENTP,"good_impression, self_satisfaction","casual, minimal, simple","black, blue, green, mint","floral, aquatic, aromatic"
-1994,30s,F,ENTJ,"mood_boost, date_or_social, formal_occasion","casual, minimal, simple, modern, chic","white, black, beige, brown, yellow, orange","citrus, floral, white_floral, green, light_floral, musk, woody"
+1994,30s,F,ENTJ,"mood_boost, date_or_social, formal_occasion","casual, minimal, simple, modern, chic","white, black, beige, brown, yellow, orange","citrus, floral, green, light_floral, musk, woody"
 1995,30s,F,ISFP,"good_impression, date_or_social","casual, classic, suit","white, black","floral, green, light_floral, aromatic"
 1996,20s,F,ESTJ,"mood_boost, self_satisfaction","casual, minimal, simple","black, blue","citrus, woody"
 1997,20s,F,ISFJ,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple, freestyle","white, black","fruity, aquatic, green, woody, casual"
-1998,30s,F,INTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style","casual, minimal, simple, classic, suit, modern, chic, freestyle","white, black, blue, red, green, mint","white_floral, aquatic, musk, fougere, oriental, woody"
+1998,30s,F,INTP,"good_impression, mood_boost, self_satisfaction, date_or_social, formal_occasion, unique_style","casual, minimal, simple, classic, suit, modern, chic, freestyle","white, black, blue, red, green, mint","aquatic, musk, fougere, oriental, woody"
 1999,30s,M,INTJ,"good_impression, self_satisfaction, formal_occasion","casual, minimal, simple","white, black, beige, brown, green, mint","fruity, aquatic, fougere, woody, aromatic"
 2000,20s,F,ENFP,"good_impression, mood_boost, self_satisfaction","casual, minimal, simple","white, black, beige, brown, blue","citrus, fruity, aquatic, green"
 2001,30s,F,ISTJ,"mood_boost, self_satisfaction","casual, minimal, simple","white, beige, brown, blue","citrus, light_floral, musk, casual"
