@@ -86,3 +86,29 @@ perf_demo/
 
   └── README.md
 
+## Scope of this repository 
+This repository contains the model experimentation and development stage of the recommendation system.
+
+The following components are not included in this repository:
+
+1. production kiosk application
+2. user interface and interaction logic
+3. hardware integration with digital scent devices
+4. deployment pipelines
+
+Those components were developed separately as part of the full system integration
+
+## Limitations 
+Several limitations were identified during experimentation:
+
+1. limited dataset size during early-stage service development
+2. noisy and subjective survey-based preference signals
+3. imbalanced distribution of fragrance note preferences
+4. potential distribution shifts as new user data is collected
+
+These issues highlight the challenges of deploying recommendation systems in real-world environments where data quality and quantity evolve over time.
+
+## Author 
+Jihong Yi
+B.S. Electronics Engineering
+Chungnam National University
