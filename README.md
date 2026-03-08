@@ -1,7 +1,7 @@
 
-# 향수 추천 시스템 (Perfume Recommendation System)
+# AI-based Perfume Recommendation Service: Perfuming 
 
-🧠 설문 기반 사용자 맞춤 향수 추천 시스템
+🧠 설문 기반 사용자 프로필과 향조 정보를 바탕으로, 여러 추천 모델 비교 및 초기 개인화 향수 추천 파이프라인 실험용 Repository 
 📂 사용 모델: AutoEncoder, Factorization Machine, Neural FM, DeepFM
 
 ## 🧠 사용한 모델
