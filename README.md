@@ -1,19 +1,49 @@
 
 # AI-based Perfume Recommendation Service: Perfuming 
 
-🧠 설문 기반 사용자 프로필과 향조 정보를 바탕으로, 여러 추천 모델 비교 및 초기 개인화 향수 추천 파이프라인 실험용 Repository 
-📂 사용 모델: AutoEncoder, Factorization Machine, Neural FM, DeepFM
+This repository contains experimental implementations of several recommendation models explored during the development of an AI-based personalized perfume recommendation system. The experiments focus on modeling user preference from structured profile data and survey responses, with particular attention to the practical challenges of real-world recommendation systems such as limited data, class imbalance, and noisy user feedback.
 
-## 🧠 사용한 모델
+These experiments were conducted as part of the early-stage development of a personalized fragrance recommendation service later deployed in a kiosk-based interactive system.
 
-| 모델 | 설명 | 평가 |
-|-------------------------------|----------------------------------------------------------------|----------------------------------------|
-|          AutoEncoder          | 사용자 특성 → latent 벡터로 압축 후 복원, 향조 유사도 기반 추천 | 콘텐츠 기반 추천, 다양한 향조 추천 가능 |
-|   Factorization Machine (FM)  |              사용자와 향조의 이차 상호작용 모델링               |         성능 우수 (Accuracy ↑)         |
-|        Neural FM (NFM)        |                    FM의 이차항을 MLP에 입력                    |    향조 다양성 다소 부족 (조정 필요)    |
-|            DeepFM             |              FM + DNN (고차원 임베딩 레이어)                   |                    -                   |
+## Motivation 
+Personalized recommendation systems often rely on large-scale interaction data. However, in real-world deployment scenarios—especially for emerging services—initial datasets are typically small, noisy, and highly imbalanced.
 
-## 📁 프로젝트 구조
+During the development of an AI-based perfume recommendation platform, we encountered several practical challenges:
+
+Limited user interaction data during early-stage service deployment
+
+Noisy and subjective survey responses
+
+Imbalanced preference distributions across fragrance notes
+
+Difficulty maintaining stable prediction performance under evolving user behavior
+
+This repository was created to experiment with different recommendation models and analyze their behavior under such constraints before integrating them into a production system.
+
+## Problem Setting 
+The goal of this project is to model user fragrance preferences based on structured user profiles and survey-derived features.
+
+## Output Target
+The models aim to predict user preference for fragrance components (notes) or provide personalized perfume recommendations based on the learned feature interactions.
+
+## Models Explored 
+Several recommendation models were implemented and compared to understand how different architectures handle sparse and structured user feature data.
+
+1. AutoEncoder (AE)
+A neural network–based collaborative filtering approach used as a baseline for reconstructing user preference representations.
+
+2. Factorization Machine (FM)
+A model designed to capture pairwise feature interactions efficiently in sparse feature spaces.
+
+3. Neural Factorization Machine (NFM)
+An extension of FM that uses neural networks to model non-linear feature interactions.
+
+4. DeepFM
+A hybrid architecture that combines the strengths of factorization machines and deep neural networks, enabling both low-order and high-order feature interaction learning.
+
+DeepFM was selected as the primary model due to its ability to simultaneously model explicit feature interactions and deeper non-linear relationships within structured user profiles.
+
+## Repository Sturcture 
 perf_demo/
 
 ├── AE/
