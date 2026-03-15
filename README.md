@@ -43,7 +43,7 @@ A hybrid architecture that combines the strengths of factorization machines and 
 
 DeepFM was selected as the primary model due to its ability to simultaneously model explicit feature interactions and deeper non-linear relationships within structured user profiles.
 
-## Repository Structure 
+## Repository Sturcture 
 perf_demo/
 
 ├── AE/
